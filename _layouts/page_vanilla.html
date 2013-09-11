@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    {% include navigation.html %}
+    
+    <header>
+      {% include feature_image_style.html %}
+    </header>
+    
+    <div class="container">
+    <!-- Feature image -->
+    <div id="myCarousel" class="carousel slide">
+      <div class="carousel-inner">
+        <div class="item active">
+          <img src="/img/{{ page.image.feature }}">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>{{ page.title }}</h1>
+            </div> <!-- carousel-caption -->
+          </div> <!-- item active -->
+        </div>
+      </div>
+    </div>
+    <!-- ENDFeature image -->
+    
+    
+      <div class="row">
+        <div class="span12">
+          <div>
+            {{ content }}
+          </div> <!-- well -->
+        </div> <!-- span12 -->
+      </div> <!-- row -->	 
+    </div><!-- /container -->
+    {% include footer.html %}
+    {% include scripts.html %}
+  </body>
+</html>
