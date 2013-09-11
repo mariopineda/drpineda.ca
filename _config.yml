@@ -14,12 +14,10 @@ owner:
   email:          mpineda@ualberta.ca
   
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        "mpkanalytics"
+  twitter:        "therocsci"
   facebook:       "mpkanalytics"
   github:         "mpkanalytics"
-  linkedin:       "mpkanalytics"
-  # instagram:      "mmistakes"
-  # tumblr:         "mademistakes"
+
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    "https://plus.google.com/100929512605522684422"
 
@@ -28,20 +26,6 @@ google_analytics:   UA-2011187-2
 google_verify:      UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:        D81F4C18A6CB3018F64D7C827D953DFD   
-
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: R Consulting
-    url: /consulting
-  - title: R Solutions
-    url: /solutions
-  - title: About Us
-    url: /about
-  - title: Blog
-    url: /blog
-  - title: Contact Us
-    url: /contact    
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Edmonton
