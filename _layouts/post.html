@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <script src="/assets/js/bootstrap.min.js"></script>
+    {% include navigation.html %}
+    
+    <header>
+      <div class="container">
+        <img src="/img/{{ page.image.feature }}">
+      </div>
+    </header>
+     
+    <div class="container">
+      <div class="row">
+        <div class="span8">
+          <h1>{{ page.title }}</h1>
+          <hr>
+          <div>
+            <p>
+            <small>
+            <em>
+              Published on {{ page.date | date: "%B %d, %Y" }}; 
+              <a href="/{{ page.url }}#disqus_thread"></a>; 
+              <a href="/{{ page.url }}" rel="bookmark" title="{{ page.title }}">Permalink</a><br>
+              Category:
+              {% for category in page.category %} 
+                <a href="/category/#{{ category | cgi_encode }}" title="Page categories {{ category }}" rel="category">{{ category }}</a>
+                {% unless forloop.last %} 
+                  &bull; 
+                {% endunless %}
+              {% endfor %}
+            </em>
+            </small>
+            </p>
+          </div>
+            
+          <div class="entry-content">
+            <div class="lead">
+              {{ content }}
+            </div> <!-- lead -->
+            {% include signature.html %}
+            {% if site.disqus_shortname and page.comments %}{% include comments.html %}<!-- /#disqus_thread -->{% endif %}
+          </div><!-- /.entry-content -->
+          
+          <nav class="pagination" role="navigation">
+            {% if page.previous %}
+              <a href="{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous article</a>
+            {% endif %}
+            {% if page.next %}
+              <a href="{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next article</a>
+            {% endif %}
+          </nav><!-- /.pagination -->
+        </div> <!-- span8 -->
+
+        <div class="span4">
+          {% include recent_blog_posts.html %}
+          <div>
+            <h1>Recent Tweets</h1>
+            <hr>
+            <a class="twitter-timeline" href="https://twitter.com/MPKAnalytics" data-widget-id="357598832068030464" data-chrome="noheader nofooter noborders transparent">Tweets by @MPKAnalytics</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+          </div> <!-- well -->
+        </div> <!-- row -->
+      </div><!-- /container -->
+      </div>
+      {% include footer.html %}
+      {% include scripts.html %}
+    </body>
+</html>
+

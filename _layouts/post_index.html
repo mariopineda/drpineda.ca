@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <script src="/assets/js/bootstrap.min.js"></script>
+    {% include navigation.html %}
+    
+    <header>
+      {% include feature_image_style.html %}
+    </header>
+     
+    <div class="container">
+    
+    <!-- Feature image -->
+    <div id="myCarousel" class="carousel slide">
+     <div class="carousel-inner">
+       <div class="item active">
+         <img src="/img/featured/floor.jpg">
+         <div class="container">
+           <div class="carousel-caption">
+             <h1>{{ page.title }}</h1>
+           </div> <!-- carousel-caption -->
+         </div> <!-- item active -->
+       </div>
+     </div>
+   </div>
+   <!-- END Feature image -->
+    
+      <div class="row">
+        <div class="span8">
+          <div>
+            {{ content }}
+          </div>
+            
+            {% for post in site.posts %}  
+            <div>
+              <article>
+                <h3><a href="{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h3>
+                <div class="muted">
+                  <p><small><em>Published on {{ post.date | date: "%B %d, %Y" }}; <a href="/{{ post.url }}#disqus_thread"></a></em></small></p>
+                </div> <!-- muted -->
+                <div class="lead">
+                    {{ post.description }}
+                </div>
+              </article>
+              </div> <!-- well -->
+            {% endfor %}
+          
+        </div> <!-- span8 -->
+
+        <div class="span4">
+          <div>
+            <h1>About this blog</h1>
+            <hr>
+            <div class="lead">
+              {% include about_blog.html %}
+            </div> <!-- lead -->
+          </div>           
+
+          <div>
+            <h1>Syndicated at</h1>
+            <hr>
+            <img src="/img/r-bloggers.jpg">
+          </div>
+            
+        </div> <!-- span4 -->
+      </div> <!-- row -->
+    </div><!-- /container -->
+    {% include footer.html %}
+    {% include scripts.html %}
+  </body>
+</html>
+

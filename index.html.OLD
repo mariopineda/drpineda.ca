@@ -1,0 +1,93 @@
+---
+layout: landing_page
+title: Home
+description: "Transforming Data Into Insights Through the Power of R "
+tags: [R]
+---
+<div class="row">
+  <div class="span8">
+    <div>
+      <p>
+MPK Analytics is an Edmonton-based company specializing in data analytics and developing programming solutions in R, a state-of-the-art open-source programming language and software environment for statistical computing and graphics. Our expertise and focus lies in harnessing the flexibility, versatility and power of R to transform data into insights and developing turn-key programming solutions to clients in a wide range of industries.</p>
+    </div> 
+  </div> <!-- span8 -->
+  
+  <div class="span4">
+    <div>
+      <div style="text-align: left;">
+        {% include social_media.html %}
+        <div style="height:15px"></div>
+        {% include newsletter_signup.html %}
+      </div> <!-- text-align: center -->
+    </div> <!-- well -->
+  </div> <!-- span4 -->
+</div> <!-- row -->
+
+<div class="row">
+  <div class="span4">
+    <div class="well">
+      <div style="text-align: center;">
+        <img src="/img/map-icon.png">
+        <div style="height:15px"></div>
+        <h1>R Consulting</h1>
+        <div style="height:15px"></div>
+        <div>
+          We can help you understand and gain insight into your data using state-of-the art analytics. 
+        </div>
+        <div style="height:15px"></div>
+        <a class="btn" href="/consulting/">Find out more</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="span4">
+    <div class="well">
+      <div style="text-align: center;">
+        <img src="/img/gear-icon.png">
+        <div style="height:15px"></div>
+        <h1>R Solutions</h1>
+        <div style="height:15px"></div>
+        <div>
+          We can help you develop, deploy and maintain effective analytics solutions in R.
+        </div>
+        <div style="height:15px"></div>
+        <a class="btn" href="/solutions/">Find out more</a>
+      </div>
+    </div>
+  </div>
+    
+  <div class="span4">
+    <div class="well">
+      <div style="text-align: center;">
+        <img src="/img/radio-icon.png">
+        <div style="height:15px"></div>
+        <h1>Contact Us</h1>
+        <div style="height:15px"></div>
+        <div>
+          Contact us to find out how we can lab take your next analytics project to the next level 
+        </div>
+        <div style="height:15px"></div>
+        <a class="btn" href="/contact/">Contact Us</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="span6">
+    {% include recent_blog_posts.html %}
+  </div> <!-- span6 -->
+
+  <div class="span6">
+    <div>
+      <h1>Recent Tweets</h1>
+      <hr>
+      <div style="height:15px"></div>
+      <a class="twitter-timeline" href="https://twitter.com/MPKAnalytics" data-widget-id="357598832068030464" data-chrome="noheader nofooter noborders transparent">Tweets by @MPKAnalytics</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+      </script>
+        <div style="height:15px"></div>
+  <a class="btn" href="https://twitter.com/MPKAnalytics">Go to @MPKAnalytics</a>
+    </div> <!-- well -->
+  </div> <!-- span6 -->
+  </div>
