@@ -3,9 +3,11 @@ description:      May the curiosity be with you
 logo:             site-logo.png
 disqus_shortname: drpineda
 
-#Comment out url when working locally to resolve base urls correctly
-url:               http://mariopineda.github.io/drpineda.ca
-#url:
+# use this url when working off GitHub
+#url:               http://mariopineda.github.io/drpineda.ca
+
+# Use this url when working locally
+url:               .
 
 # Owner/author information
 owner:
