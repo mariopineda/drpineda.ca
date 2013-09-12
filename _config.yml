@@ -4,7 +4,7 @@ logo:             site-logo.png
 disqus_shortname: drpineda
 
 #Comment out url when working locally to resolve base urls correctly
-url:               www.mariopineda.github.io/drpineda.ca
+url:               mariopineda.github.io/drpineda.ca
 #url:
 
 # Owner/author information
