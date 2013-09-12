@@ -16,13 +16,13 @@ use WWW::Crawler::Lite;
 ###########################################################
 
 my %pages = ();
-my $pattern = 'http://mpkanalytics.com';
+my $pattern = 'http://drpineda.ca';
 my %links = ();
 my $downloaded = 0;
 my $MAX_DOWN = 1000;
-my $date = "2013-08-08";
+my $date = "2013-09-12";
 my $output = "sitemap.xml";
-my $path = "http://mpkanalytics.com/";
+my $path = "http://drpineda.cam/";
 
 ###########################################################
 # MAIN
