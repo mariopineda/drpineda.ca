@@ -22,7 +22,7 @@ my $downloaded = 0;
 my $MAX_DOWN = 1000;
 my $date = "2013-09-12";
 my $output = "sitemap.xml";
-my $path = "http://drpineda.cam/";
+my $path = "http://drpineda.ca/";
 
 ###########################################################
 # MAIN
