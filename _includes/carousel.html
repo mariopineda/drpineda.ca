@@ -1,5 +1,13 @@
 <!--  Carousel - consult the Twitter Bootstrap docs at http://twitter.github.com/bootstrap/javascript.html#carousel -->
 <div id="this-carousel-id" class="carousel slide"><!-- class of slide for animation -->
+
+<!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+      </ol>
+
   <div class="carousel-inner">
     <div class="item active"><!-- class of active since it's the first item -->
       <img src="{{ site.url }}/img/trex.png" alt="" />
