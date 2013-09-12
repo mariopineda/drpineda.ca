@@ -2,3 +2,10 @@
     background-color: #3E68B2 !important;
     border-color: #3E68B2 !important;
 }
+
+.carousel-control {
+  position: absolute;
+  top: 40%;
+  opacity: 0.3;
+  filter: alpha(opacity=30);
+}
