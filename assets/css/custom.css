@@ -5,9 +5,11 @@
 
 .carousel-control {
   position: absolute;
-  top: 0%;
+  top: 20%;
   opacity: 0.3;
+  font-size: 120px;
   filter: alpha(opacity=30);
+  z-index: 10;
 }
 
 .carousel-caption {
@@ -31,4 +33,16 @@
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
   z-index: 10;
+}
+
+.carousel-indicators {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  z-index: 15;
+  width: 60%;
+  padding-left: 0;
+  margin-left: -10%;
+  text-align: right;
+  list-style: none;
 }
