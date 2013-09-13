@@ -12,37 +12,4 @@
   z-index: 10;
 }
 
-.carousel-caption {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  padding: 0px 0px 0px;
-  background: #000000;
-  opacity: .75;
-}
 
-.carousel-caption h1,
-.carousel-caption .lead {
-  margin: 0;
-  line-height: 1.25;
-  color: #000000;
-  text-shadow: 0 0px 0px rgba(0,0,0,0);
-}
-
-/* Since positioning the image, we need to help out the caption */
-.carousel-caption {
-  z-index: 10;
-}
-
-.carousel-indicators {
-  position: absolute;
-  bottom: 10px;
-  left: 50%;
-  z-index: 15;
-  width: 60%;
-  padding-left: 0;
-  margin-left: -10%;
-  text-align: right;
-  list-style: none;
-}
