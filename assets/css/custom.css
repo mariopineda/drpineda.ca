@@ -5,7 +5,7 @@
 
 .carousel-control {
   position: absolute;
-  top: 40%;
+  top: 0%;
   opacity: 0.3;
   filter: alpha(opacity=30);
 }
