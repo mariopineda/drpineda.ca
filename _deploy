@@ -10,7 +10,5 @@ echo "Committing..."
 git add . -A
 git commit -m "$1"
 
-./sitemap.pl
-
-git add sitemap.xml
-git commit -m "Updated sitemap"
+echo "Synching portfolio folder..."
+rsync -avz --exclude '*DS_Store' --delete portfolio mpineda@gpu.srv.ualberta.ca:~/public_html
