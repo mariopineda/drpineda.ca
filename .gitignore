@@ -1,3 +1,4 @@
 _site/
 .DS_Store
-portfolio_img/
+_portfolio/
+portfolio.html

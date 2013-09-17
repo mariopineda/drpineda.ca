@@ -15,7 +15,7 @@ echo "Build site..."
 jekyll build
 
 echo "Moving portfolio into place..."
-cp _site/portfolio/index.html portfolio/
+cp _site/portfolio/index.html _portfolio/
 
 echo "Synching portfolio folder..."
-rsync -avz --exclude '*DS_Store' --delete portfolio mpineda@gpu.srv.ualberta.ca:~/public_html
+rsync -avz --exclude '*DS_Store' --delete _portfolio/ mpineda@gpu.srv.ualberta.ca:~/public_html/portfolio
