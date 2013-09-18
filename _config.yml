@@ -4,11 +4,10 @@ logo:             site-logo.png
 disqus_shortname: drpineda
 
 # use this url when working off GitHub
-#url:               http://mariopineda.github.io/drpineda.ca
-#url:                http://www.drpineda.ca
+url:                http://www.drpineda.ca
 
 # Use this url when working locally
-url:               ~
+#url:               ~
 
 # Owner/author information
 owner:
