@@ -3,7 +3,7 @@ layout: post
 title: Teaching evolution in the face of misconceptions and disinformation
 description: 
 modified: 2013-02-12
-category: "University of Alberta", EDFX350, EDSE352, Evolution
+category: "University of Alberta" EDFX350 EDSE352 Evolution
 image:
   feature: 
 comments: true  
