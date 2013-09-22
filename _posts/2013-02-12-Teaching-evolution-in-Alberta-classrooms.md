@@ -33,21 +33,36 @@ Studies have consistently shown that students’ misconceptions about evolution 
 </ul>
 Because of the prevalence of misconceptions and deeply held non-scientific beliefs many students have about evolution, teachers are likely to be confronted with challenging questions when teaching this concept. Research shows that when students are presented with new information that does not fit with what they already know or believe they are most likely to reject the new information (Sewell, 2002). Examples of teaching strategies allowing teachers to improve students’ understanding of evolution include, e.g. allowing students to evaluate their understanding of evolution from the perspective of the historical development of evolutionary thought, specifically in the context of the shift from Lamarckian to Darwinian evolutionary theories (Jensen &amp; Finlay, 1996). This activity fits into the specific outcome 20-B2.3k in Biology 20. Another strategy that has been shown to be successful in increasing students’ understanding of evolution is the constructivism approach of the 5Es (Engage, Explore, Explain, Elaborate, Evaluate) (Burton &amp; Dobson, 2009). An example of this approach is the hands-on modeling exercises sporks and beans that addresses many misconception regarding evolution using a simple and fun inquiry-based activity involving an evolving population of spoons, forks and sporks under resource limitations (Burton &amp; Dobson 2009). This activity dovetails with several specific outcomes in Biology 20, Unit B: Ecosystems and Population Change, e.g. Specific Outcome for Knowledge 20-B2.1k, Specific Outcome for Skills 20-B2.2s, 20-B2.3s, 20-B2.4s  (<a href="http://education.alberta.ca/media/654841/bio203007.pdf">Alberta Education, 2007</a>). This activity also illustrates NoS by incorporating record keeping, hypothesis testing, replication and analysis results (<a href="http://education.alberta.ca/media/654841/bio203007.pdf">STS 20-B2.1sts, Alberta Education, 2007</a>).
 
-<h1>Bibliography</h1>
+<h2>Bibliography</h2>
 Alberta Education. (2007). <i>Programs of Study, Science</i>. Retrieved January 27, 2013, from Alberta Education: <a href="http://education.alberta.ca/media/654841/bio203007.pdf">http://education.alberta.ca/media/654841/bio203007.pdf</a>
+
 Alters, B. J., &amp; Nelson, C. E. (2002). <i>Perspective: Teaching Evolution in Higher Education</i>. Evolution, 56 (10), 1891-1901.
+
 Angus Reid Public Opinion. (2012). <i>Britons and Canadians More Likely to Endorse Evolution than Americans</i>. Angus Reid Public Opinion. New York: Angus Reid Public Opinion.
+
 Bishop, B. A., &amp; Anderson, C. W. (1990). <i>Student conceptions of natural selection and its role in evolution</i>. Journal of Research in Science Teaching, 27 (5), 415-427.
+
 Brumby, M. N. (1984). <i>Misconceptions about the concept of natural selection by medical biology students</i>. Science Education, 68 (4), 492-503.
+
 Burton, S. A., &amp; Dobson, C. (2009). <i>Spork &amp; Bean: Addressing Evolutionary Misconceptions</i>. The American Biology Teacher, 71 (2), 89-91.
+
 Christensen, J. (1998). <i>Teachers Fight for Darwin's Place in U.S.</i> <i>Classrooms</i>. The New York Times, November 14 issue.
+
 Dawkins, R. (2009). <i>Evolution is Only a Theory.</i> Retrieved January 27, 2013 from YouTube: <a href="http://youtu.be/mLeztJkhi4U">http://youtu.be/mLeztJkhi4U</a>
+
 Dobzhansky, T. (1973). <i>Nothing in Biology Makes Sense Except in the Light of Evolution.</i> The American Biology Teacher, 35, 125-129.
+
 Greene, E.D. Jr. (1990). <i>The Logic of University Students’ Misunderstanding of Natural Selection</i>. Journal of Research in Science Teaching 27(9): 875-885.
+
 Guy, D. et al. (2001). <i>ScienceFocus 7</i>. McGraw-Hill Ryerson, Ontario.
+
 Jensen, M.S., &amp; Finley, F.N. (1996). <i>Changes in Students’ Understanding of Evolution Resulting from Different Curricular and Instructional Strategies</i>. Journal of Research in Science Teaching 33 (8), 879-900.
+
 Lindberg et al. (2002). <i>ScienceFocus 9</i>. McGraw-Hill Ryerson, Ontario.
+
 Lord, T., &amp; Marino, S. (1993). <i>How university students view the theory of evolution.</i> Journal of College Science Teaching, 22 (6), 353-357.
+
 Ruthledge, M. L., &amp; Warden, M. A. (2000). <i>Evolutionary theory, the nature of science and high school biology teachers: Critical relationships</i>. The American Biology Teacher, 62 (1), 23-31.
+
 Sewell, A. (2002). <i>Constructivism and Student Misconceptions: What Every Teacher Needs to Know About Them</i>. Australian Science Teachers’ Journal, 48 (4), 24-28.
 
