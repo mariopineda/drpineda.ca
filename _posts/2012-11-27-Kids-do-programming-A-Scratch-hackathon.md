@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kids (can) do programming: A Scratch hackathon
+title: Kids (can) do programming - A Scratch hackathon
 description: 
 modified: 2012-11-27
 category: Programming
