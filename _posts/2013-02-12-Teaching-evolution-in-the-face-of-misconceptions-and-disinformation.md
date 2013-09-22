@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Teaching evolution in the face of misconceptions and disinformation
+title: Teaching evolution in the face of misconception and disinformation
 description: 
 modified: 2013-02-12
-category: "University of Alberta" EDFX350 EDSE352 Evolution
+category: "University of Alberta"
 image:
   feature: 
 comments: true  
 ---
 Today Darwin is turning 204 years old and while many of us are celebrating his great achievements there is also a more somber side to this day. After Darwin published his theory of evolution almost 154 years ago it rapidly became the accepted scientific theory for explaining the origins of biological diversity. While evolutionary biologists still debate about the finer details of the evolutionary process there is no controversy whatsoever about the validity of the theory as a whole. Despite this, it remains controversial and plagued by misconceptions among the general public. This in itself is one important reason why we need to continue drawing attention to Darwin's birthday to promote science literacy and dispel misconceptions.
 
-[caption id="attachment_1291" align="alignnone" width="600"]<img class="size-full wp-image-1291" alt="The tree of life from the eyes of a 4 year old. It is never to early to start promoting science literacy. " src="http://therocketscientists.files.wordpress.com/2013/02/tree-of-life.jpg" width="600" height="450" /> The tree of life from the eyes of a 4 year old. It is never to early to start promoting science literacy.[/caption]
+<img class="size-full wp-image-1291" alt="The tree of life from the eyes of a 4 year old. It is never to early to start promoting science literacy. " src="http://therocketscientists.files.wordpress.com/2013/02/tree-of-life.jpg" width="600" height="450" /> The tree of life from the eyes of a 4 year old. It is never to early to start promoting science literacy.
 
 Scientific literacy starts in school (or preferably even earlier) and, unfortunately, so do <a href="http://therocketscientists.ca/2013/02/12/teaching-evolution-in-alberta-classrooms/">some misconceptions about evolutionary biology</a>. As a teacher, how do you teach natural selection and adaptation when even the text books <a href="http://therocketscientists.ca/2013/02/12/teaching-evolution-in-alberta-classrooms/">get it wrong sometimes</a> or purposefully <a href="http://ncse.com/rncse/19/5/oklahoma-textbook-committee-adopts-evolution-disclaimer">convey ambiguity and erroneous information</a>? Well, for one, as a teacher you do not need to use the textbook, or as my EDSE 352 instructor said, "The textbook is not the Program of Study!". My mentor teacher, Ms. H., embodied this idea last week when she decided to forgo using the chapter on astronomy in her grade 9 textbook because it was outdated (e.g. still classifying Pluto as a planet even though it was kicked out of the planetary club seven years ago) and had her students do a project on the topics covered in the unit. Obviously, <a href="http://therocketscientists.ca/2013/02/12/teaching-evolution-in-alberta-classrooms/">as my recent post clearly shows</a>, teachers have a need for resources on natural selection and evolution that are more carefully vetted than run-of-the-mill textbooks.
 
