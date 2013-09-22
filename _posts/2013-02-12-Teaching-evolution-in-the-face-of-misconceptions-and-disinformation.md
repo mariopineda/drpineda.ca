@@ -3,7 +3,7 @@ layout: post
 title: Teaching evolution in the face of misconception and disinformation
 description: 
 modified: 2013-02-12
-category: "University of Alberta" Evolution
+category: Evolution
 image:
   feature: 
 comments: true  
