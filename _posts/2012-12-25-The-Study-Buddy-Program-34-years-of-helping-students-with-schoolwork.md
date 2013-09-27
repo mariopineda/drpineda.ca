@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Study Buddy Program: 34 years of helping students with schoolwork
+title: The Study Buddy Program - 34 years of helping students with schoolwork
 description: 
 modified: 2012-12-25
 category: "University of Alberta"
