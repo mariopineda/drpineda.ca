@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    {% include navigation.html %}
+	<div class="container">
+	  <div class="container">
+        <div class="page-header" id="banner">
+          <div class="row">
+            <div class="col-lg-6">
+              <h1>{{ page.title }}</h1>
+            </div>
+          <div class="col-lg-6" style="padding: 0px 25px 15px 25px;">
+        </div>
+      </div>
+      	
+      <div class="container bs-docs-container">
+        <div class="row">
+          <div class="col-md-4">
+            <div class="bs-sidebar hidden-print well" role="complementary">
+              <ul class="nav bs-sidenav">
+                <ul>
+                  <li><a href="#Resume">Resume<a></li>
+                  <ul>
+                    <li><a href="#Education">Education</a></li>
+                    <li><a href="#WorkExperience">Work Experience</a></li>
+                    <li><a href="#Volunteering">Volunteering</a></li>
+                    <li><a href="#LicensesCertificates">Licenses & Certificates</a></li>
+                    <li><a href="#Languages">Languages</a></li>
+                    <li><a href="#References">References</a></li>
+                  </ul>
+                  <li><a href="#Portfolio">Portfolio</a></li>
+                  <ul>
+                    <li><a href="#IPT">IPT</a></li>
+                    <li><a href="#APT">APT</a></li>
+                    <li><a href="#Artifacts">Artifacts</a></li>
+                    <ul>
+                      <li><a href="#Education">Education</a></li>
+                      <li><a href="#Outreach">Science Outreach</a></li>
+                      <li><a href="#ScienceFairs">Science Fairs</a></li>
+                      <li><a href="#ProfessionalDevelopment">Professional Development</a></li>
+                      <li><a href="#StudentWork">Student Work</a></li>
+                      <li><a href="#Miscellaneous">Miscellaneous</a></li>
+                    </ul>
+                  </ul>
+                </ul>
+
+            </ul>
+          </div>
+        </div>
+        <div class="col-md-8" role="main">
+          {{ content }}
+        </div>
+      </div>
+    </div><!-- /container -->
+    {% include footer.html %}
+    {% include scripts.html %}
+  </body>
+</html>
+
+    
