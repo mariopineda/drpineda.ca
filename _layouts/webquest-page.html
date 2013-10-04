@@ -43,13 +43,47 @@
               <!-- Collect the nav links, forms, and other content for toggling -->
               <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav">
-                  <li class="active"><a href="/WebQuest/">Introduction</a></li>
-                  <li><a href="/WebQuest/task.html">Task</a></li>
-                  <li><a href="/WebQuest/assessment.html">Assessment</a></li>
-                  <li><a href="/WebQuest/evaluation.html">Evaluation</a></li>
-                  <li><a href="/WebQuest/conclusion.html">Conclusion</a></li>
-                  <li><a href="/WebQuest/resources.html">Resources</a></li>
-                  <li><a href="/WebQuest/teacher.html">Teacher Page</a></li>
+                  {% if page.title == "Introduction" %}                
+                    <li class="active"><a href="/WebQuest/">Introduction</a></li>
+                  {% else %}
+                    <li><a href="/WebQuest/">Introduction</a></li>
+                  {% endif %}
+                    
+                  {% if page.title == "Task" %}  
+                    <li class="active"><a href="/WebQuest/task.html">Task</a></li>
+                  {% else %}
+                    <li><a href="/WebQuest/task.html">Task</a></li>
+                  {% endif %}
+                  
+                  {% if page.title == "Assessment" %}
+                    <li class="active"><a href="/WebQuest/assessment.html">Assessment</a></li>
+                  {% else %}
+                    <li><a href="/WebQuest/assessment.html">Assessment</a></li>
+                  {% endif %}
+                    
+                  {% if page.title == "Evaluation" %}  
+                    <li class="active"><a href="/WebQuest/evaluation.html">Evaluation</a></li>
+                  {% else %}
+                     <li><a href="/WebQuest/evaluation.html">Evaluation</a></li>
+                  {% endif %}
+                  
+                  {% if page.title == "Conclusion" %}  
+                    <li class="active"><a href="/WebQuest/conclusion.html">Conclusion</a></li>
+                  {% else %}
+                    <li><a href="/WebQuest/conclusion.html">Conclusion</a></li>
+                  {% endif %}
+                  
+                  {% if page.title == "Student Resources" %}
+                    <li class="active"><a href="/WebQuest/resources.html">Student Resources</a></li>
+                  {% else %}
+                    <li><a href="/WebQuest/resources.html">Student Resources</a></li>
+                  {% endif %}
+                    
+                  {% if page.title == "Teacher Page" %}  
+                    <li class="active"><a href="/WebQuest/teacher.html">Teacher Page</a></li>
+                  {% else %}
+                    <li><a href="/WebQuest/teacher.html">Teacher Page</a></li>
+                  {% endif %}
                 </ul>
               </div><!-- /.navbar-collapse -->
             </nav>
