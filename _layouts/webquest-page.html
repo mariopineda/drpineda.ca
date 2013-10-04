@@ -2,6 +2,22 @@
 <html lang="en">
   <head>
     {% include head.html %}
+    
+    <style type="text/css">
+  #cover {
+   background-size: auto;
+   background-image: url({{ page.image.feature }});
+   margin-top: 0px;
+   margin-bottom: -30px;
+  }
+  
+  #cover h1 {
+   color: #fff;
+   background: rgba(0, 0, 0, 0.2);
+  }
+  
+  .navbar {border-radius: 0;}
+ </style>
   </head>
   <body>
     {% include navigation.html %}
@@ -9,33 +25,40 @@
 	  <div class="container">
         <div class="page-header" id="banner">
           <div class="row">
-            <div class="col-lg-6">
-              <h1>{{ page.title }}</h1>
-            </div>
-          <div class="col-lg-6" style="padding: 0px 25px 15px 25px;">
-        </div>
-      </div>	
-      <div class="box">
-        <div class="row-fluid">
-          <div class="col-md-2">
-            <ul class="nav nav-pills nav-stacked">
-              <li class="active"><a href="#">Introduction</a></li>
-              <li><a href="{{ site.url }}/WebQuest/task.html">Task</a></li>
-            <li><a href="{{ site.url }}/WebQuest/process.html">Process</a></li>
-  <li><a href="{{ site.url }}/WebQuest/evaluation.html">Evaluation</a></li>
-  <li><a href="{{ site.url }}/WebQuest/conclusion.html">Conclusion</a></li>
-  <li><a href="{{ site.url }}/WebQuest/resources.html">Resources</a></li>
-  <li><a href="{{ site.url }}/WebQuest/teacher.html">Teacher Page</a></li>
-</ul>
-</div>
-<div class="col-md-10">
+          <div id="cover">
+            <h1 class="text-center jumbotron">Saving the Kyoto Accord</h1>
+          </div>  
+            
+            <!-- WebQuest nav bar -->
+            <nav class="navbar navbar-default" role="navigation">
+              <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+              </div> <!-- navbar-header -->
 
-{{ content }}
-
-</div>
-</div>
-</div>  
-    </div><!-- /container -->
+              <!-- Collect the nav links, forms, and other content for toggling -->
+              <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav">
+                  <li class="active"><a href="/WebQuest/">Introduction</a></li>
+                  <li><a href="/WebQuest/task.html">Task</a></li>
+                  <li><a href="/WebQuest/assessment.html">Assessment</a></li>
+                  <li><a href="/WebQuest/evaluation.html">Evaluation</a></li>
+                  <li><a href="/WebQuest/conclusion.html">Conclusion</a></li>
+                  <li><a href="/WebQuest/resources.html">Resources</a></li>
+                  <li><a href="/WebQuest/teacher.html">Teacher Page</a></li>
+                </ul>
+              </div><!-- /.navbar-collapse -->
+            </nav>
+          </div> <!-- row -->
+        </div> <!-- page-header -->
+        <h1>{{ page.title }}</h1>
+        {{ content }}
+      </div> <!-- container -->
+    </div> <!-- container -->
     {% include footer.html %}
     {% include scripts.html %}
   </body>
