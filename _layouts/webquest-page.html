@@ -13,7 +13,8 @@
   
   #cover h1 {
    color: #fff;
-   background: rgba(0, 0, 0, 0.2);
+   background: rgba(0, 0, 0, .25);
+   font-size: 40pt;
   }
   
   .navbar {border-radius: 0;}
@@ -26,7 +27,7 @@
         <div class="page-header" id="banner">
           <div class="row">
           <div id="cover">
-            <h1 class="text-center jumbotron">Saving the Kyoto Accord</h1>
+            <h1 class="text-center jumbotron">Canada's Fall From Grace</h1>
           </div>  
             
             <!-- WebQuest nav bar -->
@@ -83,6 +84,12 @@
                     <li class="active"><a href="/WebQuest/teacher.html">Teacher Page</a></li>
                   {% else %}
                     <li><a href="/WebQuest/teacher.html">Teacher Page</a></li>
+                  {% endif %}
+                  
+                  {% if page.title == "About" %}  
+                    <li class="active"><a href="/WebQuest/about.html">About</a></li>
+                  {% else %}
+                    <li><a href="/WebQuest/about.html">About</a></li>
                   {% endif %}
                 </ul>
               </div><!-- /.navbar-collapse -->
