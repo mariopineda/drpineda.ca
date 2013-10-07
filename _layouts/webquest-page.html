@@ -44,10 +44,16 @@
               <!-- Collect the nav links, forms, and other content for toggling -->
               <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav">
-                  {% if page.title == "Introduction" %}                
-                    <li class="active"><a href="/WebQuest/">Introduction</a></li>
+                  {% if page.title == "Home" %}                
+                    <li class="active"><a href="/WebQuest/">Home</a></li>
                   {% else %}
-                    <li><a href="/WebQuest/">Introduction</a></li>
+                    <li><a href="/WebQuest/">Home</a></li>
+                  {% endif %}
+                  
+                  {% if page.title == "Introduction" %}                
+                    <li class="active"><a href="/WebQuest/introduction.html">Introduction</a></li>
+                  {% else %}
+                    <li><a href="/WebQuest/introduction.html">Introduction</a></li>
                   {% endif %}
                     
                   {% if page.title == "Task" %}  
