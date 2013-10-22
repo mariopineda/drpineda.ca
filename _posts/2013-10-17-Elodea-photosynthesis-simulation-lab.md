@@ -8,6 +8,7 @@ image:
   feature: 
 comments: true  
 ---
+<img src="/img/post_images/elodea.jpg">
 In this simulation lab you will be looking at the production of oxygen as a plant photosynthesizes. The rate of photosynthesis can investigated by placing Elodea, an aquatic plant commonly used in aquaria, in water with baking soda to provide carbon. The plant can then be exposed to various treatments. Oxygen is measured by counting the number of bubbles produced by the plant during a specific time interval. In this experiment you will investigate how four factors influence the rate of photosynthesis; carbon dioxide availability, light intensity, temperature and light color.
 
 You will be working in pairs using computers to run a simulation of photosynthesis using a virtual Elodea. 
