@@ -1,5 +1,4 @@
 ---
-date: 3013-12-20
 layout: post
 title: Reflections of a preservice teacher - APT week 1 
 description: 
