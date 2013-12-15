@@ -2,6 +2,7 @@ title:            Dr. Pineda's Classroom
 description:      May the curiosity be with you, always!
 logo:             site-logo.png
 disqus_shortname: drpineda
+future: false	
 
 # use this url when working off GitHub
 url:                http://www.drpineda.ca
