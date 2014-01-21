@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The nature of teaching numeracy in Alberta: 21st century vs. back to basics learning strategies
+title: The nature of teaching numeracy in Alberta 21st century vs. back to basics learning strategies
 description: 
 modified: 2014-01-21
 category: Education
