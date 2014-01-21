@@ -8,11 +8,11 @@ image:
   feature: 
 comments: true  
 ---
-<img src="/img/post_images/rubiks_cube_wide.jpg" width="100%">
-
 <p>
 <i>This post was published as an assignment in EDSE 338 in the Faculty of Education at the University of Alberta.</i>
 </p>
+
+<img src="/img/post_images/rubiks_cube_wide.jpg" width="100%">
 
 <p>
 The recent introduction of a new mathematics curriculum in Alberta has sparked a debate about how we are teaching mathematics in schools (CBC, 2014). In this debate the new mathematics curriculum, focusing on having students developing their own personal strategies for solving mathematical problems using 21st Century teaching methods, is pitted against some parents advocating a simplified curriculum focusing on basic mathematics skills such as rote memorization and repeated practice taught using traditional teaching methods. The parents’ main argument is that the new curriculum deemphasizes the learning of basic mathematical skills and puts too much emphasis on open-ended problem solving ending up confusing and demoralizing children (CBC, 2014). While it is easy to point out the differences in the two views it is also easy to overlook that they have more in common that what meets the eye. The cornerstone of both arguments is based on the insight that mathematical literacy, in particular quantitative skills, are important in a changing and increasingly quantitative society (Steen, 1999).
