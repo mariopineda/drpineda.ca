@@ -8,8 +8,10 @@ image:
   feature: 
 comments: true  
 ---
+<img src="/img/post_images/rubiks_cube_wide.jpg" width="100%">
+
 <p>
-<i>This post was published as an assignment in EDSE 338 in the faculty of Education at the University of Alberta.</i>
+<i>This post was published as an assignment in EDSE 338 in the Faculty of Education at the University of Alberta.</i>
 </p>
 
 <p>
