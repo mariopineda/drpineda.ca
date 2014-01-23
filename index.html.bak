@@ -2,17 +2,17 @@
 layout: landing_page
 title: "Dr. Pineda's Classroom"
 description: "May the curiosity be with you"
-tags:
+tags: 
 ---
 <div class="row">
   <div class="col-md-4"><h2>Teaching</h2>
-  I am currently a student in my last term of the B.Ed. After Degree program at the University of Alberta studying to become a high school science teacher. For more information see the <a href="{{ site.url }}/about/">About</a> page and my <a href="{{ site.url }}/portfolio_access/">teaching portfolio</a>.
+  I am currently a student in the B.Ed. After Degree program at the University of Alberta. My goal is to become a Secondary Education science teacher and, if all goes well, I am scheduled to graduate in April 2014. For more information see the <a href="{{ site.url }}/about/">About</a> page and my <a href="{{ site.url }}/portfolio_access/">teaching portfolio</a>.
   </div>
   <div class="col-md-4"><h2>Outreach</h2>
   I am involved in science and engineering outreach activities in various organization. For more information see <a href="{{ site.url }}/outreach/">Outreach</a> and my <a href="{{ site.url }}/portfolio_access/">teaching portfolio</a>.
   </div>
   <div class="col-md-4"><h2>Writing</h2>
-I write for <a href="http://therocketscientists.ca">The Rocket Scientists</a> blog, the <a href="http://beditionmagazine.com/?s=Mario+Pineda">BEdition Magazine</a>, the official Faculty of Education magazine at the University of Alberta, and on my <a href="{{ site.url }}/blog/">blog</a> on this site.
+I write for <a href="http://therocketscientists.ca">The Rocket Scientists</a> blog, the <a href="http://beditionmagazine.com/?s=Mario+Pineda">BEdition Magazine</a>, the official Faculty of Education magazine at the University of Alberta, and on my <a href="{{ site.url }}/blog/">blog</a> on this site. 
   </div>
 </div>
 
@@ -20,7 +20,7 @@ I write for <a href="http://therocketscientists.ca">The Rocket Scientists</a> bl
 <div class="col-md-6">
   {% include recent_blog_posts.html %}
 </div>
-
+  
   <div class="col-md-6">
     <div>
       <h2>I tweet at @therocsci</h2>
@@ -34,4 +34,4 @@ I write for <a href="http://therocketscientists.ca">The Rocket Scientists</a> bl
   <a class="btn" href="https://twitter.com/therocsci">Go to @therocsci</a>
     </div> <!-- well -->
   </div>
-  </div> 
+  </div>
