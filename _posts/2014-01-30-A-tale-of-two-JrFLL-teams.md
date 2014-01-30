@@ -16,7 +16,7 @@ Academy LEGO Ninjagos</a>. While the two teams were quite different, with the Al
 Championship at NAIT. 
 </p>
 
-</p>
+<p>
 In is interesting to note that these two teams were the only 
 Jr.FLL teams to participate in this year's championship and as far as I know were the only Jr.FLL teams in Edmonton participating in the 2013 challenge. I am hoping that <a href="http://www.firstalberta.org/">FIRST Alberta</a> will promote the Jr.FLL program in the future to improve its visibility and increase the number of community and school-based teams that participate in the program. 
 </p>
@@ -24,10 +24,10 @@ Jr.FLL teams to participate in this year's championship and as far as I know wer
 Here are some of the highlights from this year's challenge; I give you the visual story of the journeys of the Allendale LEGO Kids and the Progressive Academy LEGO Ninjagos Jr.FLL teams, culminating in their meeting and sharing their experiences at the Jr.FLL/FLL Championships at NAIT on January 18.
 
 
-<figure>
-    <img src='/img/post_images/JrFLL-2013-blueprint.jpg' alt='missing' />
-    <figcaption>The ideas of the Allendale LEGO Kids were summarized in a hand drawn blueprint for the model.</figcaption>
-</figure>
+<a style='text-decoration: none; color: orange;'>
+  <img src='/img/post_images/JrFLL-2013-blueprint.jpg' style='width: 140px'>
+  <div style='width: 130px; text-align: center;'>The ideas of the Allendale LEGO Kids were summarized in a hand drawn blueprint for the model.
+</a>
  
 <p>
 <div class="image">
