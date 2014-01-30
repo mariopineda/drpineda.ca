@@ -32,6 +32,12 @@
               {% include signature.html %}
               {% if site.disqus_shortname and page.comments %}{% include comments.html %}<!-- /#disqus_thread -->{% endif %}
             </div><!-- /class -->
+			
+			<!-- Side bar column -->
+			<div class="col-lg-3" style="padding: 0px 25px 15px 25px;">
+			  {% include recent_blog_posts.html %}
+			</div>
+			
 		  </div><!-- /row -->
           {% include footer.html %}
           {% include scripts.html %}
