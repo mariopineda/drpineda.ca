@@ -64,3 +64,14 @@
   text-align: right;
   list-style: none;
 }
+
+.img-frame-cap {
+    width:200px;
+    background:#ffffff;
+    padding:18px 18px 2px 18px;
+    border:1px solid #999999; 
+}
+	
+.caption {
+	text-align:center;margin-top:4px;font-size:12px; 
+}
