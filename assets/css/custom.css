@@ -65,13 +65,22 @@
   list-style: none;
 }
 
-figcaption {
-  padding: 5px;
-  font-family: 'Arial';
-  font-size: 1em;
-  font-weight: 700;
-  border: none;
-  background: transparent;
-  word-wrap:normal;
-  text-align: center;
+.floatright
+{
+    display: inline-block;
+    float: left;
+    position: relative;
 }
+
+img {
+background: #eee;
+}
+
+.caption
+{   
+    float: left;
+    display: inline-block;
+    position: absolute;
+    top: 100%;
+}
+
