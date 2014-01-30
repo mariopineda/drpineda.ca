@@ -79,7 +79,6 @@ background: #eee;
 .caption
 {   
     float: left;
-    display: inline-block;
     position: absolute;
     top: 100%;
 }
