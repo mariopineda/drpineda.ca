@@ -6,38 +6,36 @@
     <body>
       {% include navigation.html %}
       <div class="container">
-        <div class="container">
-          <div class="page-header" id="banner">
-            <div class="row">
-              <div class="col-lg-9">
-                <h2>{{ page.title }}</h2>
-              </div>
-              <div class="col-lg-9" style="padding: 0px 25px 15px 25px;">
-                <p>
-                  <small>
-                    <em>
-                      Published on {{ page.date | date: "%B %d, %Y" }};
-                      <a href="/{{ page.url }}#disqus_thread"></a>;
-                      <a href="/{{ page.url }}" rel="bookmark" title="{{ page.title }}"> Permalink</a><br>
-                      Category:
-                      {% for category in page.category %}
-                      <a href="/category/#{{ category | cgi_encode }}" title="Page categories {{ category }}" rel="category">{{ category }}</a>
-                      {% unless forloop.last %}
-                        &bull;
-                      {% endunless %}
-                      {% endfor %}
-                    </em>
-                  </small>
-                </p>	
-                {{ content }}
-                {% include signature.html %}
-                {% if site.disqus_shortname and page.comments %}{% include comments.html %}<!-- /#disqus_thread -->{% endif %}
-              </div><!-- /class -->
+        <div class="page-header" id="banner">
+          <div class="row">
+            <div class="col-lg-9">
+              <h2>{{ page.title }}</h2>
+            </div>
+            <div class="col-lg-9" style="padding: 0px 25px 15px 25px;">
+              <p>
+                <small>
+                  <em>
+                    Published on {{ page.date | date: "%B %d, %Y" }};
+                    <a href="/{{ page.url }}#disqus_thread"></a>;
+                    <a href="/{{ page.url }}" rel="bookmark" title="{{ page.title }}"> Permalink</a><br>
+                    Category:
+                    {% for category in page.category %}
+                    <a href="/category/#{{ category | cgi_encode }}" title="Page categories {{ category }}" rel="category">{{ category }}</a>
+                    {% unless forloop.last %}
+                      &bull;
+                    {% endunless %}
+                    {% endfor %}
+                  </em>
+                </small>
+              </p>	
+              {{ content }}
+              {% include signature.html %}
+              {% if site.disqus_shortname and page.comments %}{% include comments.html %}<!-- /#disqus_thread -->{% endif %}
+            </div><!-- /class -->
 		  </div><!-- /row -->
           {% include footer.html %}
           {% include scripts.html %}
 		</div><!-- /pageheader -->
 	  </div><!-- /container -->
-	</div><!-- /container -->
   </body>
 </html>
