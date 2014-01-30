@@ -24,21 +24,13 @@ Jr.FLL teams to participate in this year's championship and as far as I know wer
 Here are some of the highlights from this year's challenge; I give you the visual story of the journeys of the Allendale LEGO Kids and the Progressive Academy LEGO Ninjagos Jr.FLL teams, culminating in their meeting and sharing their experiences at the Jr.FLL/FLL Championships at NAIT on January 18.
   
 <div class="picture left"> 
-<img src="/img/post_images/JrFLL-2013-blueprint.jpg" alt="Google Logo" /> <br />The ideas of the Allendale LEGO Kids were summarized in a hand drawn blueprint for the model.</div>
+<img src="/img/post_images/JrFLL-2013-blueprint.jpg" /> <br />The ideas of the Allendale LEGO Kids were summarized in a hand drawn blueprint for the model.
+</div>
  
-<p>
-<div class="image">
-<img src="/img/post_images/JrFLL-2013-blueprint.jpg" class="img-thumbnails">
-<div style='width: 130px; text-align: center;'>The ideas of the Allendale LEGO Kids were summarized in a hand drawn blueprint for the model.</div>
+<div class="picture right"> 
+<img src="/img/post_images/JrFLL-2013-building.jpg" /> <br />The Allendale LEGO Kids hard at work having fun, collaborating and building LEGO prototypes of their ideas.
 </div>
-</p>
-
-<p>
-<div class="image">
-<img src="/img/post_images/JrFLL-2013-building.jpg">
-<div>The Allendale LEGO Kids hard at work having fun, collaborating and building LEGO prototypes of their ideas.</div>
-</div>
-</p>
+ 
 
 <p>
 <div class="image">
