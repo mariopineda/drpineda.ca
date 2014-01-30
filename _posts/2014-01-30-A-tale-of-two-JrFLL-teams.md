@@ -32,7 +32,7 @@ Here are some of the highlights from this year's challenge; I give you the visua
    
 <p>  
 <div class="floatright">
-  <img src="/img/post_images/JrFLL-2013-building.jpgg" width="333px" />
+  <img src="/img/post_images/JrFLL-2013-building.jpg" width="333px" />
   <span class="caption">The Allendale LEGO Kids hard at work having fun, collaborating and building LEGO prototypes of their ideas.</span>
 </div> 
 </p>     
