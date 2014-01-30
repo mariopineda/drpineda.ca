@@ -25,7 +25,8 @@ Here are some of the highlights from this year's challenge; I give you the visua
  
 <div class="img-frame-cap">
 <img src="/img/post_images/JrFLL-2013-blueprint.jpg" width="200" border="0" alt="image name">
-<div class="caption">The ideas of the Allendale LEGO Kids were summarized in a hand drawn blueprint for the model.</div>
+<div class="caption">
+The ideas of the Allendale LEGO Kids were summarized in a hand drawn blueprint for the model.
 </div>
 </div>
  
