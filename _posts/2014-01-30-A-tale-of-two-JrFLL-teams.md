@@ -25,7 +25,7 @@ Here are some of the highlights from this year's challenge; I give you the visua
 
 <p>
 <div class="image">
-<img src="/img/post_images/JrFLL-2013-blueprint.jpg" class="img-circle">
+<img src="/img/post_images/JrFLL-2013-blueprint.jpg" class="img-thumbnails">
 <div>The ideas of the Allendale LEGO Kids were summarized in their blue print for the model.</div>
 </div>
 </p>
