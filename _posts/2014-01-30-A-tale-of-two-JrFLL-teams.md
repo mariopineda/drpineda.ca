@@ -27,7 +27,7 @@ Here are some of the highlights from this year's challenge; I give you the visua
 <img src="/img/post_images/JrFLL-2013-blueprint.jpg" /> <br />The ideas of the Allendale LEGO Kids were summarized in a hand drawn blueprint for the model.
 </div>
  
-<div class="picture right"> 
+<div class="picture left"> 
 <img src="/img/post_images/JrFLL-2013-building.jpg" /> <br />The Allendale LEGO Kids hard at work having fun, collaborating and building LEGO prototypes of their ideas.
 </div>
  
