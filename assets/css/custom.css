@@ -67,19 +67,16 @@
 
 .floatright
 {
-    display: inline-block;
-    float: left;
+   float: left;
     position: relative;
-}
-
-img {
-background: #eee;
 }
 
 .caption
 {   
     float: left;
     position: absolute;
-    top: 100%;
+    top: 0%;
+    background: #eee;
 }
+
 
