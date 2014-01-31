@@ -25,36 +25,27 @@ Here are some of the highlights from this year's challenge; I give you the visua
   
 <div class="row">
   <div class="col-xs-6 col-xs-offset-3">
-     <figure>
+     <p>
+	 <figure>
 	 <img src="/img/post_images/JrFLL-2013-blueprint.jpg" width="100%">
 	 <figcaption>
 	 The ideas of the Allendale LEGO Kids were summarized in a hand drawn blueprint for the model.
 	 </figcaption>
 	 </figure>
+	 </p>
 	 
+	 <p>
 	 <figure>
-	 <img src="/img/post_images/JrFLL-2013-blueprint.jpg" width="333px" />
+	 <img src="/img/post_images/JrFLL-2013-building.jpg" width="100%">
 	 <figcaption>
-	 The ideas of the Allendale LEGO Kids were summarized in a hand drawn blueprint for the model.
+	 The Allendale LEGO Kids hard at work having fun, collaborating and building LEGO prototypes of their ideas.
 	 </figcaption>
 	 </figure>
+	 </p>
 	 
   </div>
 </div>
-  
-<div class="row">  
-<div class="floatright">
-  <img src="/img/post_images/JrFLL-2013-blueprint.jpg" width="333px" />
-  <span class="caption">The ideas of the Allendale LEGO Kids were summarized in a hand drawn blueprint for the model.</span>
-</div> 
-</div>   
-   
-<div class="row">  
-<div class="floatright">
-  <img src="/img/post_images/JrFLL-2013-building.jpg" width="333px" />
-  <span class="caption">The Allendale LEGO Kids hard at work having fun, collaborating and building LEGO prototypes of their ideas.</span>
-</div> 
-</div>     
+      
    
 <p>
 <div class="image">
