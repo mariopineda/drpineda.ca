@@ -8,7 +8,7 @@ image: rubikscube-feature.jpg
 comments: true  
 ---
 <p>
-<i>This post was published as an assignment in EDSE 338 in the Faculty of Education at the University of Alberta.</i>
+<i>This post was published as part of an assignment in EDSE 338 in the Faculty of Education at the University of Alberta.</i>
 </p>
 
 <p>

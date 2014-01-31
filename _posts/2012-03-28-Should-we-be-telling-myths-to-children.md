@@ -5,9 +5,12 @@ description:
 modified: 2012-03-28
 category: Education
 image:
-  feature: 
 comments: true  
 ---
+<p>
+<i>This post was published as part of an assignment in CLASS 108 in the Department of History and Classics at the University of Alberta.</i>
+</p>
+
 What is the sun? Who was the first person? How did everything begin? Throughout history people in all societies have invented stories to answer profound questions such as these. In ancient Greece the sun was believed do be driven across the firmament by the god Helius in a golden chariot. Among the Norse people of Scandinavia the god Odin created the first humans out of two tree trunks. In the Judea-Christian mythology the universe was brought into being by a god in the space of six days. What all these stories have in common is that they were all created by humans in an attempt to explain natural phenomena that at the time were beyond the reach of the society’s knowledge. Acknowledging myths as stories invented to explain aspects of the world around us that defy rational and evidence-based explanations creates a dilemma when it comes to disseminating the myth, in particular when the myth is presented as a truth to young children. Children learn about the natural world largely from adults they view as authorities, e.g. parents, extended family and teachers, and are limited in their ability to critically evaluate stories they are told and to discern truth from fiction. In light of this, should we be telling myths to children and if we do, how should they be told?
 
 Already Socrates, almost 2500 years ago, acknowledged that myths can be harmful, in particular when told to children that are more impressionable,
