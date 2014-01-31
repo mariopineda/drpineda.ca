@@ -24,7 +24,7 @@ Jr.FLL teams to participate in this year's championship and as far as I know wer
 Here are some of the highlights from this year's challenge; I give you the visual story of the journeys of the Allendale LEGO Kids and the Progressive Academy LEGO Ninjagos Jr.FLL teams, culminating in their meeting and sharing their experiences at the Jr.FLL/FLL Championships at NAIT on January 18.
   
 <div class="row">
-  <div class="col-xs-6 col-xs-offset-3">
+  <div class="col-xs-6 col-xs-offset-3 col-md-6 col-md-offset-3">
      <p>
 	 <figure>
 	 <img src="/img/post_images/JrFLL-2013-blueprint.jpg" width="100%">
@@ -43,62 +43,78 @@ Here are some of the highlights from this year's challenge; I give you the visua
 	 </figure>
 	 </p>
 	 
+	 <p>
+	 <figure>
+	 <img src="/img/post_images/JrFLL-2013-buss.jpg" width="100%">
+	 <figcaption>
+	 The Allendale LEGO Kids making a school buss.
+	 </figcaption>
+	 </figure>
+	 </p>
+	 
+	 <p>
+	 <figure>
+	 <img src="/img/post_images/JrFLL-2013-buss2.jpg" width="100%">
+	 <figcaption>
+	 The Progressive Academy LEGO Ninjagos making a school buss.
+	 </figcaption>
+	 </figure>
+	 </p>
+	 
+	 <p>
+	 <figure>
+	 <img src="/img/post_images/JrFLL-2013-finaltouch.jpg" width="100%">
+	 <figcaption>
+	 Putting the final touches to the model of the Allendale LEGO Kids.
+	 </figcaption>
+	 </figure>
+	 </p>
+	 
+	 <p>
+	 <figure>
+	 <img src="/img/post_images/JrFLL-2013-focus.jpg" width="100%">
+	 <figcaption>
+	 LEGO building requires concentration.
+	 </figcaption>
+	 </figure>
+	 </p>
+	 
+	 <p>
+	 <figure>
+	 <img src="/img/post_images/JrFLL-2013-marble.jpg" width="100%">
+	 <figcaption>
+	 The Allendale LEGO Kids practicing team work at the Jr.FLL/FLL Championships at NAIT.
+	 </figcaption>
+	 </figure>
+	 </p>
+	 
+	 <p>
+	 <figure>
+	 <img src="/img/post_images/JrFLL-2013-mayor.jpg" width="100%">
+	 <figcaption>
+	 Talking with Mayor Don Iveson. The mayor confirmed that he too loves LEGO. :-)
+	 </figcaption>
+	 </figure>
+	 </p>
+	 
+	 <p>
+	 <figure>
+	 <img src="/img/post_images/JrFLL-2013-NAIT.jpg" width="100%">
+	 <figcaption>
+	 The Allendale LEGO Kids (orange shirts) and the Progressive Academy LEGO Ninjagos (school uniforms) at the opening ceremonies of the 2013/14 Jr.FLL/FLL Championships at NAIT.
+	 </figcaption>
+	 </figure>
+	 </p>
+	 
+	 <p>
+	 <figure>
+	 <img src="/img/post_images/JrFLL-2013-sharing.jpg" width="100%">
+	 <figcaption>
+	 The Allendale LEGO Kids and the Progressive Academy LEGO Ninjagos sharing their models at the 2013/14 Jr.FLL/FLL Championships at NAIT.
+	 </figcaption>
+	 </figure>
+	 </p>
+	 
   </div>
 </div>
-      
-   
-<p>
-<div class="image">
-<img src="/img/post_images/JrFLL-2013-buss.jpg">
-<div>The Allendale LEGO Kids making a school buss.</div>
-</div>
-</p>
 
-<p>
-<div class="image">
-<img src="/img/post_images/JrFLL-2013-buss2.jpg">
-<div>The Progressive Academy LEGO Ninjagos making a school buss.</div>
-</div>
-</p>
-
-<p>
-<div class="image">
-<img src="/img/post_images/JrFLL-2013-finaltouch.jpg">
-<div>Putting the final touches to the model of the ALlendale LEGO Kids.</div>
-</div>
-</p>
-
-<p>
-<div class="image">
-<img src="/img/post_images/JrFLL-2013-focus.jpg">
-<div>LEGO building requires concentration.</div>
-</div>
-</p>
-
-<p>
-<div class="image">
-<img src="/img/post_images/JrFLL-2013-marble.jpg">
-<div>The Allendale LEGO Kids practicing team work at the Jr.FLL/FLL Championships at NAIT.</div>
-</div>
-</p>
-
-<p>
-<div class="image">
-<img src="/img/post_images/JrFLL-2013-mayor.jpg">
-<div>Talking with Mayor Don Iveson. The mayor confirmed that he too loves LEGO. :-)</div>
-</div>
-</p>
-
-<p>
-<div class="image">
-<img src="/img/post_images/JrFLL-2013-NAIT.jpg">
-<div>The Allendale LEGO Kids (orange shirts) and the Progressive Academy LEGO Ninjagos (school uniforms) at the opening ceremonies of the 2013/14 Jr.FLL/FLL Championships at NAIT.</div>
-</div>
-</p>
-
-<p>
-<div class="image">
-<img src="/img/post_images/JrFLL-2013-sharing.jpg">
-<div>The Allendale LEGO Kids and the Progressive Academy LEGO Ninjagos sharing their models at the 2013/14 Jr.FLL/FLL Championships at NAIT.</div>
-</div>
-</p>
