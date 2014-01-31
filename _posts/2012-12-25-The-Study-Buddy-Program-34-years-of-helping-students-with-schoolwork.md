@@ -4,13 +4,10 @@ title: The Study Buddy Program - 34 years of helping students with schoolwork
 description: 
 modified: 2012-12-25
 category: "University of Alberta"
-image:
-  feature: 
+image: feature-studybuddy.jpg
 comments: true  
 ---
 <i>This article appeared originally in BEdition on December 11, 2012</i> - <a href="http://beditionmagazine.com/the-study-buddy-program-34-years-of-helping-students-with-schoolwork/">Link</a>
-
-<img class="alignnone size-full wp-image-952" alt="studybuddy600" src="http://therocketscientists.files.wordpress.com/2012/12/studybuddy600.jpg" width="600" height="232" />
 
 by Mario Pineda
 
