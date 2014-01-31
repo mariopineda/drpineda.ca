@@ -4,8 +4,7 @@ title: The 2013 Jr.FLL Disaster Blaster season - A tale of two Jr.FLL teams
 description: 
 modified: 2014-01-30
 category: FIRST
-image:
-  feature: 
+image: jrfll2013-feature.png
 comments: true 
 --- 
 <p>
