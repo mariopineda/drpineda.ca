@@ -5,7 +5,6 @@ description:
 modified: 2013-02-12
 category: Evolution
 image:
-  feature: 
 comments: true  
 ---
 Happy <a href="http://darwinday.org">Darwin Day</a>! Today Charles Darwin is turning 204 years young. While many of us may be aware of the abysmal state of affairs of <a href="http://ncse.com/news/2013/02/years-antievolution-legislation-so-far-0014699">the teaching of the theory of evolution in classrooms in the U.S.</a> there is not much focus on the situation here in Canada. Here is a short writeup on the state of teaching evolution in Alberta high school classrooms. This essay is based on an assignment I wrote for my EDSE 352 class (Curriculum and Teaching for Secondary School Biological Sciences Majors I).
