@@ -108,7 +108,7 @@ Here are some of the highlights from this year's challenge. I give you the visua
 	 <figure>
 	 <img src="/img/post_images/JrFLL-2013-sharing.jpg" width="100%">
 	 <figcaption>
-	 The Allendale LEGO Kids and the Progressive Academy LEGO Ninjagos sharing their models at the 2013/14 Jr.FLL/FLL Championship at NAIT.
+	 The Allendale LEGO Kids and the Progressive Academy LEGO Ninjagos sharing their models at the 2013/14 Jr.FLL/FLL Championship at NAIT while having an early morning breakfast on the go.
 	 </figcaption>
 	 </figure>
 	 </p>
