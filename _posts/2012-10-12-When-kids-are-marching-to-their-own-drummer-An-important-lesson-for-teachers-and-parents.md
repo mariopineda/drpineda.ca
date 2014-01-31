@@ -1,11 +1,10 @@
 ---
 layout: post
-title: When kids are marching to their own drummer: An important lesson for teachers and parents
+title: When kids are marching to their own drummer - An important lesson for teachers and parents
 description: 
 modified: 2012-10-12
 category: Education
 image:
-  feature: 
 comments: true  
 ---
 It's that time of year again. The time of year when the greatest minds of our times<a href="http://www.nobelprize.org/nobel_prizes/lists/magic_call.html"> receive that magic phone ca</a><a href="http://www.nobelprize.org/nobel_prizes/lists/magic_call.html">ll in the middle of the night, during their dental appointment, or during some other awkward moment</a> with a person sounding like<a href="http://youtu.be/dC9SX06U8xo"> the guy from the IKEA commercial</a> on the other side. It's the beginning of October, which means  that it is <a href="http://www.nobelprize.org">Nobel Prize time</a>, people. As bona fide science aficionados with close ties to Sweden, the <a href="http://www.kungahuset.se/royalcourt/royalfamily.4.396160511584257f21800060.html">Swedish Royal family</a>, and the <a href="http://kva.se/en/">Royal Swedish Academy of Sciences</a> <em>The Rocket Scientists</em> are huge fans of the Nobel Prize hoopla.
