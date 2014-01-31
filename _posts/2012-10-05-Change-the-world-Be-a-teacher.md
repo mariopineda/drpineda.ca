@@ -5,7 +5,6 @@ description:
 modified: 2012-10-05
 category: Education
 image:
-  feature: 
 comments: true  
 ---
 <blockquote>“Do not underestimate the value of education. Educate those around you; family, friends, everyone.” - Craig Mello (Nobel laureate)</blockquote>
