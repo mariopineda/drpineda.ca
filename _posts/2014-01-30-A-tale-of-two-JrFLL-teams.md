@@ -17,10 +17,10 @@ Championship at NAIT.
 </p>
 
 <p>
-In is interesting to note that these two teams were the only Jr.FLL teams to participate in this year's championship and as far as I know were the only Jr.FLL teams in Edmonton participating in the 2013 challenge. One can only hope that <a href="http://www.firstalberta.org/">FIRST Alberta</a> will promote the Jr.FLL program in the future to improve its visibility and increase the number of community and school-based teams that participate in the program. 
+In is interesting to note that these two teams were the only Jr.FLL teams to participate in this year's championship and as far as I know were the only Jr.FLL teams in Edmonton participating in the 2013 challenge. One can only hope that <a href="http://www.firstalberta.org/">FIRST Alberta</a> will increase the promotion of the Jr.FLL program in the future to improve its visibility and increase the number of community and school-based teams participating in the program. 
 </p>
 
-Here are some of the highlights from this year's challenge; I give you the visual story of the journeys of the Allendale LEGO Kids and the Progressive Academy LEGO Ninjagos Jr.FLL teams, culminating in their meeting and sharing their experiences at the Jr.FLL/FLL Championships at NAIT on January 18.
+Here are some of the highlights from this year's challenge. I give you the visual story of the journeys of the Allendale LEGO Kids and the Progressive Academy LEGO Ninjagos Jr.FLL teams as they tackle the <a href="http://www.usfirst.org/node/2716">Disaster Blaster challenge</a>, culminating in their participation, meeting and sharing of their experiences at the Jr.FLL/FLL Championships at NAIT on January 18, 2014.
   
 <div class="row">
   <div class="col-xs-8 col-xs-offset-2 col-md-8 col-md-offset-2">
@@ -28,7 +28,7 @@ Here are some of the highlights from this year's challenge; I give you the visua
 	 <figure>
 	 <img src="/img/post_images/JrFLL-2013-blueprint.jpg" width="100%">
 	 <figcaption>
-	 The ideas of the Allendale LEGO Kids were summarized in a hand drawn blueprint for the model.
+	 The ideas of the Allendale LEGO Kids were summarized in a highly technical blueprint for the model.
 	 </figcaption>
 	 </figure>
 	 </p>
@@ -46,7 +46,7 @@ Here are some of the highlights from this year's challenge; I give you the visua
 	 <figure>
 	 <img src="/img/post_images/JrFLL-2013-buss.jpg" width="100%">
 	 <figcaption>
-	 The Allendale LEGO Kids making a school buss.
+	 The Allendale LEGO Kids making a school bus with many wheels.
 	 </figcaption>
 	 </figure>
 	 </p>
@@ -55,7 +55,7 @@ Here are some of the highlights from this year's challenge; I give you the visua
 	 <figure>
 	 <img src="/img/post_images/JrFLL-2013-buss2.jpg" width="100%">
 	 <figcaption>
-	 The Progressive Academy LEGO Ninjagos making a school buss.
+	 The Progressive Academy LEGO Ninjagos making a school bus with a stop sign.
 	 </figcaption>
 	 </figure>
 	 </p>
@@ -73,7 +73,7 @@ Here are some of the highlights from this year's challenge; I give you the visua
 	 <figure>
 	 <img src="/img/post_images/JrFLL-2013-focus.jpg" width="100%">
 	 <figcaption>
-	 LEGO building requires concentration.
+	 LEGO ninja in action engineering a complex component.
 	 </figcaption>
 	 </figure>
 	 </p>
@@ -82,7 +82,7 @@ Here are some of the highlights from this year's challenge; I give you the visua
 	 <figure>
 	 <img src="/img/post_images/JrFLL-2013-marble.jpg" width="100%">
 	 <figcaption>
-	 The Allendale LEGO Kids practicing team work at the Jr.FLL/FLL Championships at NAIT.
+	 The Allendale LEGO Kids practising team work and collaboration at the Jr.FLL/FLL Championship at NAIT.
 	 </figcaption>
 	 </figure>
 	 </p>
@@ -91,7 +91,7 @@ Here are some of the highlights from this year's challenge; I give you the visua
 	 <figure>
 	 <img src="/img/post_images/JrFLL-2013-mayor.jpg" width="100%">
 	 <figcaption>
-	 Talking with Mayor Don Iveson. The mayor confirmed that he too loves LEGO. :-)
+	 Talking with Mayor Don Iveson in the council chambers at City Hall. The mayor confirmed that he too loves LEGO. :-)
 	 </figcaption>
 	 </figure>
 	 </p>
@@ -100,7 +100,7 @@ Here are some of the highlights from this year's challenge; I give you the visua
 	 <figure>
 	 <img src="/img/post_images/JrFLL-2013-NAIT.jpg" width="100%">
 	 <figcaption>
-	 The Allendale LEGO Kids (orange shirts) and the Progressive Academy LEGO Ninjagos (school uniforms) at the opening ceremonies of the 2013/14 Jr.FLL/FLL Championships at NAIT.
+	 The Allendale LEGO Kids (orange) and the Progressive Academy LEGO Ninjagos (uniforms) at the opening ceremonies of the 2013/14 Jr.FLL/FLL Championship at NAIT.
 	 </figcaption>
 	 </figure>
 	 </p>
@@ -109,7 +109,7 @@ Here are some of the highlights from this year's challenge; I give you the visua
 	 <figure>
 	 <img src="/img/post_images/JrFLL-2013-sharing.jpg" width="100%">
 	 <figcaption>
-	 The Allendale LEGO Kids and the Progressive Academy LEGO Ninjagos sharing their models at the 2013/14 Jr.FLL/FLL Championships at NAIT.
+	 The Allendale LEGO Kids and the Progressive Academy LEGO Ninjagos sharing their models at the 2013/14 Jr.FLL/FLL Championship at NAIT.
 	 </figcaption>
 	 </figure>
 	 </p>
