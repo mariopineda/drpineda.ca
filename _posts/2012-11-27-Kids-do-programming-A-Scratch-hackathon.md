@@ -5,7 +5,6 @@ description:
 modified: 2012-11-27
 category: Programming
 image:
-  feature: 
 comments: true  
 ---
 Wikipedia <a href="http://en.wikipedia.org/wiki/Programming">defines computer programming</a> as:
@@ -27,8 +26,8 @@ In the end we had a lazy Sunday but the hackathon was certainly not lazy, instea
 <br>
 
 <div class="image">
-<a href="http://scratch.mit.edu/projects/TheRocketScientist/2936007"><img alt="Scratch Project" src="http://scratch.mit.edu/static/projects/TheRocketScientist/2936007_med.png" height="319" width="425" /></a> 
-<div>The classical arcade game Pong implemented by a 7 years (ok, ok, almost 8 years) young programmer in an afternoon. Best of all, no quarters are needed. Click on the image and take it for a spin. :-)</div>
+<iframe allowtransparency="true" width="485" height="402" src="http://scratch.mit.edu/projects/embed/2936007/?autostart=false" frameborder="0" allowfullscreen></iframe>
+<div>The classical arcade game Pong implemented by a 7 years (ok, ok, almost 8 years) young programmer in an afternoon. Best of all, no quarters are needed. Click on the image and take it for a spin. :-)  Up and down arrows control left player and 'w' and 's' controls right player. Yes, it is backwards on purpose to keep you on your toes (not because 7 year old got confused with left and right ;-) )</div>
 </div>
 <br>
 
