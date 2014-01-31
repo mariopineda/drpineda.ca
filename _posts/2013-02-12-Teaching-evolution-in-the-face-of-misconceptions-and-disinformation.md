@@ -5,7 +5,6 @@ description:
 modified: 2013-02-12
 category: Evolution
 image:
-  feature: 
 comments: true  
 ---
 Today Darwin is turning 204 years old and while many of us are celebrating his great achievements there is also a more somber side to this day. After Darwin published his theory of evolution almost 154 years ago it rapidly became the accepted scientific theory for explaining the origins of biological diversity. While evolutionary biologists still debate about the finer details of the evolutionary process there is no controversy whatsoever about the validity of the theory as a whole. Despite this, it remains controversial and plagued by misconceptions among the general public. This in itself is one important reason why we need to continue drawing attention to Darwin's birthday to promote science literacy and dispel misconceptions.
