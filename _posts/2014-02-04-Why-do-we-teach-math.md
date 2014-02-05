@@ -11,7 +11,7 @@ comments: true
   <div class="col-xs-8 col-xs-offset-2 col-md-8 col-md-offset-2">
      <p>
 	 <figure>
-	 <img src="/img/post_images/math.png" width="100%">
+	 <img src="/img/post_images/mathematics.png" width="100%">
 	 <figcaption>
 	 "Why do we teach math?" according to students in the Faculty of Ecucation studying to become math teachers. 
 	 </figcaption>
