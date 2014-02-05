@@ -7,6 +7,12 @@ category: FIRST
 image: jrfll2013-feature.png
 comments: true 
 --- 
+<div>
+\begin{equation}
+\alpha = \frac{\beta^2}{\pi}
+\end{equation}
+</div>
+
 <p>
 As January is coming to an end the 2013 Jr.FLL season is wrapping up. This 
 season I was fortunate to have the opportunity to coach two Jr.FLL teams; the 
