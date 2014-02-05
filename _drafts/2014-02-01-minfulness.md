@@ -8,7 +8,13 @@ image: jrfll2013-feature.png
 comments: true 
 --- 
 
-> "The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself." - Carl Sagan
+<div>
+\begin{equation}
+\alpha = \frac{\beta^2}{\pi}
+\end{equation}
+</div>
+
+"The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself." - Carl Sagan
 
 Everything in the universe is interconnected.
 
