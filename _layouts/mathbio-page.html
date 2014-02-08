@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+    
+    <style type="text/css">
+  #cover {
+   background-size: auto;
+   background-image: url({{ page.image.feature }});
+   margin-top: 0px;
+   margin-bottom: -30px;
+  }
+  
+  #cover h1 {
+   color: #fff;
+   background: rgba(0, 0, 0, .25);
+   font-size: 40pt;
+  }
+  
+  .navbar {border-radius: 0;}
+ </style>
+  </head>
+  <body>
+    {% include navigation.html %}
+	
+	  <div class="container">
+        <div class="page-header" id="banner">
+          <div class="row">
+          <div id="cover">
+            <h1 class="text-center jumbotron">O Canada — What Have You Done?</h1>
+          </div>  
+            
+            <!-- WebQuest nav bar -->
+            <nav class="navbar navbar-default" role="navigation">
+              <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+              </div> <!-- navbar-header -->
+
+              <!-- Collect the nav links, forms, and other content for toggling -->
+              <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav">
+                  
+                  {% if page.title == "Introduction" %}                
+                    <li class="active"><a href="/WebQuest/introduction.html">Introduction</a></li>
+                  {% else %}
+                    <li><a href="/WebQuest/introduction.html">Introduction</a></li>
+                  {% endif %}
+                    
+                  {% if page.title == "Task" %}  
+                    <li class="active"><a href="/WebQuest/task.html">Task</a></li>
+                  {% else %}
+                    <li><a href="/WebQuest/task.html">Task</a></li>
+                  {% endif %}
+                  
+                  {% if page.title == "Assessment" %}
+                    <li class="active"><a href="/WebQuest/process.html">Assessment</a></li>
+                  {% else %}
+                    <li><a href="/WebQuest/process.html">Process</a></li>
+                  {% endif %}
+                    
+                  {% if page.title == "Evaluation" %}  
+                    <li class="active"><a href="/WebQuest/evaluation.html">Evaluation</a></li>
+                  {% else %}
+                     <li><a href="/WebQuest/evaluation.html">Evaluation</a></li>
+                  {% endif %}
+                  
+                  {% if page.title == "Conclusion" %}  
+                    <li class="active"><a href="/WebQuest/conclusion.html">Conclusion</a></li>
+                  {% else %}
+                    <li><a href="/WebQuest/conclusion.html">Conclusion</a></li>
+                  {% endif %}
+                  
+                  {% if page.title == "Student Resources" %}
+                    <li class="active"><a href="/WebQuest/resources.html">Student Resources</a></li>
+                  {% else %}
+                    <li><a href="/WebQuest/resources.html">Student Resources</a></li>
+                  {% endif %}
+                    
+                  {% if page.title == "Teacher Page" %}  
+                    <li class="active"><a href="/WebQuest/teacher.html">Teacher Page</a></li>
+                  {% else %}
+                    <li><a href="/WebQuest/teacher.html">Teacher Page</a></li>
+                  {% endif %}
+                  
+                  {% if page.title == "About" %}  
+                    <li class="active"><a href="/WebQuest/about.html">About</a></li>
+                  {% else %}
+                    <li><a href="/WebQuest/about.html">About</a></li>
+                  {% endif %}
+                </ul>
+              </div><!-- /.navbar-collapse -->
+            </nav>
+          </div> <!-- row -->
+        </div> <!-- page-header -->
+        <h1>{{ page.title }}</h1>
+        {{ content }}
+        {% include footer.html %}
+    {% include scripts.html %}
+      </div> <!-- container -->
+    
+  </body>
+</html>
+
