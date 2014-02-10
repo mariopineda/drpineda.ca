@@ -76,11 +76,17 @@
                   {% endif %}
 				  
                   {% if page.title == "Assessment" %}
-                    <li class="active"><a href="/WebQuest/process.html">Assessment</a></li>
+                    <li class="active"><a href="/resources/mathbio/process.html">Assessment</a></li>
                   {% else %}
-                    <li><a href="/WebQuest/process.html">Assessment</a></li>
+                    <li><a href="/resources/mathbio/process.html">Assessment</a></li>
                   {% endif %}
                     
+				  {% if page.title == "Lesson guide" %}
+                    <li class="active"><a href="/resources/mathbio/guide.html">Guide</a></li>
+                  {% else %}
+                    <li><a href="/resources/mathbio/guide.html">Guide</a></li>
+                  {% endif %}
+					
                   {% if page.title == "Resources" %}
                     <li class="active"><a href="/resources/mathbio/resources.html">Resources</a></li>
                   {% else %}
