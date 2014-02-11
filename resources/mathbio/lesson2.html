@@ -2,10 +2,82 @@
 layout: mathbio-page
 permalink: 
 title: Lesson 2
-description: Compartment models of infectious diseases
+description: Introduction to compartment models
 tags: 
 image:
   feature: /resources/mathbio/img/feature-mathbio.jpg
 ---
-<h1>Compartment models of infectious diseases</h1>
+<p><em>This lesson is a modified version of the lesson <a href="http://www.edpolicystudies.ualberta.ca/en/ResearchCentresInstitutesAndNetworks/CRYSTALAlberta/Projects/MathematicalModeling/~/media/edpolicystudies/Documents/ResearchCentresInstitutesAndNetworks/CRYSTAL%20Alberta/West%20Nile%20Virus%20Modules/Part_3_The_SIS_Model_of_Disease_Transmission.pdf">The SIS Model of Disease Transmission</a> developed by Gerda de Vries (University of Alberta) and John S. Macnab (Edmonton Public School Board).</em></p>
+
+<p>Before students can start working on developing their 
+This is the final step before the students can begin working on the their own models. What we would like to accomplish here is to show how a simple model of disease transmission can be developed from a basic understanding of the derivative, and show 
+how it relates to the logistic equation.</p>
+
+<p>Imagine a closed population, where individuals neither leave nor arrive and the birth and death rates are zero. This is, roughly, what a school might be like over the course of a single semester. Let \(N\) be the size of this population. Now suppose that one person in this population is infected with an infections non-fatal disease, such as a cold. We wish to describe the spread of the disease through the population. To do this, we divide the population into two groups, or compartments:
+<ul>
+<li>Susceptibles: These are the healthy individuals.</li>
+<li>Infectives: These are the people who currently carrying the disease and are capable of infecting the susceptibles.</li>
+</ul>
+</p>
+
+<p>Let \( S(t) \) be the number of susceptibles in the population at time \(t\) and \( I(t) \) be the number of infectives in the population at time \(t\). This model is called SIS because susceptibles become infectives then recover and become susceptibles again, \( S \rightarrow I \rightarrow S\). By our original assumption that the population is closed, we have \(~ N=S(t)+I(t) \).</p>
+
+<div class="panel panel-success">
+  <div class="panel-body">
+    Think about it!
+  </div>
+  <div class="panel-footer">
+    <ol>
+      <li> What can we say about the signs of S(t) and I(t)?</li>
+      <li> How would we interpret the signs of \( \frac{dS}{dt} \) and \( \frac{dI}{dt} \)?</li>
+    </ol>
+  </div>
+</div>
+
+<p>We can make a diagram of the changes in \(S\) and \(I\). The boxes represent variables 
+and the arrows show population changes as the product of variables and parameters.
+<img src="/resources/mathbio/img/sir.png">
+The diagram indicates that infectives recover at a constant per-capita rate of \( \gamma \), so that at any given time, the number of infectives that recover (and become susceptible again) is \( \gamma I \). To become infected, a susceptible must come into contact with an infective. By the fundamental counting principle, the number of interactions between \(S\) and \(I\) is proportional to their product, assuming that individuals are randomly interacting. So we get the number of infections at any given time given by \( \beta I S \). We call \( \beta \) the <em>infectivity of the disease</em>. 
+</p>
+
+<div class="panel panel-success">
+  <div class="panel-body">
+    Think about it!
+  </div>
+  <div class="panel-footer">Consider two diseases. One has \( \beta=0.1 \) and the other has \( \beta=0.05 \). In biological terms, what is the difference between the two diseases?</div>
+</div>
+
+<div class="panel panel-success">
+  <div class="panel-body">
+    Think about it! 
+  </div>
+  <div class="panel-footer">Suppose a drug is given to infectives so that they recover more quickly than they otherwise would. What effect would this have on \( \gamma \)?</div>
+</div>
+
+<p>Now, let’s translate the diagram into equations. \( \frac{dS}{dt} = - \beta I S + \gamma I \) because the rate of change of susceptibles is the per-capita rate of 
+healing minus the per-capita rate of infection and \( \frac{dI}{dt} = \beta I S - \gamma I \) where we see that the rate of change of susceptibles is the negative of the rate of change of the infectives.</p>
+
+<h2>Answers to <em>Think about it</em> questions</h2>
+<div class="panel panel-success">
+  <div class="panel-body">
+    Think about it!
+  </div>
+  <div class="panel-footer">
+  <p>Consider two diseases. One has \( \beta=0.1 \) and the other has \( \beta=0.05 \). In biological terms, what is the difference between the two diseases?
+  </p>
+
+  <p>Answer: The disease with \( \beta=0.1 \) is more contagious</p>
+  </div>
+</div>
+
+<div class="panel panel-success">
+  <div class="panel-body">
+    Think about it! 
+  </div>
+  <div class="panel-footer">
+  <p>Suppose a drug is given to infectives so that they recover more quickly than they otherwise would. What effect would this have on \( \gamma \)?</p>
+  
+  <p>Answer: If \( \gamma \) is larger, then infectives that are recovering in greater numbers than the same sized pool would recover otherwise. It must be the case that they are recovering more quickly. Therefore, the drug increases the value of \( \gamma \).</p>
+  </div>
+</div>
 

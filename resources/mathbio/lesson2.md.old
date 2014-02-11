@@ -1,0 +1,23 @@
+---
+layout: mathbio-page
+permalink: 
+title: Lesson 2
+description: Introduction to compartment models
+tags: 
+image:
+  feature: /resources/mathbio/img/feature-mathbio.jpg
+---
+<p><em>This lesson is a modified version of the lesson <a href="http://www.edpolicystudies.ualberta.ca/en/ResearchCentresInstitutesAndNetworks/CRYSTALAlberta/Projects/MathematicalModeling/~/media/edpolicystudies/Documents/ResearchCentresInstitutesAndNetworks/CRYSTAL%20Alberta/West%20Nile%20Virus%20Modules/Part_3_The_SIS_Model_of_Disease_Transmission.pdf">The SIS Model of Disease Transmission</a> developed by Gerda de Vries (University of Alberta) and John S. Macnab (Edmonton Public School Board).</em></p>
+
+<p>Before students can start working on developing their 
+This is the final step before the students can begin working on the their own models. What we would like to accomplish here is to show how a simple model of disease transmission can be developed from a basic understanding of the derivative, and show 
+how it relates to the logistic equation.</p>
+
+<p>Imagine a closed population, where individuals neither leave nor arrive and the birth and death rates are zero. This is, roughly, what a school might be like over the course of a single semester. Let \(N\) be the size of this population.
+Now suppose that one person in this population is infected with an infections non- fatal disease, such as a cold. We wish to describe the spread of the disease through the population. To do this, we divide the population into two groups:
+Susceptibles: These are the healthy individuals.
+Infectives: These are the people who currently carrying the disease and are capable of infecting the susceptibles.
+Let S(t) be the number of susceptibles in the population at time t.
+Let I(t) be the number of infectives in the population at time t.
+The model is called SIS because susceptibles become infectives then recover and become susceptibles again.
+
