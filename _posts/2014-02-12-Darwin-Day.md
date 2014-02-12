@@ -7,7 +7,7 @@ category: Darwin
 image: darwin.jpg
 comments: true 
 --- 
-<p>Today is <a href="http://darwinday.org/">Darwin Day</a> marking the birthday of evolutionary biologist Charles Darwin. Over the years this day has evolved (unintentional pun) into a global celebration of science and reason held on or around Feb. 12. What would be a more fitting on this day than a musical tribute to one of the greatest scientists of all time.</p>
+<p>Today is <a href="http://darwinday.org/">Darwin Day</a>. This day marks the birthday of evolutionary biologist Charles Darwin. Over the years this day has evolved (unintentional pun) into a global celebration of science and reason held on or around Feb. 12. What would be a more fitting on this day than a musical tribute to one of the greatest scientists of all time.</p>
 
 <p>For the <a href="http://www.darwinsongproject.com/">Darwin Song Project</a> <a href="http://markerelli.com/">Mark Erelli</a> composed and performed a piece entitled <a href="http://markerelli.com/index.php?page=songs&amp;category=Little_Vigils_-oparen-2010-cparen-&amp;display=1172">Kingdom Come</a>. The song is haunting and if you pay close attention to the lyrics you may realize (or not) that it is as if Darwin himself was speaking (or singing if he was into that) using Mark Erelli's voice. I don't mean this metaphorically, but quite literally.</p>
 
