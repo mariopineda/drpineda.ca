@@ -67,7 +67,7 @@ Can the minds of men be trusted
 I cannot comprehend what makes you cling to Kingdom Come
 </blockquote>
 
-<p>This verse refers to <a href="http://pineda-krch.com/2011/02/12/darwin-day-happy-birthday-charley-boy-and-many-more/">the death Anne Elizabeth “Annie”</a> (1841–1851) Darwin's second child and first daughter, who was diagnosed with “<a href="http://www.aibs.org/bioscience-press-releases/resources/Berra.pdf">bilious fever with typhoid character</a>”. She died at the age of 10 from tuberculosis. The death of Anne was devastating and in <a href="http://www.darwinproject.ac.uk/death-of-anne-darwin">a memorial of his daughter Darwin wrote</a>:<p>
+<p>This verse refers to the death Anne Elizabeth “Annie” (1841–1851) Darwin's second child and first daughter, who was diagnosed with “<a href="http://www.aibs.org/bioscience-press-releases/resources/Berra.pdf">bilious fever with typhoid character</a>”. She died at the age of 10 from tuberculosis. The death of Anne was devastating and in <a href="http://www.darwinproject.ac.uk/death-of-anne-darwin">a memorial of his daughter Darwin wrote</a>:<p>
 
 <blockquote>
 We have lost the joy of the Household, and the solace of our old age:— she must have known how we loved her; oh that she could now know how deeply, how tenderly we do still &amp; shall ever love her dear joyous face. Blessings on her.—
@@ -104,5 +104,6 @@ Can the minds of men be trusted with such things as Kingdom Come
 At last gleams of light have come, &amp; I am almost convinced (quite contrary to opinion I started with) that species are not (it is like confessing a murder) immutable. Heaven forfend me from Lamarck nonsense of a “tendency to progression” “adaptations from the slow willing of animals” &amp;c,—but the conclusions I am led to are not widely different from his—though the means of change are wholly so— I think I have found out (here’s presumption!) the simple way by which species become exquisitely adapted to various ends.
 </blockquote>
 
-<p>And to round off, here is Mark Erelli's performance at the Shrewsbury Folk Festival where he performed this song as part of the Darwin Song Project.
-http://youtu.be/FE5fTV69ocw</p>
+<p>And to round off, here is Mark Erelli's performance at the Shrewsbury Folk Festival where he performed this song as part of the Darwin Song Project.</p>
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/FE5fTV69ocw" frameborder="0" allowfullscreen></iframe>
