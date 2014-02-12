@@ -7,21 +7,24 @@ category: Darwin
 image: darwin.jpg
 comments: true 
 --- 
+<p>Today is <a href="http://darwinday.org/">Darwin Day</a> marking the birthday of evolutionary biologist Charles Darwin. Over the years this day has evolved (unintentional pun) into a global celebration of science and reason held on or around Feb. 12. What would be a more fitting on this day than a musical tribute to one of the greatest scientists of all time.</p>
+
 <p>For the <a href="http://www.darwinsongproject.com/">Darwin Song Project</a> <a href="http://markerelli.com/">Mark Erelli</a> composed and performed a piece entitled <a href="http://markerelli.com/index.php?page=songs&amp;category=Little_Vigils_-oparen-2010-cparen-&amp;display=1172">Kingdom Come</a>. The song is haunting and if you pay close attention to the lyrics you may realize (or not) that it is as if Darwin himself was speaking (or singing if he was into that) using Mark Erelli's voice. I don't mean this metaphorically, but quite literally.</p>
 
 <p>Let me walk you through the lyrics, verse by verse.</p>
 
-<blockquote>The wasp she lays an egg
-'Neath a caterpillar's skin
-It hatches and the larva grows
-Feasting from within
-It kills the host then off it goes
-To sting another one
-Seems to me there's too much misery to believe in Kingdom Come
-
-Kingdom Come
-Kingdom Come
-Seems to me there's too much misery to believe in Kingdom Come
+<blockquote>
+The wasp she lays an egg<br>
+'Neath a caterpillar's skin<br>
+It hatches and the larva grows<br>
+Feasting from within<br>
+It kills the host then off it goes<br>
+To sting another one<br>
+Seems to me there's too much misery to believe in Kingdom Come<br>
+<br>
+Kingdom Come<br>
+Kingdom Come<br>
+Seems to me there's too much misery to believe in Kingdom Come<br>
 </blockquote>
 
 <p>This verse talks about the <a href="http://en.wikipedia.org/wiki/Ichneumonoidea">ichneumon wasps</a> where the female finds a host and lays an egg on, near, or inside the host's body. Upon hatching, the larval ichneumon feeds either externally or internally, killing the host when they themselves are ready to pupate. <a href="http://www.darwinproject.ac.uk/entry-2814">In a 1960 letter to the American botanist Asa Grey</a> (6 months after the publication of the first edition of the Origins of Species), Darwin expresses his concerns reconciling the habits of this species with the notion of a world created by a benevolent God.</p>
@@ -33,38 +36,38 @@ With respect to the theological view of the question; this is always painful to 
 <p>Lot's of quotable stuff here, including Mark Erelli's refrain.</p>
 
 <blockquote>
-I've a secret guaranteed
-To make the theologians squirm
-All it takes is time to make a man
-From the lowliest of worms
-We are not the pinnacle
-Nobody's chosen ones
-Can the minds of men be trusted with such things as Kingdom Come
-
-Kingdom Come
-Kingdom Come
-Can the minds of men be trusted with such things as Kingdom Come
+I've a secret guaranteed<br>
+To make the theologians squirm<br>
+All it takes is time to make a man<br>
+From the lowliest of worms<br>
+We are not the pinnacle<br>
+Nobody's chosen ones<br>
+Can the minds of men be trusted with such things as Kingdom Come<br>
+<br>
+Kingdom Come<br>
+Kingdom Come<br>
+Can the minds of men be trusted with such things as Kingdom Come<br>
 </blockquote>
 
 <p>Worms were near and dear to Darwin and his <em><a href="http://en.wikipedia.org/wiki/The_Formation_of_Vegetable_Mould_through_the_Action_of_Worms">The Formation of Vegetable Mould Through the Action of Worms</a></em> (aka <em>Worms</em>) was the result of extensive experiments carried out indoor in a worm-littered room. In his writings Darwin often referred to the worms as being low in biological organization.</p>
 
 <blockquote>
-Once I had a daughter
-She died before her time
-I sponged her fevered brow
-And cursed her bilious decline
-I feel her like a phantom limb
-Pins and needles numb
-Friend I cannot comprehend what makes you cling to Kingdom Come
-
-Kingdom Come
-Kingdom Come
-Friend I cannot comprehend what makes you cling to Kingdom Come
-Kingdom Come
-Kingdom Come
-Seems to me there's too much misery
-Can the minds of men be trusted
-I cannot comprehend what makes you cling to Kingdom Come
+Once I had a daughter<br>
+She died before her time<br>
+I sponged her fevered brow<br>
+And cursed her bilious decline<br>
+I feel her like a phantom limb<br>
+Pins and needles numb<br>
+Friend I cannot comprehend what makes you cling to Kingdom Come<br>
+<br>
+Kingdom Come<br>
+Kingdom Come<br>
+Friend I cannot comprehend what makes you cling to Kingdom Come<br>
+Kingdom Come<br>
+Kingdom Come<br>
+Seems to me there's too much misery<br>
+Can the minds of men be trusted<br>
+I cannot comprehend what makes you cling to Kingdom Come<br>
 </blockquote>
 
 <p>This verse refers to the death Anne Elizabeth “Annie” (1841–1851) Darwin's second child and first daughter, who was diagnosed with “<a href="http://www.aibs.org/bioscience-press-releases/resources/Berra.pdf">bilious fever with typhoid character</a>”. She died at the age of 10 from tuberculosis. The death of Anne was devastating and in <a href="http://www.darwinproject.ac.uk/death-of-anne-darwin">a memorial of his daughter Darwin wrote</a>:<p>
@@ -76,26 +79,26 @@ We have lost the joy of the Household, and the solace of our old age:— she mus
 <p>Annie's death was likely a major contributing factor contributing to Darwin severing the ties with Christianity and the church.</p>
 
 <blockquote>
-I've known communion in conviction
-And the loneliness of doubt
-Does the master mark the sparrow's fall
-Or just let it all play out
-If only for your sake my love
-I wish I could succumb
-Bridge the void and join for eternity in your Kingdom Come
-
-Kingdom Come
-Kingdom Come
-Bridge the void and join for eternity in your Kingdom Come
-Kingdom Come
-Kingdom Come
-Bridge the void and join for eternity in your Kingdom Come
-Kingdom Come
-Kingdom Come
-Seems to me there's too much misery to believe in Kingdom Come
-Kingdom Come
-Kingdom Come
-Can the minds of men be trusted with such things as Kingdom Come
+I've known communion in conviction<br>
+And the loneliness of doubt<br>
+Does the master mark the sparrow's fall<br>
+Or just let it all play out<br>
+If only for your sake my love<br>
+I wish I could succumb<br>
+Bridge the void and join for eternity in your Kingdom <br>
+<br>
+Kingdom Come<br>
+Kingdom Come<br>
+Bridge the void and join for eternity in your Kingdom Come<br>
+Kingdom Come<br>
+Kingdom Come<br>
+Bridge the void and join for eternity in your Kingdom Come<br>
+Kingdom Come<br>
+Kingdom Come<br>
+Seems to me there's too much misery to believe in Kingdom Come<br>
+Kingdom Come<br>
+Kingdom Come<br>
+Can the minds of men be trusted with such things as Kingdom Come<br>
 </blockquote>
 
 <p>Darwin was troubled by the implications of his theory and, as a consequence, held off publishing it for many years. In <a href="http://www.darwinproject.ac.uk/entry-729">an 1844 letter to J.D. Hooker</a> (15 years before the publication of The Origin of Species), Darwin compares the realization of the immutability of species as to confessing a murder,<p>
