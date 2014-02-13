@@ -7,7 +7,7 @@ category: Mathematics
 image: feature-math.jpg
 comments: true 
 --- 
-<p>Mathematical thinking is not the same as doing mathematics, at least not in the context of how mathematics typically is taught in contemporary school systems and where the key to success is to think inside the box, rote memorization and the applications of algorithms to staged problems. In contrast, in mathematical thinking the focus is on thinking outside the box, understanding over memorization and to learn to think in a certain way to solve real problems, problems that can arise in our own life.</p>
+<p>Mathematical thinking is not the same as doing mathematics, at least not in the context of how mathematics typically is taught in contemporary school systems and where the key to success is to think inside the box, rote memorization and the applications of algorithms to staged problems (McGarvey, 2014). In contrast, in mathematical thinking the focus is on thinking outside the box, understanding over memorization and to learn to think in a certain way to solve real problems, problems that can arise in our own life.</p>
 
 <p>In most high school mathematics text books students are asked to solve highly stereotypical mathematical problems. One of the more common text book problem goes something like this:</p>
 
@@ -47,6 +47,7 @@ Occasionally somebody will ask me how to do well in a math class. After twenty s
 <h2>References</h2>
 <p>Kirkpatrick, J. 2010. The Strands of Mathematical Proficiency. In: Jeremy Kilpatrick, Jane Swafford, Bradford Findell (eds). Adding It Up:
 Helping Children Learn Mathematics. URL: <a href="http://www.nap.edu/catalog.php?record_id=9822">http://www.nap.edu/catalog.php?record_id=9822</a> (Accessed on February 12, 2014) </p>
+<p>McGarvey, L. 2014. URL: http://www.cbc.ca/player/Radio/Local+Shows/Alberta/Alberta+at+Noon/ID/2431634960/ (Accessed on February 12, 2014)</p> 
 <p>McLeod, S., 2013. Lev Vygotsky. URL: <a href="http://www.simplypsychology.org/vygotsky.html">http://www.simplypsychology.org/vygotsky.html</a> (Accessed on February 12, 2014)
 <p>Rogness, J., 2003. Excursions in mathematics. URL: http://www.math.umn.edu/~rogness/math1001/ (Accessed on February 12, 2014)</p>
 <p>Skemp, R.R., 2006. Relational understanding and instrumental understanding. Mathematics Teaching in the Middle School, 12(2):88-95.</p>
