@@ -4,7 +4,7 @@ title: Mathematical thinking is not a spectator sport
 description: 
 modified: 2014-02-13
 category: Mathematics
-image: feature-strands
+image: feature-math.jpeg
 comments: true 
 --- 
 <p>Mathematical thinking is not the same as doing mathematics, at least not in the context of how mathematics typically is presented in a school setting. In most modern day school systems mathematics is presented by having student solve highly stereotypical mathematical problems. A common text book problem in high school mathematics goes something like this:</p>
