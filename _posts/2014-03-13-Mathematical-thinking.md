@@ -7,7 +7,9 @@ category: Mathematics
 image: feature-math.jpg
 comments: true 
 --- 
-<p>Mathematical thinking is not the same as doing mathematics, at least not in the context of how mathematics typically is taught in contemporary school systems where the key to success is for students to think inside the box, rote memorization and the applications of algorithms to staged problems (McGarvey, 2014; Rogness, 2014). In contrast, in mathematical thinking the focus is on thinking outside the box, understanding over memorization and to learn to think in a certain way to solve real problems, problems that can arise the students' own lives.</p>
+<em>This post was published as part of an assignment in EDSE 338 in the Faculty of Education at the University of Alberta.</em>
+
+<p>Mathematical thinking is not the same as doing mathematics, at least not in the context of how mathematics typically is taught in contemporary school systems where the key to success is for students to think inside the box, rote memorization and the applications of algorithms to staged problems (McGarvey, 2014; Rogness, 2014). In contrast, in mathematical thinking the focus is on thinking outside the box, understanding over memorization and to learn to think in a certain way to solve real world problems arising in science, engineering, in our society and in the students' own lives.</p>
 
 <p>The focus on doing mathematics is clearly visible in text books where students are asked to solve highly stereotypical mathematical problems. One of the more common text book problem goes something like this:</p>
 
@@ -25,7 +27,7 @@ Farmer Bob has 210m of fencing to enclose his pig pen on all 4 sides. What dimen
 	 <figure>
 	 <img src="/img/post_images/zpd.jpg" width="100%">
 	 <figcaption>
-	 Development of mathematical thinking takes place when students are pushed beyond the boundaries of their comfort zone of <em>what is known</em> and confronted by <em>what is not known</em> in the Zone of Proximal Development (ZPD). This is where new instruction and new learning can take place. If new instructions, learning and skill sets are carefully chosen students have the opportunity to develop and deepen their mathematical thinking skills. 
+	 Development of mathematical thinking takes place when students are pushed beyond the boundaries of their comfort zone of <em>what is known</em> and confronted by <em>what is not known</em> in the Zone of Proximal Development (ZPD). This is where new instruction and new learning can take place. If new instructions, learning and skill sets are based on authentic and real problems, e.g. in science, engineering, society or from the students' own lives, students have the opportunity to develop and deepen their mathematical thinking skills. 
 	 </figcaption>
 	 </figure>
 	 </p>
