@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mathematical thinking is not a spectator sport \( x \neq y\)
+title: Mathematical thinking \( \neq \) doing mathematics
 description: 
 modified: 2014-02-13
 category: Mathematics
