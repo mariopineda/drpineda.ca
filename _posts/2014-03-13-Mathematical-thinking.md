@@ -19,9 +19,8 @@ Farmer Bob has 210m of fencing to enclose his pig pen on all 4 sides. What dimen
 
 <p>The levels of Bloom's taxonomy that are notably absent in these types of problems are evaluating, i.e. the student makes decisions based on in-depth reflections, criticism and assessment, and creating, i.e. the creation of new ideas and information using what has been previously learned. Ultimately mathematical thinking is about extending mathematics from simply doing mathematics by recalling and applying algorithms to generalizing concepts by evaluating and creating new mathematical solutions. This difference between the levels in Bloom's taxonomy that these types of stereotypical mathematical problems versus more open ended problem solving involve translates directly into the potential for students to develop mathematical thinking skills, or in Vygotsky's words "learning precedes development" (<a href="http://www.simplypsychology.org/vygotsky.html">McLeod, 2013</a>). In other words, in order to develop mathematical thinking skill students have to be pushed out of their comfort zone of what they know (e.g. how to solve stereotypical problems) into the <a href="http://en.wikipedia.org/wiki/Zone_of_proximal_development">Zone of Proximal Development</a> (ZPD) where problems are open ended requiring evaluating and creating skills. Encouraging students to work at higher levels of Bloom's taxonomy in their mathematics class will enable them to develop their mathematical thinking skills rather than just doing mathematics.</p>
 
-<p>
 <div class="row">
-  <div class="col-xs-12 col-md-12">
+  <div class="col-xs-10 col-xs-offset-1 col-md-10 col-md-offset-1">
      <p>
 	 <figure>
 	 <img src="/img/post_images/zpd.jpg" width="100%">
@@ -30,8 +29,8 @@ Farmer Bob has 210m of fencing to enclose his pig pen on all 4 sides. What dimen
 	 </figcaption>
 	 </figure>
 	 </p>
-</div>	 
-</p>
+  </div>	 
+</div>
 
 <p>In the example of Farmer Bob's pig pen one possible modification could be to ask the student to "provide the best solution for maximizing the area of the pig pen given the available amount of fencing without using any of the formulas on your formula sheet" (a circular pen would have the largest area and the quadratic formula obtained by the regular polygonal pig pen can be solved by factoring). This version of the problem would require students to go beyond the 'rules without reasons' applications of formulas (Skemp, 2006) requiring them to think beyond the topic of the text book chapter exploring background knowledge and thinking outside the box.</p>
 
