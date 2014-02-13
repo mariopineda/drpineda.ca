@@ -41,7 +41,7 @@ Occasionally somebody will ask me how to do well in a math class. After twenty s
 	 </p>
 </div>	 
  
-<h2>References<h2>
+<h2>References</h2>
 <p>Kirkpatrick, </p>
 <p>Rogness, J. 2003. Excursions in mathematics. URL: http://www.math.umn.edu/~rogness/math1001/ (Accessed on February 12, 2014)</p>
 <p>Skemp, R.R. 2006. Relational understanding and instrumental understanding. Mathematics Teaching in the Middle School, 12(2):88-95.</p>
