@@ -60,7 +60,7 @@ What is a mathematical model?<br>
 <blockquote>
 Occasionally somebody will ask me how to do well in a math class. After twenty some years of math classes, I can tell you that there is only one surefire method: do lots of math problems. This is why we assign homework; the only way to learn math is by doing math! If it makes you feel any better, I realize this isn't the most welcome advice in the world. Sometimes I don't follow it myself in my graduate courses. But it really is true. You can read something in a book and think you understand it, but you'll only know for sure if you work out some of the exercises. 
 </blockquote>
-While it initially may appear that Rogness is talking about <em>doing mathematics</em> it is important to realize that he is speaking as a professional mathematician that is teaching university level mathematics where the primary goal is to develop mathematical thinking skills, or in Keith Devlin's, a mathematics professor at Stanford <a href="https://www.youtube.com/watch?v=0xCRl54AjX0#t=120">words</a>,
+While it initially may appear that Rogness is talking about <em>doing mathematics</em> it is important to realize that he is speaking as a professional mathematician that is teaching university level mathematics where the primary goal is to develop mathematical thinking skills, or in Keith Devlin's, a mathematics professor at Stanford, <a href="https://www.youtube.com/watch?v=0xCRl54AjX0#t=120">words</a>,
 <blockquote>
 If we compare mathematics with the automotive world, school math corresponds to driving. In the automotive equivalent to university mathematics, in contrast, you learn how a car works, how to maintain and repair it and, if you pursue the subject far enough, how to design and build your own car.
 </blockquote>
