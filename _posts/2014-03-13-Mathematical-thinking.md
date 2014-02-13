@@ -7,7 +7,7 @@ category: Mathematics
 image: feature-math.jpg
 comments: true 
 --- 
-<p>Mathematical thinking is not the same as doing mathematics, at least not in the context of how mathematics typically is taught in contemporary school systems where the key to success is to think inside the box, rote memorization and the applications of algorithms to staged problems (McGarvey, 2014). In contrast, in mathematical thinking the focus is on going beyond the confines of the box and conceptual understanding to solve real problems, problems that can arise in the students' own lives.</p>
+<p>Mathematical thinking is not the same as doing mathematics, at least not in the context of how mathematics typically is taught in contemporary school systems where the key to success is for students to think inside the box, rote memorization and the applications of algorithms to staged problems (McGarvey, 2014; Rogness, 2014). In contrast, in mathematical thinking the focus is on thinking outside the box, understanding over memorization and to learn to think in a certain way to solve real problems, problems that can arise the students' own lives.</p>
 
 <p>The focus on doing mathematics is clearly visible in text books where students are asked to solve highly stereotypical mathematical problems. One of the more common text book problem goes something like this:</p>
 
