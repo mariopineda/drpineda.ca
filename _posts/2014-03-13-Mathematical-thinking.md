@@ -9,15 +9,27 @@ comments: true
 --- 
 <p>Mathematical thinking is not the same as doing mathematics, at least not in the context of how mathematics typically is taught in contemporary school systems and where the key to success is to think inside the box, rote memorization and the applications of algorithms to staged problems. In contrast, in mathematical thinking the focus is on thinking outside the box, understanding over memorization and to learn to think in a certain way to solve real problems, problems that can arise in our own life.</p>
 
-In most modern day school systems mathematics is presented by having student solve highly stereotypical mathematical problems. A common text book problem in high school mathematics goes something like this:</p>
+<p>In most high school mathematics text books students are asked to solve highly stereotypical mathematical problems. One of the more common text book problem goes something like this:</p>
 
 <blockquote>
 Farmer Bob has 210m of fencing to enclose his pig pen on all 4 sides. What dimensions should his pig pen be to enclose the largest possible area?
 </blockquote>
 
-<p>While this problem serves as a useful exercise for practising the construction and solving of quadratic equations it provides little opportunity for developing deeper mathematical thinking. The main limitations of this and similar types of problems is that students primarily rely on the lower levels of Bloom's taxonomy when working with these problems, e.g. identifying that the problem can be solved using quadratic functions and the recalling and the instrumental application of the quadratic formula (the remembering and application level in Bloom's taxonomy) (Skemp, 2006). Note that while in principle identifying quadratic functions as the mathematical concept required for this problem in principle requires a higher level in Bloom's taxonomy (the analysing level), the context of the problem, i.e. it is located in the chapter on quadratic functions in the text book, provides an obvious give away to students as to how they are expected to solve the problem, this way reducing the task to the analysing level.</p>
+<p>While this problem serves as a useful exercise for <em>doing math</em> by practising the formulation and solving of quadratic equations it provides little opportunity for developing mathematical thinking. The main limitations of this and similar types of problems is that students primarily rely on the lower levels of Bloom's taxonomy when working with these problems, e.g. identifying that the problem can be solved using quadratic functions and the recalling and the instrumental application of the quadratic formula (the remembering and application level in Bloom's taxonomy) (Skemp, 2006). It is interesting to note that while in principle identifying quadratic functions as one possible approach for solving this problem which would require a higher level in Bloom's taxonomy (i.e. the analysing level), the context of the problem, i.e. it is located in the chapter on quadratic functions in the text book, provides an obvious give away to students as to how they are expected to solve the problem reducing the task to the analysing level.</p>
 
-<p>The levels of Bloom's taxonomy that are notably absent in these types of problems are evaluating, i.e. the student makes decisions based on in-depth reflections, criticism and assessment, and creating, i.e. the creation of new ideas and information using what has been previously learned. Ultimately mathematical thinking is about extending mathematics from simply doing mathematics by recalling and applying algorithms to evaluating and creating new ideas using a conceptual understanding of mathematical concepts. This difference between the levels in Bloom's taxonomy that these types of stereotypical mathematical problems versus more open ended problem solving involve translates directly into the potential for students to develop mathematical thinking skills, or in the famous psychologist Vygotsky's words "learning precedes development, not the other way around". In other words, in order to develop mathematics thinking skill students have to be pushed out of their comfort zone of what they know (e.g. how to solve stereotypical problems) into the Zone of Proximal Development where problems are open ended requiring evaluating and creating skills. In other words, encouraging students to work at higher levels of Bloom's taxonomy in their mathematics class enable them to develop their mathematical thinking skills.</p>
+<p>The levels of Bloom's taxonomy that are notably absent in these types of problems are evaluating, i.e. the student makes decisions based on in-depth reflections, criticism and assessment, and creating, i.e. the creation of new ideas and information using what has been previously learned. Ultimately mathematical thinking is about extending mathematics from simply doing mathematics by recalling and applying algorithms to generalizing concepts by evaluating and creating new mathematical solutions. This difference between the levels in Bloom's taxonomy that these types of stereotypical mathematical problems versus more open ended problem solving involve translates directly into the potential for students to develop mathematical thinking skills, or in Vygotsky's words "learning precedes development" (<a href="http://www.simplypsychology.org/vygotsky.html">McLeod, 2013</a>). In other words, in order to develop mathematical thinking skill students have to be pushed out of their comfort zone of what they know (e.g. how to solve stereotypical problems) into the <a href="http://en.wikipedia.org/wiki/Zone_of_proximal_development">Zone of Proximal Development</a> (ZPD) where problems are open ended requiring evaluating and creating skills. Encouraging students to work at higher levels of Bloom's taxonomy in their mathematics class will enable them to develop their mathematical thinking skills rather than just doing mathematics.</p>
+
+<div class="row">
+  <div class="col-xs-10 col-xs-offset-1 col-md-10 col-md-offset-1">
+     <p>
+	 <figure>
+	 <img src="/img/post_images/zpd.jpg" width="100%">
+	 <figcaption>
+	 Development of mathematical thinking takes place when students are pushed beyond the boundaries of their comfort zone of what is known and confronted by what is not known in the Zone of Proximal Development (ZPD). This is where new instruction and new learning can take place. If new instructions, learning and skill sets are carefully chosen students have the opportunity to develop and deepen their mathematical thinking skills. 
+	 </figcaption>
+	 </figure>
+	 </p>
+</div>	 
 
 <p>In the example of Farmer Bob's pig pen one possible modification could be to ask the student to "provide the best solution for maximizing the area of the pig pen given the available amount of fencing without using any of the formulas on your formula sheet" (a circular pen would have the largest area and the quadratic formula obtained by the regular polygonal pig pen can be solved by factoring). This version of the problem would require students to go beyond the 'rules without reasons' applications of formulas (Skemp, 2006) requiring them to think beyond the topic of the text book chapter exploring background knowledge and thinking outside the box.</p>
 
@@ -31,19 +43,8 @@ Occasionally somebody will ask me how to do well in a math class. After twenty s
 </blockquote>
 </p>
  
-<div class="row">
-  <div class="col-xs-8 col-xs-offset-2 col-md-8 col-md-offset-2">
-     <p>
-	 <figure>
-	 <img src="/img/post_images/zpd.jpg" width="100%">
-	 <figcaption>
-	 Development of mathematical thinking takes place when students are pushed beyond the boundaries of their comfort zone of what is known and confronted by what is not known in the Zone of Proximal Development (ZPD). This is where new instruction and new learning can take place. If new instructions, learning and skill sets are carefully chosen students have the opportunity to develop and deepen their mathematical thinking skills. 
-	 </figcaption>
-	 </figure>
-	 </p>
-</div>	 
- 
 <h2>References</h2>
 <p>Kirkpatrick, </p>
-<p>Rogness, J. 2003. Excursions in mathematics. URL: http://www.math.umn.edu/~rogness/math1001/ (Accessed on February 12, 2014)</p>
-<p>Skemp, R.R. 2006. Relational understanding and instrumental understanding. Mathematics Teaching in the Middle School, 12(2):88-95.</p>
+<p>McLeod, S., 2013. Lev Vygotsky. URL: <a href="http://www.simplypsychology.org/vygotsky.html">http://www.simplypsychology.org/vygotsky.html</a> (Accessed on February 12, 2014)
+<p>Rogness, J., 2003. Excursions in mathematics. URL: http://www.math.umn.edu/~rogness/math1001/ (Accessed on February 12, 2014)</p>
+<p>Skemp, R.R., 2006. Relational understanding and instrumental understanding. Mathematics Teaching in the Middle School, 12(2):88-95.</p>
