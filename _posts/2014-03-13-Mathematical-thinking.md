@@ -7,7 +7,9 @@ category: Mathematics
 image: feature-math.jpg
 comments: true 
 --- 
-<p>Mathematical thinking is not the same as doing mathematics, at least not in the context of how mathematics typically is presented in a school setting. In most modern day school systems mathematics is presented by having student solve highly stereotypical mathematical problems. A common text book problem in high school mathematics goes something like this:</p>
+<p>Mathematical thinking is not the same as doing mathematics, at least not in the context of how mathematics typically is taught in contemporary school systems and where the key to success is to think inside the box, rote memorization and the applications of algorithms to staged problems. In contrast, in mathematical thinking the focus is on thinking outside the box, understanding over memorization and to learn to think in a certain way to solve real problems, problems that can arise in our own life.</p>
+
+In most modern day school systems mathematics is presented by having student solve highly stereotypical mathematical problems. A common text book problem in high school mathematics goes something like this:</p>
 
 <blockquote>
 Farmer Bob has 210m of fencing to enclose his pig pen on all 4 sides. What dimensions should his pig pen be to enclose the largest possible area?
