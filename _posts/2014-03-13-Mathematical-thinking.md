@@ -21,7 +21,7 @@ Farmer Bob has 210m of fencing to enclose his pig pen on all 4 sides. What dimen
 
 <p>
 <div class="row">
-  <div class="col-xs-10 col-xs-offset-1 col-md-10 col-md-offset-1">
+  <div class="col-xs-12 col-md-12">
      <p>
 	 <figure>
 	 <img src="/img/post_images/zpd.jpg" width="100%">
