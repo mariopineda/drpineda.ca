@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mathematical thinking is not a spectator sport 
+title: Mathematical thinking is not a spectator sport \( x \neq y\)
 description: 
 modified: 2014-02-13
 category: Mathematics
@@ -8,7 +8,7 @@ image: feature-math.jpg
 comments: true 
 --- 
 <p>Mathematical thinking is not the same as doing mathematics, at least not in the context of how mathematics typically is presented in a school setting. In most modern day school systems mathematics is presented by having student solve highly stereotypical mathematical problems. A common text book problem in high school mathematics goes something like this:</p>
-
+\( x \neq y\)
 <blockquote>
 Farmer Bob has 210m of fencing to enclose his pig pen on all 4 sides. What dimensions should his pig pen be to enclose the largest possible area?
 </blockquote>
