@@ -8,7 +8,7 @@ image: feature-math.jpg
 comments: true 
 --- 
 
-{% include image.html fn="uoarobotics1.jpg" %}
+{% include image.html fn="uoarobotics1.jpg" caption="Getting a demonstration of the state of the art robotics research." %}
 
 
 
