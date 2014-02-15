@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The nature of teaching numeracy in Alberta - 21st century vs. back to basics learning strategies
-description: 
+description: How do we teach numeracy in Alberta schools and how do we have to adapt our teaching methods for the 21st century?
 modified: 2014-01-21
 category: Education
 image: rubikscube-feature.jpg
