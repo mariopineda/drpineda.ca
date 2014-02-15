@@ -1,7 +1,7 @@
 ---
 layout: post
 title: From the lowliest of worm 
-description: 
+description: February 12 is Darwin Day which marking the birthday of Charles Darwin. This is not only an opportunity to celebrate the contributions of one of the greatest scientists of all times but it is also global celebration of science and reason.
 modified: 2014-02-12
 category: Darwin
 image: darwin.jpg
