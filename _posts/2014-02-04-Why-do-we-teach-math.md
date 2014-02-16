@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why do we teach math? 
+title: Dr. Pineda's Classroom: Why do we teach math? 
 description: Why do we teach math? What do students studying to become mathematics teachers think? 
 modified: 2014-02-04
 category: Math
