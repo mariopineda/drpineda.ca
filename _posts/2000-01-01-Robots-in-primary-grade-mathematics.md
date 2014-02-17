@@ -31,13 +31,13 @@ Incorporating robotics into the mathematics education of primary grades exposes 
 <dd>Robotics is particularly suitable for group work (as exemplified by the various FIRST robotics programs). By having students work in groups they will learn and express their understanding of mathematical concepts through communication with peers.</d>
 
 <dt>Connections</dt>
-<dd>Sawada's robot journeys provides students with connections tangible physical real-world representatios of mathematical operations and concepts. For example, the concept of addition and subtraction can be illustrated by asking students to reduce multistep programs to one line programs. For example, asking students to find a one-liner for the following program
-<code>
+<dd>Sawada's robot journeys provides students with connections tangible physical real-world representations of mathematical operations and concepts. For example, the concept of addition and subtraction can be illustrated by asking students to reduce multistep programs to one line programs. For example, asking students to find a one-liner for the following program
+<pre><code>
 2 steps forward
 3 steps forward
 </code>
 students would write 
-<code>
+<code></pre>
 5 steps forward
 </code>
 which corresponds to \(2 + 3 - 5\). The unique feature of using robots is that students can verify the answer, i.e. both journeys are the same.</dd>
