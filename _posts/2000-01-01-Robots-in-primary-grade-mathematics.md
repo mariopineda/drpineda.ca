@@ -32,24 +32,15 @@ Incorporating robotics into the mathematics education of primary grades exposes 
 
 <dt>Connections</dt>
 <dd>Sawada's robot journeys provides students with connections tangible physical real-world representations of mathematical operations and concepts. For example, the concept of addition and subtraction can be illustrated by asking students to reduce multistep programs to one line programs. For example, asking students to find a one-liner for the following program
-<code>
+<tt>
 2 steps forward<br>
 3 steps forward<br>
-</code>
+</tt>
 students would write 
-<pre><code>
+<code>
 5 steps forward
-</code></pre>
+</code>
 
-<pre class="prettyprint">
-  <code class="language-css">
-  // Some source code
-
-    class Foo {
-      public int Bar { get; set; }
-    }
-  </code>
-</pre>
 
 which corresponds to \(2 + 3 = 5\). The unique feature of using robots is that students can verify the answer, i.e. both journeys are the same.</dd>
 
