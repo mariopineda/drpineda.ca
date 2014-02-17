@@ -47,7 +47,7 @@ Programming robots is an activity that requires and develops mental mathematics 
 Using robots to solve questions such as how to drive from point A to point B or how many ways can point A and point B be connected if the are located on a regular grid are real-world problems requiring a inquiry-based approach. Programming and mathematics involves problem solving at two levels, problem solving at the large scale, i.e. how do we solve a given problem (e.g. get from point A to B? How do I solve a specific equation?) and problem solving at the small scale (e.g. how many degrees or in what direction do I turn at this node? How do can I get rid of the unknown quantity in the denominator?). When one is utilizing a strictly algorithmic approach to problem solving, e.g. when programming (without robots) and when solving mathematical problems these are the only two levels that are present. Robotics, however, introduced a third level of problem solving, how the mathematical or programming solution interacts with the physical world. For example, to program a robot to go around a corner on your left hand side, mathematically and from a programming perspective it makes perfect sense to execute the following code  
 <p><tt>
 turn 90 degrees to the left
-</tt></p>.
+</tt></p>
 In reality, however, it might turn out that an uneven surface or extra grippy tires  interact (or interfere, if you will) with the turning robot changing the actual angle the robot ends up turning. This is authentic problem solving, while the theory can give you a prediction (the robot should turn 90 degrees to the left), interactions with the physical world requires the predictions to be adjusted.
 </dd>
  
