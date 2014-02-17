@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: Using robots in primary grade mathematics  
-description: Integrating robotics into elementary school mathematics class
+description: Elementary school students have a lot to gain by using robots to explore mathematics.
 modified: 2014-02-16
 category: Mathematics
 image: coding.JPG
