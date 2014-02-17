@@ -58,7 +58,7 @@ In his <a href="http://www.ted.com/talks/conrad_wolfram_teaching_kids_real_math_
  
 <dt>Technology</dt>
 <dd>
-Robots and computers (which of course are required in order to program the robots) are perceived as fun and cool by students and as such provide powerful motivational forces in the classroom. As a result this type of technology is the perfect tool for connecting with students and creating and maintaining enthusiasms and ongoing interest.
+Robots and computers (which of course are required in order to program the robots) are perceived as fun and cool by students and as such provide powerful motivational forces in the classroom. As a result this type of technology is the perfect tool for connecting with students and creating and maintaining enthusiasms and ongoing interest (<a href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover.html">Meyer, 2010</a>).
 </dd> 
  
 <dt>Visualization</dt>
@@ -70,6 +70,8 @@ Being able to visualize the mathematical concepts as physical manifestations in 
  
 <h2>References</h2>
 <p>Ben-Hur, M. 2006. Concept-rich mathematics: Building a strong foundation for reasoning and problem solving.</p>
+
+<p>Meyer, D. 2010. Math class needs a makeover. Accessed on Feb 15, 2014. URL: <a href="http://www.ted.com/talks/dan_meyer_math_curriculum_makeover.html">http://www.ted.com/talks/dan_meyer_math_curriculum_makeover.html</a>
 
 <p>Sawada, D. 1984. Computer power in primary grades: Mathematics with Big Trak. The Arithmetic Teacher</p>
 
