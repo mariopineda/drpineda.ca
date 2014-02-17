@@ -40,6 +40,17 @@ students would write
 <pre><code>
 5 steps forward
 </code></pre>
+
+<pre class="prettyprint">
+  <code class="language-css">
+  // Some source code
+
+    class Foo {
+      public int Bar { get; set; }
+    }
+  </code>
+</pre>
+
 which corresponds to \(2 + 3 = 5\). The unique feature of using robots is that students can verify the answer, i.e. both journeys are the same.</dd>
 
 </dl>
