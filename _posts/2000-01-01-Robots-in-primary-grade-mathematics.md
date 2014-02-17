@@ -35,12 +35,12 @@ Incorporating robotics into the mathematics education of primary grades exposes 
 <pre><code>
 2 steps forward
 3 steps forward
-</code>
+</code></pre>
 students would write 
-<code></pre>
+<pre><code>
 5 steps forward
-</code>
-which corresponds to \(2 + 3 - 5\). The unique feature of using robots is that students can verify the answer, i.e. both journeys are the same.</dd>
+</code></pre>
+which corresponds to \(2 + 3 = 5\). The unique feature of using robots is that students can verify the answer, i.e. both journeys are the same.</dd>
 
 </dl>
 
