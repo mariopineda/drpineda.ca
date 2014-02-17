@@ -75,10 +75,12 @@ Being able to visualize the mathematical concepts as physical manifestations in 
 
 <p>Sawada, D. 1984. Computer power in primary grades: Mathematics with Big Trak. The Arithmetic Teacher</p>
 
+<p>Tunis, H.B. 1994. A Tribute to the "Arithmetic Teacher". The Arithmetic Teacher 41(9):512. (URL: <a href="http://www.jstor.org.login.ezproxy.library.ualberta.ca/stable/41196095">http://www.jstor.org.login.ezproxy.library.ualberta.ca/stable/41196095</a>. Accessed on February 16, 2014)</p>
+
 <p>Wolfram, C., 2010. Teaching kids real math with computers. Accessed on Jan 20, 2014. URL: <a href="URL:">http://www.ted.com/talks/conrad_wolfram_teaching_kids_real_math_with_computers.html</a></p>
 
 <h2>Post-script</h2>
 The Arithmetic Teacher was published by the <a href="http://www.nctm.org/">National Council of teachers of Mathematics</a> between 1954-1994 and was a precursor journal to the journals Teaching Children Mathematics and Mathematics Teaching in the Middle School (Tunis, 2994). 
 
-<p>Tunis, H.B. 1994. A Tribute to the "Arithmetic Teacher". The Arithmetic Teacher 41(9):512. (URL: <a href="http://www.jstor.org.login.ezproxy.library.ualberta.ca/stable/41196095">http://www.jstor.org.login.ezproxy.library.ualberta.ca/stable/41196095</a>. Accessed on February 16, 2014)</p>
+
 
