@@ -36,7 +36,7 @@ which corresponds to \(2 + 3 = 5\). By programming and executing the two differe
 
 <dt>Mental mathematics and estimation</dt>
 <dd>
-Programming robots is an activity that requires and develops mental mathematics and estimation skills. For example, being able to visualize the steps involved in for a robot to accomplish a specific task and estimate the various numerical quantities such as distance, duration and angle requires mental mathematics and estimation skills.
+Programming robots is an activity that requires and develops mental mathematics and estimation skills. For example, being able to visualize the steps required for a robot to accomplish a specific task and estimate the various numerical quantities such as distance, duration and angle requires mental mathematics and estimation skills.
 
 {% include image.html fn="feet.JPG" caption="Student estimating the distance a robot needs to travel using his feet as a known referent." %}
 <dd>
@@ -44,9 +44,9 @@ Programming robots is an activity that requires and develops mental mathematics 
 
 <dt>Problem solving</dt>
 <dd>
-Robotics is hands-on, inquiry based solving of real-world problems, e.g. how to drive from point A to point B or how many ways can point A and point B be connected if the are located on a regular grid? Programming and mathematics involves problem solving at two levels, problem solving at the large scale overarching level, i.e. how do we solve a given problem (e.g. get from point A to B? How do I solve a specific equation?) and problem solving at the small scale level localized level (e.g. how many degrees or in what direction do I turn at this node? How do can I get rid of the unknown quantity in the denominator?). When one is utilizing a strictly algorithmic approach to problem solving, e.g. when programming (without robots) and when solving mathematical problems these are the only two levels that are present. Robotics, however, introduced a third level of problem solving, how the mathematical or programming solution interacts with the physical world. For example, to program a robot to go around a corner, mathematically and from a programming perspective it makes perfect sense to execute the following code  
+Using robots to solve questions such as how to drive from point A to point B or how many ways can point A and point B be connected if the are located on a regular grid are real-world problems requiring a inquiry-based approach. Programming and mathematics involves problem solving at two levels, problem solving at the large scale, i.e. how do we solve a given problem (e.g. get from point A to B? How do I solve a specific equation?) and problem solving at the small scale (e.g. how many degrees or in what direction do I turn at this node? How do can I get rid of the unknown quantity in the denominator?). When one is utilizing a strictly algorithmic approach to problem solving, e.g. when programming (without robots) and when solving mathematical problems these are the only two levels that are present. Robotics, however, introduced a third level of problem solving, how the mathematical or programming solution interacts with the physical world. For example, to program a robot to go around a corner on your left hand side, mathematically and from a programming perspective it makes perfect sense to execute the following code  
 <p><tt>
-5 steps forward
+turn 90 degrees to the left
 </tt></p>.
 In reality, however, it might turn out that an uneven surface or extra grippy tires will interact with the turning robot changing the actual angle the robot ends up turning. This is authentic problem solving. 
 </dd>
