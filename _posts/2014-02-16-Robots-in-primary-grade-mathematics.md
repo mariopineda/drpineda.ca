@@ -2,7 +2,7 @@
 layout: post  
 title: Using robots in primary grade mathematics  
 description: Opcom Robotics FRC team visiting the University of Alberta Department of Computing Robotics lab.
-modified: 2000-01-01
+modified: 2014-02-16
 category: Mathematics
 image: coding.JPG
 comments: true 
