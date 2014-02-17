@@ -25,7 +25,13 @@ For example, the US-based FIRST program runs a series of robotics programs for c
 
 Several schools in the greater Edmonton area offer robotics programs, most of which start in middle school (Junior High, grade 6-9), e.g. 
 
-Incorporating robotics into the mathematics education of primary grades exposes students to all the critical mathematical processes outlined by the Alberta <a href="https://education.alberta.ca/media/645594/kto9math.pdf">Program of Study</a>, i.e. 
+Sawada's journeys
+Journeys
+Number Journeys
+Geometric journeys
+I will here refer to these three categories of journeys as robot journeys. 
+
+Incorporating robotics into the mathematics education of primary grades exposes students to all the critical mathematical processes outlined by the Alberta <a href="https://education.alberta.ca/media/645594/kto9math.pdf">Program of Study</a> all of which are central in good quality mathematics teaching and learning, i.e. 
 <dl>
 <dt>Communication</dt> 
 <dd>Robotics is particularly suitable for group work (as exemplified by the various FIRST robotics programs). By having students work in groups they will learn and express their understanding of mathematical concepts through communication with peers.</d>
@@ -37,15 +43,43 @@ Incorporating robotics into the mathematics education of primary grades exposes 
 3 steps forward<br>
 </tt></p>
 students would write 
-<code>
+<p><tt>
 5 steps forward
-</code>
+</tt></p>
+which corresponds to \(2 + 3 = 5\). By programming and executing the two different  version versions of the program students can verify the answer, i.e. both journeys are the same, and make connections between the addition operation and displacement in the physical world.</dd>
 
-
-which corresponds to \(2 + 3 = 5\). The unique feature of using robots is that students can verify the answer, i.e. both journeys are the same.</dd>
-
+<dt>Mental mathematics and estimation</dt>
+<dd>
+Programming robotic journeys is inherently an activity that requires and develops mental mathematics and estimation skills. For example, being able to visualize the  journey when devising the program requires students to be able to estimate distances (in length and time units) and turning angles.
+{% include image.html fn="feet.jpg" caption="Student estimating the distance a robot needs to drive using his feet as a known referent." %}
+<dd>
 </dl>
 
+<dt>Problem solving</dt>
+<dd>
+Robotics is hands-on, inquiry based solving of real-world problems, e.g. how to drive from point A to point B or how many ways can point A and point B be connected if the are located on a regular grid? Programming and mathematics involves problem solving at two levels, problem solving at the large scale overarching level, i.e. how do we solve a given problem (e.g. get from point A to B? How do I solve a specific equation?) and problem solving at the small scale level localized level (e.g. how many degrees or in what direction do I turn at this node? How do can I get rid of the unknown quantity in the denominator?). When one is utilizing a strictly algorithmic approach to problem solving, e.g. when programming (without robots) and when solving mathematical problems these are the only two levels that are present. Robotics, however, introduced a third level of problem solving, how the mathematical or programming solution interacts with the physical world. For example, to program a robot to go around a corner, mathematically and from a programming perspective it makes perfect sense to execute the following code  
+<p><tt>
+5 steps forward
+</tt></p>.
+In reality, however, it might turn out that an uneven surface or extra grippy tires will interact with the turning robot changing the actual angle the robot ends up turning. This is authentic problem solving. 
+</dd>
+ 
+<dt>Reasoning</dt>
+<dd>
+In his <a href="http://www.ted.com/talks/conrad_wolfram_teaching_kids_real_math_with_computers.html">TED talk Conrad Wolfram</a> proposed that to really check if you understand a concept in mathematics you should write a program to do it. To do this requires mathematical reasoning in order to perform the required task analysis of the mathematical concept as it is turned into a computer algorithm. For example, what does it mean to subtract a larger number from a smaller number and how can this be represented as an algorithm? By programming a robot this particular concept can be illustrated as the net displacement of the journey the robot makes.  
+</dd> 
+ 
+<dt>Technology</dt>
+<dd>
+Robots and computers (which of course are required in order to program the robots) are perceived as fun and cool by students and as such provide powerful motivational forces in the classroom. As a result this type of technology is the perfect tool for connecting with students and creating and maintaining enthusiasms and ongoing interest.
+</dd> 
+ 
+<dt>Visualization</dt>
+<dd>
+Being able to visualize the mathematical concepts as physical manifestations in their environment is a powerful experience and gives students a sense of ownership that is difficult to achieve when doing the traditional mathematics problems with a paper and pen out of the textbook. Being able to see the results of their mathematical thinking assists students in processing information, making connections and solving problems.
+</dd> 
+ 
+</dl> 
  
 <p>Sawada, D. 1984. Computer power in primary grades: Mathematics with Big Trak. The Arithmetic Teacher</p>
 
