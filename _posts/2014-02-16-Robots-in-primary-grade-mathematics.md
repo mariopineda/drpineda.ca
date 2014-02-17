@@ -48,7 +48,7 @@ Using robots to solve questions such as how to drive from point A to point B or 
 <p><tt>
 turn 90 degrees to the left
 </tt></p>.
-In reality, however, it might turn out that an uneven surface or extra grippy tires will interact with the turning robot changing the actual angle the robot ends up turning. This is authentic problem solving. 
+In reality, however, it might turn out that an uneven surface or extra grippy tires  interact (or interfere, if you will) with the turning robot changing the actual angle the robot ends up turning. This is authentic problem solving, while the theory can give you a prediction (the robot should turn 90 degrees to the left), interactions with the physical world requires the predictions to be adjusted.
 </dd>
  
 <dt>Reasoning</dt>
