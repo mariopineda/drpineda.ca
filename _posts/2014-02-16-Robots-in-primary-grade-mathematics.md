@@ -53,7 +53,7 @@ In reality, however, it might turn out that an uneven surface or extra grippy ti
  
 <dt>Reasoning</dt>
 <dd>
-In his <a href="http://www.ted.com/talks/conrad_wolfram_teaching_kids_real_math_with_computers.html">TED talk Conrad Wolfram</a> proposed that to really check if you understand a concept in mathematics you should write a program to do it. To do this requires mathematical reasoning in order to perform the required task analysis of the mathematical concept as it is turned into a computer algorithm. For example, what does it mean to subtract a larger number from a smaller number and how can this be represented as an algorithm? By programming a robot this particular concept can be illustrated as the net displacement of the journey the robot makes.  
+In his <a href="http://www.ted.com/talks/conrad_wolfram_teaching_kids_real_math_with_computers.html">TED talk Conrad Wolfram</a> proposed that to really check if you understand a concept in mathematics you should write a program to do it. To do this requires mathematical reasoning in order to perform the required task analysis of the mathematical concept as it is turned into a computer algorithm. For example, what does it mean to subtract a larger number from a smaller number and how can this be represented as an algorithm? By programming a robot this particular concept can be illustrated as the net displacement of the journey the robot makes.   
 </dd> 
  
 <dt>Technology</dt>
@@ -63,16 +63,17 @@ Robots and computers (which of course are required in order to program the robot
  
 <dt>Visualization</dt>
 <dd>
-Being able to visualize the mathematical concepts as physical manifestations in their environment is a powerful experience and gives students a sense of ownership that is difficult to achieve when doing the traditional mathematics problems with a paper and pen out of the textbook. Being able to see the results of their mathematical thinking assists students in processing information, making connections and solving problems.
+Being able to visualize the mathematical concepts as physical manifestations in their environment is a powerful experience and gives students a sense of ownership that is difficult to achieve when taking the traditional paper, pen and textbook approach to studying mathematics. Being able to experience the results of their mathematical thinking assists students in processing information, making connections and solving problems.
 </dd> 
  
 </dl> 
  
+<h2>References</h2>
 <p>Sawada, D. 1984. Computer power in primary grades: Mathematics with Big Trak. The Arithmetic Teacher</p>
+
+
+<h2>Post-script</h2>
+The Arithmetic Teacher was published by the <a href="http://www.nctm.org/">National Council of teachers of Mathematics</a> between 1954-1994 and was a precursor journal to the journals Teaching Children Mathematics and Mathematics Teaching in the Middle School (Tunis, 2994). 
 
 <p>Tunis, H.B. 1994. A Tribute to the "Arithmetic Teacher". The Arithmetic Teacher 41(9):512. (URL: <a href="http://www.jstor.org.login.ezproxy.library.ualberta.ca/stable/41196095">http://www.jstor.org.login.ezproxy.library.ualberta.ca/stable/41196095</a>. Accessed on February 16, 2014)</p>
 
-
-
-
-Note: The Arithmetic Teacher was published by the <a href="http://www.nctm.org/">National Council of teachers of Mathematics</a> between 1954-1994 and was a precursor journal to the journals Teaching Children Mathematics and Mathematics Teaching in the Middle School (Tunis, 2994). 
