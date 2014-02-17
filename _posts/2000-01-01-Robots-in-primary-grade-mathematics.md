@@ -51,7 +51,7 @@ which corresponds to \(2 + 3 = 5\). By programming and executing the two differe
 <dt>Mental mathematics and estimation</dt>
 <dd>
 Programming robotic journeys is inherently an activity that requires and develops mental mathematics and estimation skills. For example, being able to visualize the  journey when devising the program requires students to be able to estimate distances (in length and time units) and turning angles.
-{% include image.html fn="feet.jpg" caption="Student estimating the distance a robot needs to drive using his feet as a known referent." %}
+{% include image.html fn="feet.JPG" caption="Student estimating the distance a robot needs to drive using his feet as a known referent." %}
 <dd>
 </dl>
 
