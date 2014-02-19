@@ -18,18 +18,29 @@
       {{ content }}
       
       {% for post in site.posts %}  
-            <div>
-              <article>
-                <h3><a href="{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h3>
-                <div class="muted">
-                  <p><small><em>Published on {{ post.date | date: "%B %d, %Y" }}; <a href="/{{ post.url }}#disqus_thread"></a></em></small></p>
-                </div> <!-- muted -->
-                <div class="lead">
-                    {{ post.description }}
-                </div>
-              </article>
-              </div> <!-- well -->
-            {% endfor %}
+        <div>
+          <article>
+            <h3><a href="{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h3>
+            <div class="muted">
+              <p><small><em>Published on {{ post.date | date: "%B %d, %Y" }}; <a href="/{{ post.url }}#disqus_thread"></a></em></small></p>
+            </div> <!-- muted -->
+            
+            <div class="row">
+            <div class="col-md-4">
+            {% if post.image %}
+                  <div class="image-wrap">
+                    <img src="/img/post_images/{{ post.image }}" alt="{{ post.title }} feature image" width="100%">
+                  </div>
+                {% endif %}
+            </div>
+            <div class="col-md-4">
+              {{ post.description }}
+            </div>
+            </div>
+            
+          </article>
+        </div> <!-- well -->
+      {% endfor %}
         
     </div><!-- /container -->
     {% include footer.html %}
