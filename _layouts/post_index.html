@@ -27,17 +27,16 @@
             
             <div class="row">
             <div class="col-md-4">
-            {% if post.image %}
-                  <div class="image-wrap">
-                    <img src="/img/post_images/{{ post.image }}" alt="{{ post.title }} feature image" width="100%">
-                  </div>
-                {% endif %}
+              {% if post.image %}
+                <div class="image-wrap">
+                  <img src="/img/post_images/{{ post.image }}" alt="{{ post.title }} feature image" width="100%">
+                </div>
+              {% endif %}
             </div>
             <div class="col-md-4">
-              {{ post.description }}
-            </div>
-            </div>
-            
+			  <p>{{ post.description }}</p>
+			  <p><button type="button" class="btn btn-default btn-sm"><a href="{{ post.url }}" Read more</a></button></p>
+            </div>  
           </article>
         </div> <!-- well -->
       {% endfor %}
