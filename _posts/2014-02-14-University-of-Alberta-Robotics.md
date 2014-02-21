@@ -4,7 +4,7 @@ title: Opcom visiting U of A Robotics Lab
 description: Opcom Robotics FRC team visiting the University of Alberta Department of Computing Robotics lab.
 modified: 2014-02-14
 category: FIRST
-image: 
+image: uofarobotics3.JPG
 comments: true 
 --- 
 Yesterday <a href="https://www.facebook.com/teamopcom">Opcom Robotics</a> took a brief break during the 11'th hour of the build rush and went to the University of Alberta to visit the <a href="https://www.cs.ualberta.ca/research/research-areas/robotics">robotics lab in the Department of Computing Science</a>. The graduate students in the lab showed us some cool robotics awesomeness such as autonomous robotics navigation and robots <a href="http://webdocs.cs.ualberta.ca/~vis/trackDB/">recognizing and tracking objects</a>. 
