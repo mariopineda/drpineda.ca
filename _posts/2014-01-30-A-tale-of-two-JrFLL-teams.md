@@ -4,7 +4,8 @@ title: The 2013 Jr.FLL Disaster Blaster season - A tale of two Jr.FLL teams
 description: Summary of my 2013/14 JrFLL season when I was fortunate enough to get to mentor two teams for the JrFLL/FLL Championships at NAIT
 modified: 2014-01-30
 category: FIRST
-image: jrfll2013-feature.png
+featureimage: feature-jrfll2013.png
+thumbnailimage: thumbnail-jrfll2013.png
 comments: true 
 --- 
 <p>
