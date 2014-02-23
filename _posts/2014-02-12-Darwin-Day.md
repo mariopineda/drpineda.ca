@@ -4,7 +4,8 @@ title: From the lowliest of worm
 description: February 12 is Darwin Day which marking the birthday of Charles Darwin. This is not only an opportunity to celebrate the contributions of one of the greatest scientists of all times but it is also global celebration of science and reason.
 modified: 2014-02-12
 category: Darwin
-image: darwin.jpg
+featureimage: feature-darwinsongproject.jpg
+thumbnailimage: thumbnail-darwinsongproject.jpg
 comments: true 
 --- 
 <p>Today is <a href="http://darwinday.org/">Darwin Day</a>. This day marks the 205 birthday (February 12, 1809) of evolutionary biologist Charles Darwin. Over the years this day has evolved (unintentional pun) into a global celebration of science and reason held on or around Feb. 12. What would be a more fitting on this day than a musical tribute to one of the greatest scientists of all time.</p>
