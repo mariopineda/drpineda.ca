@@ -5,7 +5,7 @@ description: Mathematical thinking is not the same as doing mathematics, the for
 modified: 2014-02-13
 category: Mathematics
 featureimage: feature-math.jpg
-thumbnailimage: thumbnail-math.JPG
+thumbnailimage: thumbnail-math.jpg
 comments: true 
 --- 
 <em>This post was published as part of an assignment in EDSE 338 in the Faculty of Education at the University of Alberta.</em>
