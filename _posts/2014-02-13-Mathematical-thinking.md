@@ -4,7 +4,8 @@ title: Mathematical thinking &ne; doing mathematics
 description: Mathematical thinking is not the same as doing mathematics, the former is fundamentally different from the latter in that it requires a certain way of thinking to solve real world problems
 modified: 2014-02-13
 category: Mathematics
-image: feature-math.jpg
+featureimage: feature-math.jpg
+thumbnailimage: thumbnail-math.JPG
 comments: true 
 --- 
 <em>This post was published as part of an assignment in EDSE 338 in the Faculty of Education at the University of Alberta.</em>
