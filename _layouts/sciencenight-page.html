@@ -10,17 +10,28 @@
    background-position: center;  /* Internet Explorer 7/8 */
    background-image: url({{ page.image.feature }});
    margin-top: 0px;
-   margin-bottom: -30px;
+   margin-bottom: 0px;
   }
   
   #cover h1 {
-   color: #fff;
-   background: rgba(0, 0, 0, .25);
+   color: #000;
+   background: rgba(0, 0, 0, 0);
    font-size: 40pt;
+   margin:0px 0px 0px 0px; 
+   padding: 0px;
+  }
+  
+  #cover h2 {
+   color: #000;
+   background: rgba(0, 0, 0, 0);
+   font-size: 15pt;
+   margin:-40px 0px 0px 0px; 
+   padding: 20px;
   }
   
   .navbar {border-radius: 0;}
  </style>
+ 
   </head>
   <body>
     {% include navigation.html %}
@@ -28,73 +39,13 @@
 	  <div class="container">
         <div class="page-header" id="banner">
           <div class="row">
-          <div id="cover">
-            <h1 class="text-center jumbotron">Family Science Night</h1>
-          </div>  
-            
-            <!-- WebQuest nav bar -->
-            <nav class="navbar navbar-default" role="navigation">
-              <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                  <span class="sr-only">Toggle navigation</span>
-                  <span class="icon-bar"></span>
-                  <span class="icon-bar"></span>
-                  <span class="icon-bar"></span>
-                </button>
-              </div> <!-- navbar-header -->
-
-              <!-- Collect the nav links, forms, and other content for toggling -->
-              <div class="collapse navbar-collapse navbar-ex1-collapse">
-                <ul class="nav navbar-nav">
-                  
-                  {% if page.title == "Introduction" %}                
-                    <li class="active"><a href="/resources/mathbio/introduction.html">Introduction</a></li>
-                  {% else %}
-                    <li><a href="/resources/mathbio/introduction.html">Introduction</a></li>
-                  {% endif %}
-                    
-                  {% if page.title == "Lesson 1" %}  
-                    <li class="active"><a href="/resources/mathbio/lesson1.html">Lesson 1</a></li>
-                  {% else %}
-                    <li><a href="/resources/mathbio/lesson1.html">Lesson 1</a></li>
-                  {% endif %}
-              
-                  {% if page.title == "Lesson 2" %}  
-                    <li class="active"><a href="/resources/mathbio/lesson2.html">Lesson 2</a></li>
-                  {% else %}
-                    <li><a href="/resources/mathbio/lesson2.html">Lesson 2</a></li>
-                  {% endif %}
-				                        
-                  {% if page.title == "Lesson 3" %}  
-                    <li class="active"><a href="/resources/mathbio/lesson3.html">Lesson 3</a></li>
-                  {% else %}
-                    <li><a href="/resources/mathbio/lesson3.html">Lesson 3</a></li>
-                  {% endif %}
-				           
-                  {% if page.title == "Lesson 4" %}  
-                    <li class="active"><a href="/resources/mathbio/lesson4.html">Lesson 4</a></li>
-                  {% else %}
-                    <li><a href="/resources/mathbio/lesson4.html">Lesson 4</a></li>
-                  {% endif %}
-                  
-                  {% if page.title == "Lesson 5" %}  
-                    <li class="active"><a href="/resources/mathbio/lesson5.html">Lesson 5</a></li>
-                  {% else %}
-                    <li><a href="/resources/mathbio/lesson5.html">Lesson 5</a></li>
-                  {% endif %}
-				                      
-				  {% if page.title == "Teacher Page" %}
-                    <li class="active"><a href="/resources/mathbio/teacher.html">Teacher Page</a></li>
-                  {% else %}
-                    <li><a href="/resources/mathbio/teacher.html">Teacher Page</a></li>
-                  {% endif %}
-					
-                </ul>
-              </div><!-- /.navbar-collapse -->
-            </nav>
+            <div id="cover">
+              <h1 class="text-center jumbotron">Family Science Night</h1>
+			  <h2 class="text-center jumbotron"><strong>Magic is science we do not understand yet</strong></h2>
+            </div>
           </div> <!-- row -->
         </div> <!-- page-header -->
-        <h1>{{ page.title }}: {{ page.description}}</h1>
+        <h1>{{ page.title }}</h1>
         {{ content }}
         {% include footer.html %}
     {% include scripts.html %}
