@@ -14,7 +14,13 @@
             </div>
           <div class="col-lg-6" style="padding: 0px 25px 15px 25px;">
         </div>
-      </div>	
+      </div>
+
+	        <div class="container">
+        <div class="page-header" id="banner">
+          <div class="row">
+            <div class="col-md-8">
+	  
       {{ content }}
       
       {% for post in site.posts %}  
@@ -27,21 +33,38 @@
             
             <div class="row">
             <div class="col-md-4">
-            {% if post.image %}
-                  <div class="image-wrap">
-                    <img src="/img/post_images/{{ post.image }}" alt="{{ post.title }} feature image" width="100%">
-                  </div>
-                {% endif %}
+              {% if post.thumbnailimage %}
+                <div class="image-wrap">
+                  <a href="{{ post.url }}"><img src="/img/post_images/{{ post.thumbnailimage }}" alt="{{ post.title }} feature image" width="auto" class="img-thumbnail"></a>
+                </div>
+              {% endif %}
             </div>
             <div class="col-md-4">
-              {{ post.description }}
-            </div>
-            </div>
-            
+			  <p>{{ post.description }}</p>
+			  <p><a href="{{ post.url }}" class="btn btn-primary btn-mini active">Read more</i></a></p>
+            </div>  
           </article>
         </div> <!-- well -->
       {% endfor %}
-        
+			
+		  </div><!-- /row -->
+		
+				<!-- Side bar column -->
+			<div class="col-md-4">
+			  <div>
+      <h2>I tweet at @therocsci</h2>
+      <hr>
+      <div style="height:15px"></div>
+<a class="twitter-timeline" href="https://twitter.com/therocsci" data-widget-id="296839247892189184">Tweets by @therocsci</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+      </script>
+        <div style="height:15px"></div>
+  <a class="btn" href="https://twitter.com/therocsci">Go to @therocsci</a>
+    </div> <!-- well -->
+  </div>
+			</div>
+		
     </div><!-- /container -->
     {% include footer.html %}
     {% include scripts.html %}

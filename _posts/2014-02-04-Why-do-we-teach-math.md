@@ -3,8 +3,9 @@ layout: post
 title: Why do we teach math? 
 description: Why do we teach math? What do students studying to become mathematics teachers think? 
 modified: 2014-02-04
-category: Math
-image: 
+category: Mathematics
+featureimage: feature-mathematics.png
+thumbnailimage: thumbnail-mathematics.png
 comments: true 
 --- 
 Hidden away in the highest classroom in the tallest tower in the Faculty of Education at University of Alberta there is a exhibit of student work, presumably of students working towards becoming math teachers. On a series of poster, what appears to be, groups of students have drawn mind-maps answering the question "Why do we teach math?". What is striking is the many diverse reasons provided for teaching mathematics. Here is the gist of it...

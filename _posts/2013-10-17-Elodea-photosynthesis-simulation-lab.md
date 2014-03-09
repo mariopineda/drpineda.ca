@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Elodea photosynthesis simulation lab
-description: 
+description: A simulation lab investigating the production of oxygen in a virtual aquatic plant.
 modified: 2013-10-17
 category: "Teaching Resources"
-image: feature-elodea.jpg
+featureimage: feature-elodea.jpg
+thumbnailimage: thumbnail-elodea.jpg
 comments: true  
 ---
 <p>

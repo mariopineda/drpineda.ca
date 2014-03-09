@@ -1,0 +1,99 @@
+/* print.css */
+body {line-height:1.5;font-family:Arial, Helvetica, sans-serif;color:#000;background:none;font-size:10pt;}
+h1, h2, h3, h4, h5, h6 {font-family:"Arial, Helvetica, sans-serif;}
+.hide {display:none;}
+a:link, a:visited {background:transparent;font-weight:700;text-decoration:underline;}
+a:link:after, a:visited:after {content:" (" attr(href) ") ";font-size:90%;}
+
+
+div#mainframe {
+	width: auto;
+	margin: 0;
+}
+
+div#topBar h2 {
+	font-size: 1.8em;
+}
+/*normal headings for headings with background images*/
+div#topBar h2,
+div#pagehdrtext h1,
+div#topBar h2 a  {
+	width:auto;
+	height: auto;
+	text-indent: 0;
+	margin: 0;
+	padding:0;
+	background: none;
+	text-decoration: none;
+}
+
+div#topBar h2 a {
+	margin: 0;
+	padding: 0;
+}
+
+
+
+
+div#topBar h2 a:link:after,
+div#topBar h2 a:visited:after,
+div#keyfeatureshighlight ul li a:link:after,
+div#keyfeatureshighlight ul li a:visited:after {content: " "}
+
+div#topBar a.viewcart,
+ul#sitenav,
+div.purchaselinks { display: none;}
+
+
+
+div#pagehdr {
+	background: none;
+	padding: 0;
+}
+
+	div#pagehdr * {
+		color: #222;
+	}
+		
+		div#pagehdrtext {
+			width:auto;
+			float: none;
+		
+		}
+
+		div#pagehdrtext h1 {
+			font-size: 1.8em;
+		}
+		
+		div#pagehdrtext h3 {
+			width:auto;
+			margin: 0;
+			font-size: 1.3em;
+		}
+
+div#pageintro,
+div#maincontent,
+div#secondarycontent {
+	width:auto;
+}
+	
+div#keyfeatureshighlightframe,
+div#keyfeatureshighlightframe *,
+div#keyfeatureshighlight h5,
+div#keyfeatureshighlight ul,
+div#keyfeatureshighlight ul li,
+div#keyfeatureshighlight li div,
+div#testimonials    {
+	position: relative;
+	display: block;
+	float: none;
+	clear:both;
+	height: auto;
+	width:auto;
+	margin: 0;
+	left:0;
+	top:0;
+	border: 0;
+}
+
+div#videointro {display: none;}
