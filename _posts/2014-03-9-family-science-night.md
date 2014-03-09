@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: Family Science Night  
-description: There are many good reasons for why the metric system beats the pants of the imperial system.
+description: Students and their families explore science and engineering through hands-on activities during Family Science Night at a local elementary school.  
 modified: 2014-03-09
 category: Outreach
 featureimage: feature-familysciencenight.jpg
