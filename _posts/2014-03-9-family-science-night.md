@@ -7,20 +7,23 @@ category: Outreach
 featureimage: feature-familysciencenight.jpg
 thumbnailimage: thumbnail-familysciencenight.jpg
 comments: true 
+permalink: family-science-night-2014.html
 --- 
-<p>Can a material be a liquid and a solid at the same time? Can you build a bridge using nothing but pieces of wood without using any fasteners? How do you clean water? Can you defy gravity? How does a meteorite look? How does a fossil feel? How does a telescope work? How does Jupiter look from Earth? These were some of the questions that elementary school students got to explore by engaging in hands-on science during a Family Science Night at a local elementary school last Friday.</p>
+<p>Can a material be a liquid and a solid at the same time? Can you build a bridge using nothing but sticks of wood? How do you clean water? Can you defy gravity? How does a meteorite look? How does a fossil feel? How does a telescope work? How does Jupiter look from Earth? These were some of the many questions elementary school students explored through hands-on science and engineering during a recent Family Science Night at a local elementary school.</p>
 
-<p>As the School Council's Event Coordinator I had the fortune to help organize this fun event. As the dust is settling I am amazed by some of the numbers; more than 50 volunteering parents, scientists, researchers, student teachers and students contributed to making this event possible, about 400 people attended the event, we had 13 different activity stations 8 of which were organized by external organizations and <a href="/resources/sciencenight/">6 of which were specifically developed for this event</a>. All in all, the event was a resounding success and I am already looking forward to next year's Family Science Night.</p>
+<p>As the School Council's Event Coordinator I was fortunate enough to be part of the organizing committee for this event. As the dust is settling I am amazed by some of the numbers. More than 50 volunteering parents, scientists, researchers, student teachers and alumni contributed to making this event possible. About 400 people attended the event. We had 13 different activity stations 7 of which were organized by external organizations and groups and <a href="/resources/sciencenight/">6 of which were specifically developed for this event</a>. All in all, the event was a resounding success.</p>
 
-<p>This event would not have been possible without the financial support of the School Council and the dedicated work of volunteers from the following organizations and groups:
+<p>This event would not have been possible without the support of the teachers and administration at the school, the financial support of the School Council and the dedicated work of volunteers from the following organizations and groups:
 <ul>
-<li>Student teacher from the <a href="http://www.education.ualberta.ca/">Faculty of Education</a>, <a href="http://www.ualberta.ca/">University of Alberta</a></ul>
-<li><a href="http://www.sciencehotline.ca/">Edmonton Science Outreach Network</a></ul>
-<li><a href="http://www.civil.engineering.ualberta.ca/Research/ResearchAreas/Environmental/MohamedGamalElDin.aspx">Gamal El-Din Lab</a> at the <a href="http://www.engineering.ualberta.ca/">Faculty of Engineering</a>, <a href="http://www.ualberta.ca/">University of Alberta</a></ul>
-<li>Students from the <a href="http://www.biology.ualberta.ca/">Department of Biology</a>, <a href="http://www.ualberta.ca/">University of Alberta</a></ul>
-<li>Families of current and past students</ul>
-<li><a href="http://edmontonrasc.com/public/">RASC Edmonton Centre</a></ul>
+<li>Student teacher from the <a href="http://www.education.ualberta.ca/">Faculty of Education</a>, <a href="http://www.ualberta.ca/">University of Alberta</a></li>
+<li><a href="http://www.sciencehotline.ca/">Edmonton Science Outreach Network</a></li>
+<li><a href="http://www.civil.engineering.ualberta.ca/Research/ResearchAreas/Environmental/MohamedGamalElDin.aspx">Gamal El-Din Lab</a> at the <a href="http://www.engineering.ualberta.ca/">Faculty of Engineering</a>, <a href="http://www.ualberta.ca/">University of Alberta</a></li>
+<li>Students from the <a href="http://www.biology.ualberta.ca/">Department of Biology</a>, <a href="http://www.ualberta.ca/">University of Alberta</a></li>
+<li>Families of current and past students</li>
+<li><a href="http://edmontonrasc.com/public/">RASC Edmonton Centre</a></li>
 </ul></p>
+
+<p>A huge thank you to all of you for promoting science literacy and enriching the education of the students by sharing your expertise and passion for science.</p>
 
 <p><center><img src="/img/post_images/tails.png" width="75%"></center></p>
 
@@ -106,7 +109,7 @@ comments: true
   <div class="col-xs-6 col-md-4">
     <a href="/img/post_images/familysciencenight-18.jpg" class="thumbnail">
       <img src="/img/post_images/familysciencenight-18.jpg" alt="125x125">
-	  <figcaption>Creepy without the crawly activity</figcaption>
+	  <figcaption>Crawleys without the creepy activity</figcaption>
     </a>
   </div>
 </div>
@@ -142,7 +145,7 @@ comments: true
   <div class="col-xs-6 col-md-4">
     <a href="/img/post_images/familysciencenight-9.jpg" class="thumbnail">
       <img src="/img/post_images/familysciencenight-9.jpg" alt="125x125">
-	  <figcaption>Creepy without the crawly activity</figcaption>
+	  <figcaption>Crawleys without the creepy activity</figcaption>
     </a>
   </div>
   <div class="col-xs-6 col-md-4">
@@ -153,4 +156,6 @@ comments: true
   </div>  
 </div>
 
+<div>
 <p><a href="https://www.flickr.com/photos/matiaspineda/sets/72157642063999454/">More pictures of Family Science Night can be found here</a>. </p>
+</div>
