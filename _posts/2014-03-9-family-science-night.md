@@ -15,7 +15,7 @@ permalink: family-science-night-2014.html
 
 <p>This event would not have been possible without the support of the teachers and administration at the school, the financial support of the School Council and the dedicated work of volunteers from the following organizations and groups:
 <ul>
-<li>Student teacher from the <a href="http://www.education.ualberta.ca/">Faculty of Education</a>, <a href="http://www.ualberta.ca/">University of Alberta</a></li>
+<li>Student teachers from the <a href="http://www.education.ualberta.ca/">Faculty of Education</a>, <a href="http://www.ualberta.ca/">University of Alberta</a></li>
 <li><a href="http://www.sciencehotline.ca/">Edmonton Science Outreach Network</a></li>
 <li><a href="http://www.civil.engineering.ualberta.ca/Research/ResearchAreas/Environmental/MohamedGamalElDin.aspx">Gamal El-Din Lab</a> at the <a href="http://www.engineering.ualberta.ca/">Faculty of Engineering</a>, <a href="http://www.ualberta.ca/">University of Alberta</a></li>
 <li>Students from the <a href="http://www.biology.ualberta.ca/">Department of Biology</a>, <a href="http://www.ualberta.ca/">University of Alberta</a></li>
