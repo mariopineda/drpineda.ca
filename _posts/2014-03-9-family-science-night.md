@@ -27,7 +27,7 @@ permalink: family-science-night-2014.html
 
 <p><center><img src="/img/post_images/tails.png" width="75%"></center></p>
 
-<p>Here is a visual summary of the evening's events. More pictures can be found <a href="https://www.flickr.com/photos/matiaspineda/sets/72157642063999454/">here</a>.</p>
+<p>Below is a visual summary of the evening's events. More pictures can be found <a href="https://www.flickr.com/photos/matiaspineda/sets/72157642063999454/">here</a>.</p>
 
 <div class="row">
   <div class="col-xs-6 col-md-4">
