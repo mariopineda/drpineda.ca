@@ -1,44 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    {% include head.html %}
-  </head>
+  <head>{% include head.html %}</head>
   <body>
     {% include navigation.html %}
 	<div class="container">
 	  <div class="container">
         <div class="page-header" id="banner">
           <div class="row">
-            <div class="col-lg-6">
-              <h1>{{ page.title }}</h1>
-            </div>
-          <div class="col-lg-6" style="padding: 0px 25px 15px 25px;">
+            <div class="col-lg-6"><h1>{{ page.title }}</h1></div>
+          </div>
         </div>
-      </div>
 
-	        <div class="container">
-        <div class="page-header" id="banner">
-          <div class="row">
-            <div class="col-md-8">
-	  
-      {{ content }}
-      
-      {% for post in site.posts %}  
-        <div>
-          <article>
-            <h3><a href="{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h3>
-            <div class="muted">
-              <p><small><em>Published on {{ post.date | date: "%B %d, %Y" }}; <a href="/{{ post.url }}#disqus_thread"></a></em></small></p>
-            </div> <!-- muted -->
-            
-            <div class="row">
-            <div class="col-md-4">
-              {% if post.thumbnailimage %}
-                <div class="image-wrap">
-                  <a href="{{ post.url }}"><img src="/img/post_images/{{ post.thumbnailimage }}" alt="{{ post.title }} feature image" width="auto" class="img-thumbnail"></a>
-                </div>
-              {% endif %}
-            </div>
+        <div class="row">
+          <div class="col-md-8">
+	        {{ content }}
+            {% for post in site.posts %}  
+            <div>
+              <article>
+                <h3><a href="{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h3>
+                <div class="muted">
+                  <p><small><em>Published on {{ post.date | date: "%B %d, %Y" }}; <a href="/{{ post.url }}#disqus_thread"></a></em></small></p>
+                </div> <!-- muted -->            
+                <div class="row">
+                  <div class="col-md-4">
+                    {% if post.thumbnailimage %}
+                      <div class="image-wrap">
+                        <a href="{{ post.url }}"><img src="/img/post_images/{{ post.thumbnailimage }}" alt="{{ post.title }} feature image" width="auto" class="img-thumbnail"></a>
+                      </div>
+                    {% endif %}
+                  </div>
             <div class="col-md-4">
 			  <p>{{ post.description }}</p>
 			  <p><a href="{{ post.url }}" class="btn btn-primary btn-mini active">Read more</i></a></p>
