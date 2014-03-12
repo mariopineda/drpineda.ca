@@ -46,7 +46,7 @@
               </p>
               {{ content }}
               {% include signature.html %} 
-              			  
+              	<div class="hidden-print">  
                 <hr>
                 <p>
                   <!-- AddThis Button BEGIN -->
@@ -61,6 +61,7 @@
                 </p>
                 {% if site.disqus_shortname and page.comments %}{% include comments.html %}<!-- /#disqus_thread -->{% endif %}
               </div><!-- /class -->
+			</div>
 			
 			  <div class="hidden-print">
     		    <!-- Side bar column -->
