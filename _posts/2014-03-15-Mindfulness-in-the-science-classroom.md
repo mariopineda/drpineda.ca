@@ -1,15 +1,25 @@
 ---
-layout: page
-permalink: mindfulness-in-the-science-classroom.html
-title: Outreach
-description:
-tags:
-image:
-  feature:
+layout: post
+title: Ridge walking in life, science and education
+description: ...
+modified: 2014-03-09
+category: Art
+featureimage: feature-ridge.jpg
+thumbnailimage: thumbnail-ithink.jpg
+comments: true 
+permalink: ridgewalking.html
 ---
 <blockquote>
 In any weather, at any hour of the day or night, I have been anxious to improve the nick of time, and notch it on my stick too; to stand on the meeting of two eternities, the past and future, which is precisely the present moment; to toe that line. - Henry David Thoreau (Walden)
 </blockquote>
+
+
+
+One of the key questions I will be exploring is how do I find the space within me to toe the line between the two eternities in the face of full catastrophy living? 
+
+Thoreau's quote describes mindfulness as walking on a narrow and ever changing ridge with the void of the past on one side and the void of future on the other side. 
+
+This quote resonates deeply with me as, whenever the opportunity has presented itself, I practice the physical act of ridge walking, i.e. hiking along the line that marks the very top of mountains where you can climb no more and you are surrounded by a void on either side of you. Ridge walking is necessarily an mindful activity, both because of the breathtaking beauty of your surrounding making it difficult to think about anything else and because of the potential dire consequences a single misstep could have. I have chosen to study Thoreau’s writing for this assignment because of the connection between the intangible and tangible description of mindfulness that the quote provides and the connection to the natural world that his writing has without resorting to dogma, myth, mysticism, super natural phenomena or theology.
 
 <blockquote>
 Nature is not, of course, always benign and beautiful. It can be frightening and terrifying also. - Henry David Thoreau (Walking)
