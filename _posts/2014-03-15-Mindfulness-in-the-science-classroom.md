@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ridge walking in life, science and education
+title: The tree of life art project
 description: ...
 modified: 2014-03-09
 category: Art
@@ -13,11 +13,15 @@ permalink: ridgewalking.html
 In any weather, at any hour of the day or night, I have been anxious to improve the nick of time, and notch it on my stick too; to stand on the meeting of two eternities, the past and future, which is precisely the present moment; to toe that line. - Henry David Thoreau (Walden)
 </blockquote>
 
+Thoreau's quote describes mindfulness as walking on a narrow and ever changing ridge with the void of the past on one side, the void of future on the other side and with the fleeting ephemeral "now" at the intersection of these voids. The goal of mindfulness is thus to be fully in the present by moving along the narrow and ever changing ridge that defines the present. 
 
+Some of the greatest scientists in history have 
 
-One of the key questions I will be exploring is how do I find the space within me to toe the line between the two eternities in the face of full catastrophy living? 
+As a scientist and educator I set out on this art project to explore how I could imbue mindfulness into science education.
 
-Thoreau's quote describes mindfulness as walking on a narrow and ever changing ridge with the void of the past on one side and the void of future on the other side. 
+Ridge-walking as a physical activity
+Ridge-walking as mindfulness
+Ridge-walking in science
 
 This quote resonates deeply with me as, whenever the opportunity has presented itself, I practice the physical act of ridge walking, i.e. hiking along the line that marks the very top of mountains where you can climb no more and you are surrounded by a void on either side of you. Ridge walking is necessarily an mindful activity, both because of the breathtaking beauty of your surrounding making it difficult to think about anything else and because of the potential dire consequences a single misstep could have. I have chosen to study Thoreau’s writing for this assignment because of the connection between the intangible and tangible description of mindfulness that the quote provides and the connection to the natural world that his writing has without resorting to dogma, myth, mysticism, super natural phenomena or theology.
 
@@ -25,43 +29,54 @@ This quote resonates deeply with me as, whenever the opportunity has presented i
 Nature is not, of course, always benign and beautiful. It can be frightening and terrifying also. - Henry David Thoreau (Walking)
 </blockquote>
 
-approx. 900 word commentary on the mindful intention and aspiration underlying the presentation/contemplative witness
 
-Ridge walking
-On a slow train through China: mindfulness as a physical journey
-I propose to explore the writings of Henry David Thoreay, and in particular his Walden, in the context of mindfullness as a inward journey
- 
- - a pilgrimage, not towards a physical location, but rather towards an untanginble and persoanl inner space.
+<blockquote>
+It is interesting to contemplate an entangled bank, clothed with many plants of many kinds, with birds singing on the bushes, with various insects flitting about, and with worms crawling through the damp earth, and to reflect that these elaborately constructed forms, so different from each other, and dependent on each other in so complex a manner, have all been produced by laws acting around us. These laws, taken in the largest sense, being Growth with Reproduction; inheritance which is almost implied by reproduction; Variability from the indirect and direct action of the external conditions of life, and from use and disuse; a Ratio of Increase so high as to lead to a Struggle for Life, and as a consequence to Natural Selection, entailing Divergence of Character and the Extinction of less-improved forms. Thus, from the war of nature, from famine and death, the most exalted object which we are capable of conceiving, namely, the production of the higher animals, directly follows. There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved. - Charles Darwin (On the Origins of Species, 1859)
+</blockquote>
 
-Slowing down time
-On a slow coach/train through China
+<h2>Annotated Bibliography</h2>
+
 <div class="well">
-In any weather, at any hour of the day or night, I have been anxious to improve the nick of time, and notch it on my stick too; to stand on the meeting of two eternities, the past and future, which is precisely the present moment; to toe that line. ~ Henry David Thoreau, Walden
+<p>Darwin, C. (1859) On the Origin of Species. Harvard University Press.</p>
+
+<p>Charles Darwin seminal book outlining his theory of evolution to the 1900-century world. Although the book was published more than one and a half century ago it has withstood the test of time and is as relevant today as it was during its own time.</p>
 </div>
 
 <div class="well">
-It is interesting to contemplate an entangled bank, clothed with many plants of many kinds, with birds singing on the bushes, with various insects flitting about, and with worms crawling through the damp earth, and to reflect that these elaborately constructed forms, so different from each other, and dependent on each other in so complex a manner, have all been produced by laws acting around us. These laws, taken in the largest sense, being Growth with Reproduction; inheritance which is almost implied by reproduction; Variability from the indirect and direct action of the external conditions of life, and from use and disuse; a Ratio of Increase so high as to lead to a Struggle for Life, and as a consequence to Natural Selection, entailing Divergence of Character and the Extinction of less-improved forms. Thus, from the war of nature, from famine and death, the most exalted object which we are capable of conceiving, namely, the production of the higher animals, directly follows. There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved.
+<p>Dawkins, R. (2011) The Magic of Reality: How we know what's really true. Free Press, New York.</p>
 
-
+<p>This book presents a graphic detective story presenting the reader with a series of thought-provoking questions about Nature followed by answers from mythologies and from science. The aim of the book is to illustrate that the real world, when understood through the lens of science, has a magic of its own that does not require us to resort to superstition, mythology or theism.</p>
 </div>
 
-It is 1992 and I am in a hard seat coach somewhere in central China. After two months of traveling on a shoestring I find myself as the only westerner on a slow train to a megacity that does not exist on western maps. It is in the middle of the night and after 18 hours I am about half way to my destination. The train is packed to the brim with people, many so exhausted that they are sleeping standing up. Those that are not sleeping are smoking, drinking green tea and spitting on the floor. The lights are glaring and the air is saturated with the smell of perspiring bodies and cigarette smoke. Although I have been awake for the last 30 hours, I have not eaten, drunk or gone to the washroom for almost 20 hours  I am awake, more awake than I have had been ever before. Despite what appears to be a full catastrophy scenario I am at peace, calmly toeing the invisible and ephemeral line between two bottomless abysses of the past and the future. Time has slowed down and I am acutely aware of my surrounding, the sights, the sounds, the smells. I am not enjoying my experience but I am also not disliking it - I am just part of the fabric of the experience. I am a thread, a threat that does not judge or feel pleasure or discomfort, a threat that just exists.
+<div class="well">
+<p>Hayward, J.W. (1997) Letters to Vanessa - On Love, Science, and Awareness in an Enchanted World. Shambhala Publications, Inc., Boston.</p>
 
- Fast forward a few years to 1997. I am part of a buddhist order in central Stockholm practicing loving kindness meditation. I am cultivating my mindfulness like it would be precious orchid in a greenhouse with carefully monitired and adjusted temperature, humidity and light.
+<p>A informal guide for those that are torn between the realities of science and the experience of the sacred of the natural world. This book shows us a path for connecting a scientifically rigorous world view imbued with a sense of the sacred without resorting to mythological, superstitious or theistic arguments.</p>
+</div>
 
-hot. humid, tired, hungry
+<div class="well">
+<p>Hayward, J.W. & Varela, F.J. (1992) Gentle Bridges: Conversations with the Dalai Lama on the Sciences of Mind. Shambhala Publications, Inc., Boston.</p>
 
- It is around midnight, and after sitting without I have been travelling for 18 hours and
+<p>This book chronicles the discussions and exchange of ideas that took place during a series of meetings in 1987 and 1989 between Western scientists and the Dalai Lama. The book demonstrates how Eastern philosophical traditions can contribute to Western scientific thought in particular in regards to our understanding of the nature of the human mind and consciousness.</p>
+</div>
+
+<div class="well">
+<p>Suzuki, S. (1994) Zen Mind, Beginner's Mind: Informal talks on Zen meditation and practice. Weatherhill, New York.</p>
+
+<p>This book is based on a series of talks and provides a concise, informal and pragmatic treaty of how to practice Zen.</p>
+</div>
+
+<div class="well">
+<p>Thoreau, H.D. (1986) Walden and Civil Disobedience. Penguin Classics.</p>
+
+<p>Henry David Thoreau's Walden described his two years living in solitude in a small cabin in the woods by Walden Pond. His account convey a the wonder of the natural world Thoreau observed around him as the seasons changed and a yearning for a deeper spiritual truth and self-reliance. </p>
+</div> 
+
+<div class="well">
+<p>Thoreau, H.D. (1993) Faith in a Seed. Island Press, Washington, D.C. </p>
+
+<p>Most of Henry David Thoreau's work following <em>Walden</em> has never been published. <em>Faith in a Seed</em> assembles selected writings of Thoreau from a series post-Walden books, e.g. <em>The Dispersion of Seeds</em>. This collection of essays celebrates Natures fertility, fecundity and interconnectedness and as such provides an early and poetic account of modern ecology.</p>
+</div>
 
 
 
-Incorporation of Thoreau's Walden in the context of 
-
-I started 
-without dogma, myth, mysticism and theology
-
-Unbeknonwst to me my journey through China becanme a pilgrimage, not to a physical location, but a journey into myself.As my physical manifestation crossed the great planes of the Tibetan plateau, the rocky taklamakan desert, the ledges and abyssess of the Karakorum highway, the slow flowing meandering Perl river 
-
-on the cusp between
-
-I deliberatelly, slowly, meanderingly undertook a paralell inward journay. 
