@@ -21,22 +21,28 @@
           <div class="row">
             <div class="col-md-8">
               <h2>{{ page.title }}</h2>
-              <p>
-                <small>
-                  <em>
-                    Published on {{ page.date | date: "%B %d, %Y" }};
-                    <a href="/{{ page.url }}#disqus_thread"></a>;
-                    <a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}"> Permalink</a>;
-                    Category:
-                    {% for category in page.category %}
-                    <a href="/category/#{{ category | cgi_encode }}" title="Page categories {{ category }}" rel="category">{{ category }}</a>
-                    {% unless forloop.last %}
-                      &bull;
-                    {% endunless %}
-                    {% endfor %}
-                  </em>
-                </small>
-              </p>	
+			  <div class="hidden-print">
+                <p>
+                  <small>
+                    <em>
+                      Published on {{ page.date | date: "%B %d, %Y" }};
+                      <a href="/{{ page.url }}#disqus_thread"></a>;
+                      <a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}"> Permalink</a>;
+                      Category:
+                      {% for category in page.category %}
+                      <a href="/category/#{{ category | cgi_encode }}" title="Page categories {{ category }}" rel="category">{{ category }}</a>
+                      {% unless forloop.last %}
+                        &bull;
+                      {% endunless %}
+                      {% endfor %}
+                    </em>
+                  </small>
+                </p>
+              </div>
+              <div class="visible-print">
+			    Published on {{ page.date | date: "%B %d, %Y" }} by Dr. Pineda
+				at {{ site.url }}{{ page.url }}
+			  </div>
               <p>
                 {% if page.featureimage %}
                   <div class="image-wrap">
