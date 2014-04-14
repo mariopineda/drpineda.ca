@@ -38,7 +38,7 @@
         <div class="page-header" id="banner">
           <div class="row">
           <div id="cover">
-            <h1 class="text-center jumbotron">Opcom Robotics FRC team (5064)</h1>
+            <h1 class="text-center jumbotron">Opcom team (5064)</h1>
           </div>  
             
             <!-- WebQuest nav bar -->
@@ -56,6 +56,12 @@
               <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav">
                   
+				  {% if page.title == "Home" %}                
+                    <li class="active"><a href="/projects/frc/">Home</a></li>
+                  {% else %}
+                    <li><a href="/projects/frc/"><em>Home</em></a></li>
+                  {% endif %}
+				  
                   {% if page.title == "FIRST" %}                
                     <li class="active"><a href="/projects/frc/first.html"><em>FIRST</em></a></li>
                   {% else %}
