@@ -5,9 +5,18 @@ title: Home
 description: Opcom team (5064)
 tags: 
 image:
-  feature: /projects/frc/img/feature-frc.jpg
+  feature: /projects/frc/img/feature-frc.jpg 
 ---
 <p>I mentor Opcom (5064), a <a href="first.html">FIRST Robotics Competition</a> team based in Edmonton, Alberta, Canada. The goals of 5064 is to continuously strive to actively improve ourselves and others by practising and promoting the Core Values of FIRST both in and out of competition. We work year round to promote personal and general improvement within our team and others. Our team's motto is <em>Go F.A.S.T.</em>, where <em>F</em>=FAST, <em>A</em>=Agile, <em>S</em>=Strong  and <em>T</em>=Trained. We strongly strive towards going F.A.S.T. continuously challenging ourselves to develop ourselves and our team to their full potential. We do not settle for easy solutions, we strive for F.A.S.T solutions.</p>
 
 <p>We are recruiting team members, students and mentors, right now. See <a href="team.html">Team page</a> for more information.</p>
+
+{% for post in site.tags.Opcom %}
+     <div class="post_info">
+    <li>
+         <a href="{{ post.url }}">{{ post.title }}</a>
+         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
+    </li>
+    </div>
+{% endfor %}
 
