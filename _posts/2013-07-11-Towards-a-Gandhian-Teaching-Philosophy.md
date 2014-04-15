@@ -4,6 +4,8 @@ title: Towards a Gandhian Teaching Philosophy
 description: Reflections on what I learned during the 2013 Gandhi Summer Institute at the Faculty of Education at the University of Alberta.
 modified: 2013-07-11
 category: "University of Alberta"
+tags:
+- Education
 featureimage: feature-gandhi.jpg
 thumbnailimage: thumbnail-gandhi.jpg
 comments: true  

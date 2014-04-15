@@ -4,6 +4,9 @@ title: The Study Buddy Program - 34 years of helping students with schoolwork
 description: Volunteering to assist students with their schoolwork has many rewards.  Being able to help a student to do better in a subject is rewarding for both to the student and to you.
 modified: 2012-12-25
 category: "University of Alberta"
+tags:
+- BEdition
+- Education
 featureimage: feature-studybuddy.jpg
 thumbnailimage: thumbnail-studybuddy.jpg
 comments: true  

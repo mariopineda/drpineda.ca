@@ -4,6 +4,8 @@ title: Teaching Science Gandhi Style
 description: Infusing Gandhi's notion of ahimsa into science classroom and promoting dialogue over debate will foster community building and educate the mind and the heart.
 modified: 2013-07-09
 category: "University of Alberta"
+tags:
+- Education
 featureimage: feature-heart.jpg
 thumbnailimage: thumbnail-heart.jpg
 comments: true  

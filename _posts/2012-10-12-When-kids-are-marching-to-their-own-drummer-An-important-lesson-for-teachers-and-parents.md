@@ -4,6 +4,10 @@ title: When kids are marching to their own drummer - An important lesson for tea
 description: 
 modified: 2012-10-12
 category: Education
+tags:
+- Education
+- Science
+- Teachers
 image:
 comments: true  
 ---

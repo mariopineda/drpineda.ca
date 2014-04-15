@@ -4,6 +4,10 @@ title: Kids (can) do programming - A Scratch hackathon
 description: In most Canadian schools computer programming is not introduced until in high school. Given the right tools, however, kids can do programming at much younger ages.
 modified: 2012-11-27
 category: Programming
+tags:
+- Programming
+- Scratch
+- Education
 featureimage: feature-scratch.jpg
 thumbnailimage: thumbnail-scratch.jpg
 comments: true  

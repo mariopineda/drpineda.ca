@@ -4,6 +4,9 @@ title: Why do we teach math?
 description: Why do we teach math? What do students studying to become mathematics teachers think? 
 modified: 2014-02-04
 category: Mathematics
+tags:
+- Mathematics
+- Education
 featureimage: feature-mathematics.png
 thumbnailimage: thumbnail-mathematics.png
 comments: true 

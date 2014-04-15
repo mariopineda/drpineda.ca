@@ -4,6 +4,10 @@ title: Teaching evolution in Alberta classrooms
 description: What is the state of teaching evolution in Alberta classroom and what are potential sources of misconceptions among students?
 modified: 2013-02-12
 category: Evolution
+tags:
+- Evolution
+- Darwin
+- Education
 featureimage: feature-ithink.jpg
 thumbnailimage: thumbnail-ithink.jpg
 comments: true  

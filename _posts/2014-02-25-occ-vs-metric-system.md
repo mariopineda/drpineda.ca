@@ -4,6 +4,8 @@ title: And this is why we have the metric system
 description: There are many good reasons for why the metric system beats the pants of the imperial system.
 modified: 2014-02-16
 category: Mathematics
+tags:
+- Mathematics
 featureimage: feature-meterstick.jpg
 thumbnailimage: thumbnail-meterstick.jpg
 comments: true 

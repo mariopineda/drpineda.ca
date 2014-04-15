@@ -4,6 +4,11 @@ title: Community-based high-school robotics
 description: The trials and tribulations of Opcom Robotics, a community-based robotics program in Edmonton that I help mentor, was featured today in the Edmonton Examiner.
 modified: 2014-02-05
 category: FIRST
+tags:
+- FIRST
+- FRC
+- Opcom
+- Robotics
 featureimage: feature-opcom.jpg
 thumbnailimage: thumbnail-opcom.jpg
 comments: true 

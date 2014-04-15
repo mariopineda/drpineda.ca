@@ -4,6 +4,9 @@ title: Teaching evolution in the face of misconception and disinformation
 description: Over 200 years after Darwin's birth the theory of evolution remains plagued by misconceptions among the general public as well as in school text books.
 modified: 2013-02-12
 category: Evolution
+tags: 
+- Evolution
+- Education
 featureimage: feature-treeoflife.jpg
 thumbnailimage: thumbnail-treeoflife.jpg
 comments: true  

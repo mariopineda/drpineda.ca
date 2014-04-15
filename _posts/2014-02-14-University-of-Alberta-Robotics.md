@@ -4,6 +4,11 @@ title: Opcom visiting U of A Robotics Lab
 description: Opcom Robotics FRC team visiting the University of Alberta Department of Computing Robotics lab.
 modified: 2014-02-14
 category: FIRST
+tags:
+- FIRST
+- Opcom
+- FRC
+- Robotics
 featureimage: feature-uoarobotics3.jpg
 thumbnailimage: thumbnail-uoarobotics3.jpg
 comments: true 

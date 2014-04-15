@@ -4,6 +4,10 @@ title: Should we be telling myths to children?
 description: 
 modified: 2012-03-28
 category: Education
+tags:
+- Assignment
+- Education
+- Mythology
 image:
 comments: true  
 ---

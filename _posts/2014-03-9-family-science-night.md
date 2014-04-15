@@ -4,6 +4,10 @@ title: Family Science Night
 description: Students and their families explore science and engineering through hands-on activities during Family Science Night at a local elementary school.  
 modified: 2014-03-09
 category: Outreach
+tags:
+- ESON
+- Outreach
+- Science
 featureimage: feature-familysciencenight.jpg
 thumbnailimage: thumbnail-familysciencenight.jpg
 comments: true 

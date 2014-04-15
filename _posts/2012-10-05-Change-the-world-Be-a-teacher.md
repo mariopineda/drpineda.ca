@@ -4,6 +4,9 @@ title: Change the world. Be a teacher.
 description: 
 modified: 2012-10-05
 category: Education
+tags:
+- Education
+- Teachers
 image:
 comments: true  
 ---

@@ -4,6 +4,10 @@ title: Using robots in primary grade mathematics
 description: Elementary school students have a lot to gain by using robots to explore mathematics.
 modified: 2014-02-16
 category: Mathematics
+tags:
+- Mathematics
+- Assignment
+- Robotics
 featureimage: feature-mindstorms.jpg
 thumbnailimage: thumbnail-mindstorms.jpg
 comments: true 

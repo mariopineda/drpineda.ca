@@ -4,6 +4,10 @@ title: Beetle man is coming to a school near you
 description: Beetle man visiting a local grade 6 class to tell the students about the great Canadian boreal forest and the tiny mountain pine beetle, a true David and Goliath story. 
 modified: 2012-11-03
 category: ESON
+tags:
+- ESON
+- Education
+- Outreach
 featureimage: feature-beetleman.jpg
 thumbnailimage: thumbnail-beetleman.jpg
 comments: true  
