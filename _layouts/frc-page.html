@@ -59,7 +59,7 @@
 				  {% if page.title == "Home" %}                
                     <li class="active"><a href="/projects/frc/">Home</a></li>
                   {% else %}
-                    <li><a href="/projects/frc/"><em>Home</em></a></li>
+                    <li><a href="/projects/frc/">Home</a></li>
                   {% endif %}
 				  
                   {% if page.title == "FIRST" %}                
@@ -72,6 +72,12 @@
                     <li class="active"><a href="/projects/frc/team.html">Team</a></li>
                   {% else %}
                     <li><a href="/projects/frc/team.html">Team</a></li>
+                  {% endif %}
+				  
+				  {% if page.title == "Our Robot" %}  
+                    <li class="active"><a href="/projects/frc/robot.html">Our Robot</a></li>
+                  {% else %}
+                    <li><a href="/projects/frc/robot.html">Our Robot</a></li>
                   {% endif %}
               
                   {% if page.title == "Media" %}  
