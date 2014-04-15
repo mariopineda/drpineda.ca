@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>{% include head.html %}</head>
+  <body>
+    {% include navigation.html %}
+	<div class="container">
+	  <div class="container">
+        <div class="page-header" id="banner">
+          <div class="row">
+            <div class="col-lg-6"><h1>{{ page.title }}</h1></div>
+          </div>
+        </div>
+
+		<p><a href="/blog/">See posts listed by date</a></p>
+        <div class="row">
+          <div class="col-md-8">
+	        
+{% capture tags %}
+  {% for tag in site.tags %}
+    {{ tag[0] }}
+  {% endfor %}
+{% endcapture %}
+{% assign sortedtags = tags | split:' ' | sort %}
+
+{% for tag in sortedtags %}
+  <h3 id="{{ tag }}">{{ tag }}</h3>
+  <ul>
+  {% for post in site.tags[tag] %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+  </ul>
+{% endfor %}
+			
+		  </div><!-- /row -->
+		
+				<!-- Side bar column -->
+			<div class="col-md-4">
+			  {% include recent_blog_posts.html %}
+  </div>
+			</div>
+		
+    </div><!-- /container -->
+    {% include footer.html %}
+    {% include scripts.html %}
+  </body>
+</html>
+
+
