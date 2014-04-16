@@ -1,0 +1,228 @@
+FIRST Team 5064: Opcom
+Team handbook
+
+  
+Table of Contents
+Mission	3
+Goals	3
+Schedule overview	4
+Preseason	4
+Build season	4
+Competition	5
+Postseason	5
+Student eligibility	5
+Student expectations	6
+Parent expectations	6
+Mentor expectations	6
+Community outreach	7
+Behavior	8
+Work in the Opcom HQ	8
+Cooperation	8
+Uniforms and dress code	8
+Facebook	9
+Parent pickup	9
+Demerits	9
+Fundraising	10
+Program fee	10
+Time commitment	10
+Safety	11
+Traveling	11
+How parents can help	12
+Student contract	12
+STUDENT Contract	12
+Parents/Guardians	13
+Mentor contract	13
+FIRST Core Values	13
+
+
+Welcome to FIRST Robotics Team 5064, Opcom. The team was founded in 2013 and we competed in our first competition in 2014, the Canadian Western Regional in Calgary. Over the course of our first season we have grown as a team and have started to build a solid foundation in which to continue to grow our team.
+The path to the regional is not an easy one; there is hard work with the time the students and mentors will spend during the season and off season times. By overcoming challenges and discovering solutions to problems that seems impossible in such a short amount of time, under the guidance of our mentors, students develop many skills that are important for success later in life. Everything from teamwork, goal setting, time management, fabrication, electronics, programing, CAD, video and photo editing, website and digital design, graphical design, business management and many more. 
+This Handbook is designed to give insight into the team, the expectations and rules students and mentors are required to follow. If you or your child is interested in joining us read this handbook carefully and ask yourself and your child if you can commit to the team, the rule, the time and hard work that is required. If you have any questions that are not answered in the handbook do not hesitate to contact us. 
+For more information about Opcom go to www.5064.ca or follow us on Facebook www.facebook.com/teamopcom for updates about the team.
+Rules are subject to change as seen fit by the Lead mentors. Students, parents and mentors will be made aware of changes during the season
+Mission 
+We Go FAST to improve ourselves and to build tomorrows robots today.
+Go FAST stands for 
+•	Fast: as in the physical quantity velocity having both a speed and direction 
+•	Agile: as in quickly, smartly and resourcefully responding to change
+•	Strong: as in having great physical strength and resilience
+•	Trained: as in mastering the necessary skills to excel
+Goals
+Team 5064 goals: 
+•	To develop leadership within all of our students. 
+•	To focus on promoting FIRST Robotics Competition in high school aged students in Edmonton. 
+•	To involve our team in the community and promote a sense of responsibility in our team members. 
+•	To focus on organization and communication to make our team more efficient and effective. 
+•	Schoolwork is a priority and we will help every student succeed, in addition to providing them with education on robotics, science and technology. 
+•	To put focus on the Engineering Design Process, and develop our team and build season around this process. 
+•	To promote student growth, the growth of the team, and to build the sense of family and morale within our team. 
+•	Raise funds to support our team and keep it self-sustained for many years to come. 
+•	Funds also support our FIRST LEGO League (FLL) and Junior FIRST LEGO League) Jr. FLL initiatives. 
+•	To have LOTS OF FUN! Our team is a family of friends and we all love to have fun together. 
+Schedule overview
+The team calendar and meeting schedules are officially hosted on the team web site (www.5064.ca). This is the most accurate and up-to-date listing of team activities. The team meets year-round with varying levels of involvement by the seasons. The seasons are defined as the, build season, competition, and postseason. Throughout the seasons, there will be events such as community service participation, demonstrations, and fundraising. Students are encouraged to be involved in all seasons to optimize their experience on the team. We recruit new students and mentors throughout the year and require both students and mentors to commit for a minimum of a whole year.
+Preseason
+•	September to December 
+•	6:00 PM - 8:00 PM on Wednesday 
+•	Approximately 15 weekly team meetings 
+Part of the time will be to cover team management, including administrative tasks, the plan for the coming week and any upcoming deadlines. The remaining meeting time will be used for presentations, training, work-sessions, or team building activities. The team will use the preseason as a time to do team building, fundraisers, community service, and to learn about the necessary skills needed for the upcoming build season.
+Build season
+•	January 4th - February 18th (six weeks long) 
+•	Kickoff (when the game is revealed) is usually the first Saturday of January in Calgary. The team travels to Calgary to attend this event.
+•	5:00PM – 10:00PM Tuesdays through Thursdays 
+•	10:00AM – 12:00AM Saturdays 
+•	10:00AM – 6:00PM Sundays 
+•	Additional meetings will be scheduled on an as-needed basis.
+It is important for the students to attend these meeting since we only have a short amount of time to create a working robot. Due to this short time span we expect students to attend and participate in at least 90% of the meeting hours during build season.
+Competition
+•	February 19th – end of April 
+•	Meeting times usually follow the build season schedule in order to prepare for upcoming events, but will be determined on an as-needed basis.
+As we prepare for tournaments there is still plenty to do. 
+Students are expected to attend and participate in at least 75% of the meetings hours during the competition season. At the end of the competition season the robot and the team travel to regional competitions. Typically, the team will compete in the Canada Western Regional FRC in Calgary but the team may also participate in additional competitions (in a different location) and if we qualify also the International Championships in St. Louis in mid-late April. This is the height and excitement of the robotics season!
+Postseason
+•	May through August 
+•	6:00 PM - 8:00 PM on Wednesdays 
+This time is used for training, fundraising, community outreach and several other aspects that we cannot get done during the Build & Competition Season. Students are expected to participate in at least 2 Community Outreach Projects & attend at least 60% team meetings hours during this time. Summer is a great time to get started on activities and projects prior to preseason, and a good time to do demonstrations, fundraising and community service. All students and mentors will be evaluated at the end of the school year and will receive notification about their roles for the next season. The Leadership team will be formed at the end of the competition season to take full advantage of summer to plan the next season. 
+Student eligibility
+1.	Students must be a grade 9-12 student in the Edmonton.
+2.	Students must maintain a minimum of a C- average.
+3.	Students are expected to make a significant time commitment to the team, actively participating in meetings, workshops, and events. Commitment to the team increases significantly during the months of January – April.
+4.	Students are expected be reliable (on-time, prepared to work, clean up, positive attitude, assist newer members, responsive to mentors and other adult volunteers) and assist with team administrative tasks.
+5.	Students and parents must complete the necessary paperwork and pay the required fees including the annual registration fee, t-shirt costs, and travel expenses. 
+Student expectations
+Students on Team 5064 are required to be actively involved with the team. The level of participation determines whether or not a student’s trips will be paid for during competition season. Students are expected to show up on time for team meetings and events and remain for the duration of these. 
+Students will put priority on their grades over any team need. Grades are important. Students must complete school work before participating in team work sessions and activities. However, we do offer homework help, especially during build season when we are putting in long hours. 
+All team members are required to participate in community service, robot demonstrations and fundraising activities throughout the year. These activities are vital for the success of the team and they’re a great way to have fun with your teammates!
+Parent expectations
+Parents are required to provide additional support of the team, including chaperoning, making travel arrangements, providing meals, transportation (people and robot), general supervision (non-mentorship), donation of general supplies/snacks/water, craft-type expertise (including sewing) and assisting team mentors as requested.
+Mentor expectations
+As a mentor your volunteering and contribution of your skills and expertise are key to the success of our team and we are deeply appreciative of your contributions. In order for mentors to be successful it is important to know what your roles and responsibilities are. Keep in mind that as a mentor, you are expected to be a role model to students. 
+Mentors do:
+•	Provide encourage
+•	Assist students.
+•	Teach.
+•	Resolve conflicts.
+•	Always lend a helping hand to students and other mentors
+•	Set an example
+•	Are role models
+•	Use appropriate language
+•	Interact with children and youth in a genuine and authentic way.
+•	Is patient.
+•	Treat everyone fairly but not necessarily equally.
+•	Read the FIRST Mentoring Guide (http://www.usfirst.org/uploadedFiles/Community/FRC/Team_Resources/Mentoring%20Guide.pdf)
+Mentors do not:
+•	Do the work for the student.
+•	Use students as assistants.
+•	Judge.
+•	Cause conflicts
+•	Set a bad example
+•	Cut corners
+•	Use inappropriate language
+•	Gossip
+•	Are not authoritarian.
+•	Is inpatient.
+•	Treat everyone equally but not fairly.
+Note that mentors will be held to substantially higher expectation than the students in terms of behavior, reliability and ability to fulfil their roles and responsibilities. Failure to live up to the roles and responsibilities of FIRST mentors will result in immediate dismissal from the team. 
+All Opcom mentors are required to participate in ongoing mentor training during the bi-weekly Mentor Coffee meetings. 
+Community outreach
+All students on the team are required to participate in at least two of the following community outreach activities,
+•	Jr.FLL/FLL Tournament at NAIT (mid-January)
+•	Regional Cardboard Boat Race (November)
+•	Volunteer at the Edmonton Regional Science Fair (April)
+•	Volunteer at the Edmonton Science Olympics (March)
+•	Showing Opcom robot at TWoS
+•	Family Science Nights at Edmonton schools (typically in February-April)
+•	…and many more
+All students are required to participate as an Assistant Coach on an Edmonton-based Jr.FLL or FLL team.
+Behavior
+A team member’s behavior is under scrutiny at all times. Students and mentors represent not only Opcom, but each and every community supporter, mentor, and sponsor.  Your behavior is a message to all regarding the caliber of students on our team and hence all members on the team are required to display mature, responsible behaviors. Every team member must obey mentor directions and obey safety guidelines at all times. The coaches reserve the right to discipline a team member, including giving demerits or being sent home for the day as necessary for safety and the overall good of the team. The parents will be informed of any disciplinary actions as soon as possible. At all times the team will follow the rules set forth in the Opcom Team Handbook and the FIRST Core Values.
+Inappropriate behaviors include, but are not limited to: Any unsafe practice, running in the hallways, pushing and shoving, name calling (negative), put downs, leaving messes, fighting, swearing, stealing, inappropriate use of technology (such as Internet), use of personal gaming devices (including cell phone), and all other activities that reflect negatively on the team and team performance. Wandering around the school during meetings is not permitted and is subject to one (1) demerit.
+Work in the Opcom HQ
+Most of our meetings will be in the Opcom HQ in the Progressive Academy Science Classroom. Students and mentors are guests in the Opcom HQ and need to be courteous, clean, and respectful. Remember to pick up any food or drink containers that you have used and deposit them in the proper location or recycle bin. This area is a classroom and will be used every day. It must be clean and ready for the next day’s class before you leave. This includes sweeping and/or vacuuming the floor if any work creating debris has been conducted (e.g. saw dust or metal filings, etc.). When working with school equipment, treat it with care. All students, mentors and visitors must always wear safety apparel and follow safety guidelines when working. Closed toed shoes and safety glasses are always a must.
+Cooperation
+Students are requested to cooperate at all times. This means that if a mentor requests you to do something, you will comply with the best of your ability. Ignoring the directions or requests of a mentor is not in the team’s best interest. If you feel a request is out of order, you are encouraged to talk to the mentor in an appropriate matter. This means you will explain why you have a conflict with completing the task. Then the mentor will decide if you need to complete their task at that time or at a different time. The mentor makes the final decision not the student. 
+Uniforms and dress code
+Our team uniform is our team shirts. These shirts are designed by the team and worn on competition days. These shirts will also be worn at all functions in which the team participates. When participating in official team functions no clothing is permitted to be worn on top of the shirt unless the attending mentor gives their permission.  Uniforms may not be altered or worn in any manner not approved by the mentors. The only approved alteration to the uniforms is the attachment of official FIRST swag, i.e. buttons, lapel pins etc. from other FIRST teams (Jr.FLL, FLL, FTC, FRC). Students and mentors on the team receive one shirt per season. The shirt is to be taken care of and maintained so that not only the individual wearing it but the entire team takes pride in it. 
+ If members (students and mentors) are not wearing their team shirts on designated days, they will be asked to change clothes (which may involve having to go back home to pick up the shirt). 
+Facebook
+Outside of meetings in person the team communicates using our Facebook group. All students and mentors are required to have an active Facebook account, to be members of the FRC 5064 Opcom Robotics group, www.facebook.com/groups/opcomrobotics/ and to actively and regularly check the group page. This form of communication is by far the fastest and most efficient mode of communication. 
+Parent pickup
+Parents or Guardians must come in to pick up students in a timely manner. There are a few reasons for this. 
+•	We would like to get to know the parents.
+•	We want you to see what is going on during the season.
+•	We want to make sure students are getting a safe ride home and not standing out in the cold waiting for a ride. 
+If there is another person besides yourself, or the student drives themselves/other robotics students please make sure one of the Lead mentors are aware of this arrangement. We want to make sure robotics is a safe environment for everyone. 
+Demerits
+Demerits will be given when team members (i.e. students and mentors) do not exhibit proper behavior or display inadequate citizenship that infringes on the teams good image. Three demerits constitute removal from the Opcom Team for the rest of the season.  Note that the program fee will not be reimbursed in the event of a student becoming removed from the team due to accumulating three demerits.
+Except under extenuating circumstances the demerits are reset at the end of the season. All team members, both students and mentors, must undergo evaluation and review at the end of the season every year. Placement on the team is not automatic because of experience. 
+Students or mentors breaking rules, or causing distractions may be asked to leave a meeting. Three mentors must agree to send a student or mentor home at which time the student must call their parent/guardian to come get them. They will wait to be picked up by sitting in the classroom. Students getting sent home will receive a minimum of one (1) demerit. Mentors asked to leave a meeting will receive a minimum of two (2) demerit points.
+Fundraising
+Fundraising is an integral part of being part of the team. The hardware for the robot alone costs more than $10000, which does not include tools, software, registration for competition and travel to and from events. In other words all students on the team are required to raise funds. Part of that will require team members to each raise $300 over the Preseason and during Build Season. Over this 22 week period this breaks down to about $14/week.
+How to raise money 
+•	FIRST Light bulbs (sell 30 light bulbs) (http://www.usfirst.org/roboticsprograms/first-green-e-watt-saver)
+•	Getting Private or Corporate Donations (many give 250.00 or more)
+More fundraising ideas: http://www.usfirst.org/roboticsprograms/team-fundraising
+Program fee
+The yearly cost for the program is $600/student.  The fee is due within one month after signing the pledge. Late payment of the program fee will result in the accumulation of one (1) demerit for ever week past the due date. Financial assistance is available; please talk to the Lead team for more details.
+There is no program fee for mentors.
+Time commitment
+To be a member of the Opcom Team will require many after school hours. All student team members are required to participate in after school meetings, events, and other team activities. During the fall, meetings are usually once a week on Wed from 6:00pm-9:00pm. The meetings are important to plan and execute Chairman’s Award activities, build skills, build team relationships, organize fundraisers, and keep aware of FIRST announcements. As Kick Off nears, meetings will become longer and more frequent. These meetings will be listed on the team calendar, available through our team website. 
+Attendance is taken at all meetings during build season and mandatory meetings during the off season along with community activities. It is the student’s responsibility to sign in on the attendance sheet or check in when they arrive at community events. All students are expected to be on time and stay the required amount of time including clean up. Students participating in school-sponsored activities or having a job may be excused from attendance on a limited per case basis as reviewed by the coaches. Students must provide work schedules or school-sponsored activity event calendars to the coaches to be excused. In all cases, students who do not have the required hours for competition, will be required to spend an equal amount of time completing odd jobs around the shop. These jobs may include but are not limited to button making, organizing screws and bolts, or cleaning the closets. These are designed to balance out the participation.
+Safety
+1.	Team members will act in a safe manner AT ALL TIMES. This includes during any team-related activity while traveling to team events and during competitions.
+2.	Team members will be respectful of the Safety Captain(s) and adhere to any reasonable requests made by the Safety Captain(s).
+3.	Team members will be required to attend to attend a safety seminar and pass a Safety Quiz. Power tools or equipment may only be used under the supervision of an adult mentor.
+4.	Team members are required to wear safety glasses at the work site and in the pit area at all competitions. In addition, team members may be asked to wear gloves, face masks, and ear protection during certain task.
+5.	Horseplay will not be tolerated at any time.
+6.	All work areas will be cleaned up at the end of the day including sweeping the floors and work surfaces, putting away tools and materials, and throwing away trash.
+7.	Team members will not directly or indirectly give out personal information about themselves or other team members while using any form of online/Internet communication or media. This includes all social media (Twitter, Facebook, et al.), Team 5064, other FIRST teams or other FIRST-sponsored forums, wikis or any Internet/Web/mobile device. As Team 5064 members, students’ communications through any media are representative of the team and should not negatively reflect on the team and should at all times reflect the tenets of FIRST and “Gracious Professionalism”.
+Traveling
+Traveling, as a team, is very exciting and rewarding and often the highlight of a student’s memories. A great deal of planning and organization is required to coordinate all the associated activities. A strong effort is made to make the travel be an educational/cultural experience as well as the basic competition. Safety is always the major concern.
+Students are required to attend the Kickoff event and the Canada Western Regional FRC. They are given the opportunity to travel to other competitions, including the Championship Event. Personal scheduling conflicts with the traveling itinerary of the team (e.g. vacation, traveling with other extra-curricular organizations such as sport teams, religious groups) to the Kickoff and competition will not be considered valid excuses for not attending. 
+While we encourage parents and family to join us when traveling (assuming we have space in the bus), when the team travels, students are to remain with the team for the duration of the event. Should a student leave the main body of the team at any time, they must clear this with a supervising adult first and travel in a group. 
+How parents can help
+Parents are encouraged to be part of our team and are very important to our continued success. Parents are also a key factor in the motivation and dedication of their student. Supporting their son/daughter in all aspects of their team involvement is vital to them getting the most out of the program
+Parents have several responsibilities: 
+•	Every parent is encouraged to volunteer to assist with at least one event such as fund-raising, annual awards banquet, monitoring students during the build season or assist in community service projects. 
+•	To provide timely transportation for the student. Making sure that they are at the required events on time and ready to participate. Often we will leave for a competition very early in the morning to facilitate transportation. 
+•	Parents are expected to have the student at the designated location at the prescribed time. We will not delay transportation. 
+•	Upon return from an event parents are encouraged to provide transportation at the designated time. Late transportation causes an inconvenience to all involved. 
+•	Parents are encouraged to assist their student in all fundraising activities. 
+•	Parents are required to provide accurate medical information and to keep mentors informed of all changes. 
+•	Parents are also encouraged to provide spending money as is appropriate when we are at events or competition. 
+•	A parent or representative of each student member is required to help with the food during build seasons. Lunch is served to the team each Saturday during the build season by a designated group of parents and a food pantry is created.
+•	Parents will please refrain from foul language, engaging students in disputes, or spreading gossip. 
+•	Parents are expected to bring issues and concerns to the Lead mentors in a timely manner. 
+Student contract
+Opcom requires rigorous participation and a serious commitment. This is not a team for casual participants. A student wishing to travel/participate in any competition must meet ALL expectation. Not meeting any one single expectation will result in the student’s inability to travel. 
+Parents and students please read this handbook and sign below together to ensure that both parties are aware of the requirements. This sheet must be returned with all blanks filled correctly a student can be considered for joining the team.
+STUDENT Contract 
+ I agree that I understand the information presented in the Team Handbook, and that I understand what I need to achieve in order to have full payment of my trips.  I know that I will have to place a reserving deposit, but if I fulfill all of the team achievements, the team funding will cover the rest of my travel costs. I understand that I must act responsibly and respectfully at all times, and that schoolwork comes before team work. I must maintain my grades as required by the school in order to participate in team activities. 
+
+
+
+Student signature	
+
+
+
+Parent signature	
+
+
+
+Date	
+
+Parents/Guardians
+I understand that my student has chosen to be an active part of this team, and that while any level of participation is encouraged, that my student must meet the team achievements in order to have team funding for his/her travel. I also understand that I am part of those achievements. I agree to attend an information session, pre-travel meetings, one team event during the year, and one local competition event. I also agree to provide a meal during build season. 
+I understand that parents can be a vital part of the team, and are a big help in getting many of the team activities accomplished. I will do my best to support my student and the team in this endeavor.  
+
+
+
+Student name
+
+
+
+Parent name
+
+
+Mentor contract
+FIRST Core Values
