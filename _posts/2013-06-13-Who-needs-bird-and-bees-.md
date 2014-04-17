@@ -9,8 +9,8 @@ tags:
 - Entomology
 - Kids
 - Sex
-featureimage: slug.jpg
-thumbnailimage: slug.jpg
+featureimage: feature-slugs.jpg
+thumbnailimage: thumbnail-slugs.jpg
 permalink: slug-dance.html 
 ---
 <p>Raking the leaves with my son recently turned out to be an opportunity for a birds and the bees, eh, I mean <a  href="http://en.wikipedia.org/wiki/Slug">slug</a> and a slug lesson. <a href="http://en.wikipedia.org/wiki/Hermaphrodite">Hermaphroditic</a> (i.e. a slug being a boy and girl at the same time) slug meets another hermaphroditic slug in the empty inflatable splash pool, romance arises and the slime oozes as they chase each other's tails in a sluggy slimy <a href="http://en.wikipedia.org/wiki/Mating">mating dance</a>.</p>
