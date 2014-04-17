@@ -1,8 +1,17 @@
 ---
-layout: tags_index
+layout: post_index
 permalink: /tags/index.html
-title: Tags
+title: Tags from the blog of Dr. Pineda
 description: Blog post tags 
 ---
-
+<ul class="posts">
+{% for post in site.tags.question limit: 20 %}
+  <div class="post_info">
+    <li>
+         <a href="{{ post.url }}">{{ post.title }}</a>
+         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
+    </li>
+    </div>
+  {% endfor %}
+</ul>
 
