@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Allendale LEGO Kids are recruiting young LEGO ninjas
-description: The Opcom Robotics FRC team participated in the modern-day high-tech gladiator-like battle at the Western Canada Regional FRC. We may not have won, but we sure got a knack for impaling our opponents.
+description: It is that time of year again, when countless young <em>LEGO</em> aficionados put on their thinking caps and get together with like-minded <em>LEGO</em> ninjas to solve this years JrFLL challenge.
 modified: 2013-09-02
 category: JrFLL
 tags:
