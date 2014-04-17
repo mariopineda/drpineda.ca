@@ -8,6 +8,7 @@ tags:
 - JrFLL
 - FIRST
 - Robotics
+- LEGO
 featureimage: feature-jrfll2013.png
 thumbnailimage: thumbnail-jrfll2013.png
 comments: true 
