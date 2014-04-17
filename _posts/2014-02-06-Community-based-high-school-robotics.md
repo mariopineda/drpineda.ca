@@ -7,7 +7,7 @@ category: FIRST
 tags:
 - FIRST
 - FRC
-- Opcom
+- Team5064
 - Robotics
 featureimage: feature-opcom.jpg
 thumbnailimage: thumbnail-opcom.jpg
