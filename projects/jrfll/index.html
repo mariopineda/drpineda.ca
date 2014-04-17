@@ -1,0 +1,23 @@
+---
+layout: jrfll-page
+permalink: /index.html
+title: Home
+description: JrFLL mentoring
+tags: jrfll
+image:
+  feature: /projects/jrfll/img/feature-we_are_the_minifigs.jpg
+---
+<p>I currently mentor two Junior FIRST LEGO League (JrFLL) based in Edmonton, Alberta, Canada. The community-based Allendale LEGO Kids and the school-based Progressive Academy LEGO Ninjagos. The JrFLL program is for children ages 6-9 and aims to capture young children's curiosity and directing it toward discovering the wonders of science and technology. This program features a real-world scientific concept to be explored through research, teamwork, construction, and imagination. Guided by adult Coaches, teams use LEGO to build a model that moves and develop a Show Me Poster to illustrate their journey.</p>
+
+<h1>News</h1>
+{% for post in site.tags.JrFLL %}
+     <div class="post_info">
+    <li>
+         <a href="{{ post.url }}">{{ post.title }}</a>
+         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
+    </li>
+    </div>
+{% endfor %}
+
+
+
