@@ -5,15 +5,18 @@
     
     <style type="text/css">
   #cover {
-   background-size: auto;
+   background-size: 100%;
    background-image: url({{ page.image.feature }});
+   background-repeat:no-repeat;
    margin-top: 0px;
    margin-bottom: -30px;
+   background-position: center bottom;
+   vertical-align: bottom;
   }
   
   #cover h1 {
    color: #fff;
-   background: rgba(0, 0, 0, .25);
+   background: rgba(0, 0, 0, .1);
    font-size: 40pt;
   }
   
@@ -32,15 +35,15 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
   
+  
     {% include navigation.html %}
 	
 	  <div class="container">
         <div class="page-header" id="banner">
           <div class="row">
-          <div id="cover">
-            <h1 class="text-center jumbotron">FLL Team XXXX: The STEAMpunks</h1>
-          </div>  
             
+            
+			<img src="/img/The-STEAMpunks-logo.png" width="100%">
             <!-- WebQuest nav bar -->
             <nav class="navbar navbar-default" role="navigation">
               <div class="navbar-header">
