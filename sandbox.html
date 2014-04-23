@@ -4,13 +4,15 @@ permalink: /sandbox/index.html
 title: Sandbox
 description: 
 ---
-
 {% capture tags %}
-{% for tags in site.tags %}
-    <li style="font-size: {{ tag | last | size | times: 1000 | divided_by: site.tags.size }}%">
-        <a href="/{{ tag | first | slugize }}/">
-            {{ tag | first }}
-        </a>
-    </li>
-{% endfor %}
+  {% for tag in site.tags %}
+    {{ tag[0] }}
+  {% endfor %}
 {% endcapture %}
+{% assign sortedtags = tags | split:' ' | sort %}
+
+
+{% for tag in sortedtags %}
+    {{ site.tags }}
+{% endfor %}
+
