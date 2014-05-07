@@ -77,11 +77,15 @@
                     <li><a href="/projects/fll/team.html">Team</a></li>
                   {% endif %}
 				  
-				  {% if page.title == "Our Robot" %}  
-                    <li class="active"><a href="/projects/fll/robot.html">Our Robot</a></li>
-                  {% else %}
-                    <li><a href="/projects/fll/robot.html">Our Robot</a></li>
-                  {% endif %}
+				  <li class="dropdown">
+		            <a class="dropdown-toggle" data-toggle="dropdown" href="#" id="themes">WORLD CLASS<span class="caret"></span></a>
+		            <ul class="dropdown-menu" aria-labelledby="themes">
+			          <li><a tabindex="-1" href="/projects/fll/meetings.html">Meetings</a></li>
+			          <li><a tabindex="-1" href="/projects/fll/project.html">Project</a></li>
+			          <li><a tabindex="-1" href="/projects/fll/robot.html">Robot</a></li>
+			          <!-- <li><a tabindex="-1" href="/projects/fll//outreach.html">Outreach</a></li> -->
+		            </ul>
+		          </li>
               
                   {% if page.title == "Media" %}  
                     <li class="active"><a href="/projects/fll/media.html">Media</a></li>
