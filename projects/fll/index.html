@@ -57,3 +57,13 @@ var myCountdownTest = new Countdown({
 <div align="center">
 {% include donate.html %}
 </div>
+
+<h1>News</h1>
+{% for post in site.tags.FLL %}
+     <div class="post_info">
+    <li>
+         <a href="{{ post.url }}">{{ post.title }}</a>
+         <span>({{ post.date | date:"%Y-%m-%d" }})</span>
+    </li>
+    </div>
+{% endfor %}
