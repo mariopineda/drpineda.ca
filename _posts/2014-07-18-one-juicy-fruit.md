@@ -1,14 +1,15 @@
 ---
 layout: post  
 title: Raspberry Pi B+&#58; One Juicy Fruit  
-description: ...  
+description: Getting my hands on and starting to tinker with the new shiny Raspberry Pi B+ is a surprisingly pleasant experience with the greatest problem being having to decide which one of the endless possible projects to pursue. 
 modified: 2014-07-18
 category: Rpi
 tags:
 - Computers
 - Programing
+- Robotics
 featureimage: feature-rpi.jpg
-thumbnailimage: thumbnail-familysciencenight.jpg
+thumbnailimage: thumbnail-rpi.jpg
 comments: true 
 permalink: one-juicy-fruit.html
 --- 
@@ -21,6 +22,26 @@ permalink: one-juicy-fruit.html
 
 <p>Second, while the Raspberry Pi may appear as being somewhat underpowered with it's 512MB RAM and 700MHz processor, with the right operating system (namely Raspbian) it is surprisingly spiffy and if you forgo the graphical user interface and stick to command line goodness then you have a quite capable mini workstation at your disposal.</p>
 
-{% include image.html fn="rpi.jpg" caption="iPad and Raspberry Pi - like two peas in a pod. <a href="http://www.geocaching.com/track/details.aspx?guid=8d2af7f1-2fb8-4954-b26a-c2a7dbc586ee">Spotty</a> is watching the installation of \(LaTeX\) before heading to a faraway cache." %}
+<div class="row">
+  <div class="col-xs-8 col-xs-offset-2 col-md-8 col-md-offset-2">
+     <p>
+	 <figure>
+	 <img src="/img/post_images/rpi.jpg" width="100%">
+	 <figcaption>
+	 iPad and Raspberry Pi - like two peas in a pod. <a href="http://www.geocaching.com/track/details.aspx?guid=8d2af7f1-2fb8-4954-b26a-c2a7dbc586ee">Spotty</a> is watching the installation of \(LaTeX\) before heading to a faraway cache.
+	 </figcaption>
+	 </figure>
+	 </p>
+  </div>	 
+</div>
 
-<p>The real challenge with the Raspberry Pi is to figure out what to do with it, there possibilities are endless and it is hard to even figure out where to start.</p>
+<p>The real challenge with the Raspberry Pi is to figure out what to do with it, there possibilities are endless and it is hard to even figure out where to start. I could start with one of <a href="http://makezine.com/2013/04/14/47-raspberry-pi-projects-to-inspire-your-next-build/">these</a> or over <a href="http://www.raspberrypi.org/forums/viewforum.php?f=15">here</a>. Here is a short list, in no particular order, of some possible uses I am envisioning for my first Raspberry Pi (since they are so cheap it seems inevitable that one would get more than one): 
+<ul>
+<li>as a portable Linux workstation where I use my iPad as a monitor/keyboard/mouse for running \(LaTeX\), R, blogging (I can run a live Jekyll server) + anything else that iOS cannot do and that Linux does with ease.</li>
+<li>a home climate control system replacing the thermostat controlling the furnace.</li>
+<li>for monitoring and controlling vivariums, e.g. heat, light, humidity, streaming web cam, feeding, etc.</li>
+<li>as a classroom fortune telling device </li>
+<li>as a classroom based server for file sharing of teaching material and student work.</li>
+<li>as a printer server.</li>
+<li>weather station collecting, analysing and streaming environmental data. (perhaps comparing live data to forecasts to assess the reliability of weather forecasts)</li>
+</ul>
