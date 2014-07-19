@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+    
+    <style type="text/css">
+  #cover {
+   background-size: cover;
+   -moz-background-size: cover;  /* Firefox 3.6 */
+   background-position: center;  /* Internet Explorer 7/8 */
+   background-image: url({{ page.image.feature }});
+   margin-top: 0px;
+   margin-bottom: 0px;
+  }
+  
+  #cover h1 {
+   color: #000;
+   background: rgba(0, 0, 0, 0);
+   font-size: 40pt;
+   margin:0px 0px 0px 0px; 
+   padding: 0px;
+  }
+  
+  #cover h2 {
+   color: #000;
+   background: rgba(0, 0, 0, 0);
+   font-size: 15pt;
+   margin:-40px 0px 0px 0px; 
+   padding: 20px;
+  }
+  
+  .navbar {border-radius: 0;}
+ </style>
+ 
+  </head>
+  <body>
+    {% include navigation.html %}
+	
+	  <div class="container">
+        <div class="page-header" id="banner">
+          <div class="row">
+            <div id="cover">
+              <h1 class="text-center jumbotron">Science 7/8 Class Page</h1>
+			  <h2 class="text-center jumbotron"><strong>Somewhere, something incredible is waiting to be known. (<a href="http://en.wikipedia.org/wiki/Carl_Sagan">Carl Sagan</a>)</strong></h2>
+			  <div class="visible-print">
+			    <br><br><em><center>Brought to you by drpineda.ca</center></em>
+			  </div>
+            </div>
+          </div> <!-- row -->
+        </div> <!-- page-header -->
+        {{ content }}
+        {% include footer.html %}
+    {% include scripts.html %}
+      </div> <!-- container -->
+    
+  </body>
+</html>
+
