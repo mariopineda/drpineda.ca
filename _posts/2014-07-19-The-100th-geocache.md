@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: The 100the geocache
+title: The 100th geocache
 description: On this rainy day we ventured out on geocaching. We ended up finding 14 geocaches, in the process breaking the 100 cache mark.   
 modified: 2014-07-19
 category: Geocaching
