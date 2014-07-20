@@ -43,6 +43,6 @@ permalink: one-juicy-fruit.html
 <li>as a classroom fortune telling device </li>
 <li>as a classroom based server for file sharing of teaching material and student work.</li>
 <li>as a printer server.</li>
-<li>weather station collecting, analysing and streaming environmental data. (perhaps comparing live data to forecasts to assess the reliability of weather forecasts)</li>
+<li>as a weather station collecting, analysing and streaming environmental data. (perhaps comparing live data to forecasts to assess the reliability of weather forecasts)</li>
 </ul>
 </p>
