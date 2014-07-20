@@ -9,7 +9,7 @@ tags:
 featureimage: feature-geocaching.jpg
 thumbnailimage: thumbnail-geocaching.jpg
 comments: true 
-permalink: the-100the-geocache.html
+permalink: the-100th-geocache.html
 --- 
 <p>The weather was alternating between showers, thunder and sun, the mosquitoes were relentless but we had already decided that we would go geocaching today..., and so we did. Despite the moody weather we managed to track down 14 geocaches all in all in and around St. Albert and while none of the caches were terribly exciting (poor loot quality and no trackable items, contrary to the information in the logs) the highlight of the day was the finding of our 100th cache. Below is the rather non-ceremonial opening of this milestone geocache requiring a fair bit of elbow grease.</p>
 
