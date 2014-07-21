@@ -17,4 +17,3 @@ permalink: the-100th-geocache.html
 <iframe width="560" height="315" src="//www.youtube.com/embed/eCHT4MmwYRY" frameborder="0" allowfullscreen></iframe>
 </p>
 
-mindstorms-block.jpg
