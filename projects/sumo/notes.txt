@@ -1,0 +1,14 @@
+
+Sumo Bot project
+- work in classrooms
+- print and have students make their own practice field
+- save programs in a common Dropbox folder
+- Make Sumo Trading Cards
+- Robot Sumo Tournament at school
+- Robots have names and characteristics (for trading cards)
+- Demo Vlad and meet with FRC team (clases with K-Days?!)
+- Team flags and names
+
+Speed
+- gearing
+- wheel size
