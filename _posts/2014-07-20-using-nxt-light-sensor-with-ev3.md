@@ -25,5 +25,14 @@ permalink: using-nxt-light-sensor-in-ev3.html
 <li>Download the <a href="/projects/mindstorms/LightSensorBlock.ev3s">LightSensorBlock.ev3s</a> file.</li>
 <li>Click on the "EV3 Blocks" tab and select the sensor blocks you want to download.</li>
 <li>In the EV3 Software, use the Tools->Import Block menu item to import the new sensor Block.</li>
+<li>The light sensor code will appear under the "My Blocks" tab if you click on the little wrench tab in the top left part of the project interface. You should see three separate programs, LS_Calibrate.ev3p, LS_VarSet.ev3p and NXTLS.ev3p. You can open the individual programs by selecting them in the list and double clicking. Unless you know what you are doing you should avoid making changes to these programs.</li>
+</ol>
+</p>
+
+<p>To use the code for your NXT brick follow the following procedures:
+<ol>
+<li>Go to your programming canvas (where all you will have is the play button. Here you can access the custom light sensor blocks in the light blue tab at the bottom of the page.</li>
+<li>To use the NXT light sensor program you will need to download and run the LS_Calibrate program on your NXT brick. After starting the program just follow the instructions on the NXT brick display. This program will calibrate the light sensor so that the brick is able to detect the light variations that represent a change from white to black and vice versa. You only have to run the calibration program once.</li>
+<li>Once you have calibrated your light sensor you can start programing the light sensor. The LS_VarSet brick loads the calibration data into your program (this block has to be come first) and the NXTLS block outputs thelight sensor data.
 </ol>
 </p>
