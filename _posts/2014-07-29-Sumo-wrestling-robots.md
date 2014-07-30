@@ -81,7 +81,7 @@ permalink: sumo-wrestling-robots.html
   <div class="col-xs-6 col-md-4">
     <a href="http://drpineda.ca/img/post_images/summer_camp-allan.jpg" class="thumbnail">
       <img src="http://drpineda.ca/img/post_images/summer_camp-allan.jpg" alt="125x125">
-	  <figcaption>Allan ze Bot</figcaption>
+	  <figcaption>Allan ze Bot earning a second place in the tournament</figcaption>
     </a>
   </div>  
   <div class="col-xs-6 col-md-4">
@@ -102,7 +102,7 @@ permalink: sumo-wrestling-robots.html
   <div class="col-xs-6 col-md-4">
     <a href="http://drpineda.ca/img/post_images/summer_camp-destroyer.jpg" class="thumbnail">
       <img src="http://drpineda.ca/img/post_images/summer_camp-destroyer.jpg" alt="125x125">
-	  <figcaption>Destroyer</figcaption>
+	  <figcaption>Destroyer earned a third place in the tournament</figcaption>
     </a>
   </div>  
   <div class="col-xs-6 col-md-4">
