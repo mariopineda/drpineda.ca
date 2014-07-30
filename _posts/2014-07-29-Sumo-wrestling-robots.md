@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: Engineering, programming and a whole lot of sumo wrestling robots  
-description: One week of hard work by young robot engineers resulted in a remarkable line-up of sumobots ready to battle for the glory becoming the champion in the Opcom sumobot tournament.
+description: A week of hard work by young robot engineers and lots of programming resulted in a remarkable line-up of sumobots ready to battle for the glory of becoming the champion sumobot.
 modified: 2014-07-29
 category: Robotics
 tags:
