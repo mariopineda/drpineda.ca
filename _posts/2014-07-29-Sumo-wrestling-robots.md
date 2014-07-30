@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: Engineering, programming and a whole lot of sumo wrestling robots  
+title: Engineering, programming and a whole lot of sumo wrestling  
 description: A week of hard work by young robot engineers and lots of programming resulted in a remarkable line-up of sumobots ready to battle for the glory of becoming the champion sumobot.
 modified: 2014-07-29
 category: Robotics
