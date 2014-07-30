@@ -1,7 +1,7 @@
 ---
 layout: post  
-title: Robotics Camp  
-description: One week of hard work by young robot engineers resulted in a remarkable line-up of sumobots ready to battle for the glory becoming the chamption in the Opcom sumobot tournament.
+title: Engineering, programming and a whole lot of sumo wrestling robots  
+description: One week of hard work by young robot engineers resulted in a remarkable line-up of sumobots ready to battle for the glory becoming the champion in the Opcom sumobot tournament.
 modified: 2014-07-29
 category: Robotics
 tags:
@@ -13,7 +13,7 @@ tags:
 featureimage: feature-summercamp.jpg
 thumbnailimage: thumbnail-summercamp.jpg
 comments: true 
-permalink: family-science-night-2014.html
+permalink: sumo-wrestling-robots.html
 --- 
 <p>Last week I was running the Opcom robotics summer camp. See <a href="wanted-lego-ninjas.html">previous post on more details about the camps</a>. Nine young robot engineers participated in the camp and were challenged to designing, building and programing a LEGO Mindstorms robot able to practice the not so ancient sport of robot sumo wrestling.</p>
 
