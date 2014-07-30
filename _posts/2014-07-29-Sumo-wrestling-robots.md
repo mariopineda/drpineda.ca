@@ -128,7 +128,7 @@ permalink: sumo-wrestling-robots.html
   </div>   
 </div>
 
-<p>The week flew by with the robot engineers working hard designing their robots, programming them, brainstorming game strategies and going through many practice rounds and design and program revisions to perfect their creations.</p>
+<p>The week flew by with the robot engineers working hard designing their robots, programming, brainstorming game strategies and going through many practice rounds and design and program revisions to perfect their creations. One of the key lessons learned was the iterative nature of engineering and programming where there is no such things as a perfect design and/or program at the outset. Instead the process is characterized by repeated testing (or performance), feedback and revisions, <a href="https://www.youtube.com/watch?v=ROgR3nK6ayk">sounding reminiscent</a> from a different walk of life.</p>
 
 <div class="row">
   <div class="col-xs-6 col-md-4">
