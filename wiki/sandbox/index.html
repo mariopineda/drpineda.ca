@@ -43,7 +43,7 @@ ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF S
 DAMAGE.
 " />
 <link id="faviconLink" rel="shortcut icon" href="favicon.ico">
-<title>My TiddlyWiki — a non-linear personal web notebook</title>
+<title>Sandbox TW — a non-linear hyperlinked Open Source textbook</title>
 <!--~~ This is a Tiddlywiki file. The points of interest in the file are marked with this pattern ~~--><!--~~ Raw markup ~~-->
 
 </head>
@@ -117,21 +117,123 @@ Error message and password prompt
 
 <p>This <a class='tw-tiddlylink-external' href='http://tiddlywiki.com' target='_blank'>TiddlyWiki</a> contains the following tiddlers:</p><p><ul>
 
+<li>$:/config/AnimationDuration</li>
+
+<li>$:/config/Navigation/UpdateAddressBar</li>
+
+<li>$:/config/Navigation/UpdateHistory</li>
+
 <li>$:/core</li>
+
+<li>$:/core/Filters/AllTags</li>
+
+<li>$:/core/ui/PageTemplate/sidebar</li>
+
+<li>$:/core/ui/SideBar/More</li>
+
+<li>$:/core/ui/SideBar/Open</li>
+
+<li>$:/core/ui/SideBar/Recent</li>
+
+<li>$:/core/ui/SideBar/Tools</li>
+
+<li>$:/core/ui/ViewTemplate/title</li>
 
 <li>$:/HistoryList</li>
 
 <li>$:/isEncrypted</li>
 
+<li>$:/palette</li>
+
 <li>$:/plugins/tiddlywiki/fullscreen</li>
 
+<li>$:/plugins/tiddlywiki/fullscreen/init.js</li>
+
+<li>$:/plugins/tongerner/ro</li>
+
+<li>$:/plugins/tongerner/ro/menu-button</li>
+
+<li>$:/plugins/tongerner/ro/publish</li>
+
+<li>$:/SiteSubtitle</li>
+
+<li>$:/SiteTitle</li>
+
+<li>$:/state/showeditpreview</li>
+
+<li>$:/state/sidebar</li>
+
+<li>$:/state/tab-{-1808151657}</li>
+
+<li>$:/state/tab-{-425860255}</li>
+
+<li>$:/state/tab-{1296820639}</li>
+
+<li>$:/state/tab-{1802859226}</li>
+
+<li>$:/state/tab-{794734817}</li>
+
+<li>$:/state/tab/moresidebar-{947362856}</li>
+
+<li>$:/state/tab/sidebar-{-854842818}</li>
+
+<li>$:/state/tab/sidebar-{312696086}</li>
+
+<li>$:/status/UserName</li>
+
 <li>$:/StoryList</li>
+
+<li>$:/tags/MoreSideBar</li>
+
+<li>$:/temp/newfieldname</li>
+
+<li>$:/temp/NewTagName</li>
+
+<li>$:/temp/search</li>
+
+<li>$:/theme</li>
 
 <li>$:/themes/tiddlywiki/snowwhite</li>
 
 <li>$:/themes/tiddlywiki/vanilla</li>
 
+<li>GettingStarted</li>
+
+<li>Grade 7 Science Units of Study</li>
+
 <li>Hello world</li>
+
+<li>List of tags</li>
+
+<li>New Tiddler</li>
+
+<li>Syllabus Math 7</li>
+
+<li>Topic 1: Interactions Within Ecosystems</li>
+
+<li>Topic 2: Human Impact on Ecosystems</li>
+
+<li>Topic 3: Environmental Choices</li>
+
+<li>Topic 4: How Organisms Interact</li>
+
+<li>Topic 5: Cycles in the Environment</li>
+
+<li>Topic 6: Succession and Change in Ecosystems</li>
+
+<li>Topic 7: Environmental Monitoring</li>
+
+<li>Unit A: Interactions and Ecosystems</li>
+
+<li>Unit B: Plants for Food and Fibre</li>
+
+<li>Unit C: Heat and Temperature</li>
+
+<li>Unit D: Structures and Forces</li>
+
+<li>Unit E: Planet Earth</li>
+
+<li>Untitled</li>
 
 </ul>
 </p>
@@ -143,6 +245,15 @@ Error message and password prompt
 <!--~~ Ordinary tiddlers ~~-->
 
 <div id="storeArea" style="display:none;">
+<div created="20140808185231926" creator="Dr. Pineda" modified="20140808185231926" modifier="Dr. Pineda" title="$:/config/AnimationDuration">
+<pre>400</pre>
+</div>
+<div title="$:/config/Navigation/UpdateAddressBar">
+<pre>no</pre>
+</div>
+<div title="$:/config/Navigation/UpdateHistory">
+<pre>no</pre>
+</div>
 <div author="JeremyRuston" core-version="&gt;=5.0.0" dependents="" description="TiddlyWiki5 core plugin" plugin-priority="0" plugin-type="plugin" title="$:/core" type="application/json" version="5.0.13-beta">
 <pre>{
     &quot;tiddlers&quot;: {
@@ -3878,7 +3989,127 @@ Error message and password prompt
     }
 }</pre>
 </div>
-<div current-tiddler="Hello world" modified="20140805033457227" title="$:/HistoryList" type="application/json">
+<div created="20140808185305119" creator="Dr. Pineda" description="{{$:/language/Filters/AllTags}}" filter="[tags[]!is[system]sort[title]]" modified="20140808185305119" modifier="Dr. Pineda" tags="$:/tags/Filter" title="$:/core/Filters/AllTags">
+<pre></pre>
+</div>
+<div created="20140805035502268" creator="Dr. Pineda" modified="20140805035539037" modifier="Dr. Pineda" tags="$:/tags/PageTemplate" title="$:/core/ui/PageTemplate/sidebar">
+<pre>&lt;$scrollable fallthrough=&quot;no&quot; class=&quot;tw-sidebar-scrollable&quot;&gt;
+
+&lt;div class=&quot;sidebar-header&quot;&gt;
+
+&lt;$reveal state=&quot;$:/state/sidebar&quot; type=&quot;match&quot; text=&quot;yes&quot; default=&quot;yes&quot; retain=&quot;yes&quot;&gt;
+
+&lt;h1 class=&quot;tw-site-title&quot;&gt;
+
+&lt;$transclude tiddler=&quot;$:/SiteTitle&quot; mode=&quot;inline&quot;/&gt;
+
+&lt;/h1&gt;
+
+&lt;div class=&quot;tw-site-subtitle&quot;&gt;
+
+&lt;$transclude tiddler=&quot;$:/SiteSubtitle&quot; mode=&quot;inline&quot;/&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;tw-page-controls&quot;&gt;
+
+&lt;$list filter=&quot;[all[shadows+tiddlers]tag[$:/tags/PageControls]!has[draft.of]]&quot; variable=&quot;listItem&quot;&gt;
+
+&lt;$transclude tiddler=&lt;&lt;listItem&gt;&gt; mode=&quot;inline&quot;/&gt;
+
+&lt;/$list&gt;
+
+&lt;/div&gt;
+
+&lt;$transclude tiddler=&quot;$:/core/ui/SideBarLists&quot; mode=&quot;inline&quot;/&gt;
+
+&lt;/$reveal&gt;
+
+&lt;/div&gt;
+
+&lt;/$scrollable&gt;</pre>
+</div>
+<div caption="{{$:/language/SideBar/More/Caption}}" modified="20140808200558198" modifier="Dr. Pineda" tags="$:/tags/hide $:/tags/SideBar" title="$:/core/ui/SideBar/More">
+<pre>&lt;div class=&quot;tw-more-sidebar&quot;&gt;
+&lt;&lt;tabs &quot;[all[shadows+tiddlers]tag[$:/tags/MoreSideBar]!has[draft.of]]&quot; &quot;$:/core/ui/MoreSideBar/Tags&quot; &quot;$:/state/tab/moresidebar&quot; &quot;tw-vertical&quot;&gt;&gt;
+&lt;/div&gt;
+</pre>
+</div>
+<div caption="{{$:/language/SideBar/Open/Caption}}" modified="20140808200557334" modifier="Dr. Pineda" tags="$:/tags/hide $:/tags/SideBar" title="$:/core/ui/SideBar/Open">
+<pre>\define lingo-base() $:/language/CloseAll/
+&lt;$list filter=&quot;[list[$:/StoryList]]&quot; history=&quot;$:/HistoryList&quot; storyview=&quot;pop&quot;&gt;
+
+&lt;$button message=&quot;tw-close-tiddler&quot; title={{$:/language/Buttons/Close/Hint}} aria-label={{$:/language/Buttons/Close/Caption}} class=&quot;btn-invisible btn-mini&quot;&gt;&amp;times;&lt;/$button&gt; &lt;$link to={{!!title}}&gt;&lt;$view field=&quot;title&quot;/&gt;&lt;/$link&gt;
+
+&lt;/$list&gt;
+
+&lt;$button message=&quot;tw-close-all-tiddlers&quot; class=&quot;btn-invisible btn-mini&quot;&gt;&lt;&lt;lingo Button&gt;&gt;&lt;/$button&gt;
+</pre>
+</div>
+<div caption="{{$:/language/SideBar/Recent/Caption}}" modified="20140808200600065" modifier="Dr. Pineda" tags="$:/tags/hide $:/tags/SideBar" title="$:/core/ui/SideBar/Recent">
+<pre>{{$:/snippets/recentchanges}}
+</pre>
+</div>
+<div caption="{{$:/language/SideBar/Tools/Caption}}" modified="20140808200556846" modifier="Dr. Pineda" tags="$:/tags/hide $:/tags/SideBar" title="$:/core/ui/SideBar/Tools">
+<pre>\define lingo-base() $:/language/ControlPanel/
+&lt;&lt;lingo Tools/Import/Prompt&gt;&gt; &lt;$browse/&gt;
+
+---
+
+{{$:/snippets/encryptionstatus}}
+
+---
+
+&lt;&lt;lingo Basics/Version/Prompt&gt;&gt; &lt;&lt;version&gt;&gt;
+
+---
+
+{{$:/snippets/viewswitcher}}
+
+---
+
+{{$:/snippets/minithemeswitcher}}
+
+---
+
+{{$:/snippets/languageswitcher}}
+</pre>
+</div>
+<div created="20140805113009017" creator="Dr. Pineda" modified="20140805113032225" modifier="Dr. Pineda" tags="$:/tags/ViewTemplate" title="$:/core/ui/ViewTemplate/title">
+<pre>\define title-styles()
+fill:$(foregroundColor)$;
+\end
+&lt;div class=&quot;tw-tiddler-title&quot;&gt;
+&lt;h2 class=&quot;titlebar&quot;&gt;
+&lt;span class=&quot;tw-tiddler-controls&quot;&gt;
+&lt;$list filter=&quot;[all[shadows+tiddlers]tag[$:/tags/ViewToolbar]!has[draft.of]]&quot; variable=&quot;listItem&quot;&gt;&lt;$transclude tiddler=&lt;&lt;listItem&gt;&gt;/&gt;&lt;/$list&gt;
+&lt;/span&gt;
+&lt;div class=&quot;tw-tiddler-title-space&quot;&gt;&amp;nbsp;&lt;/div&gt;
+&lt;$set name=&quot;foregroundColor&quot; value={{!!color}}&gt;
+&lt;span style=&lt;&lt;title-styles&gt;&gt;&gt;
+&lt;$transclude tiddler={{!!icon}}/&gt;
+&lt;/span&gt;
+&lt;/$set&gt;
+&lt;$list filter=&quot;[all[current]removeprefix[$:/]]&quot;&gt;
+&lt;span class=&quot;title&quot; title={{$:/language/SystemTiddler/Tooltip}}&gt;
+&lt;span class=&quot;tw-system-title-prefix&quot;&gt;$:/&lt;/span&gt;&lt;$text text=&lt;&lt;currentTiddler&gt;&gt;/&gt;
+&lt;/span&gt;
+&lt;/$list&gt;
+&lt;$list filter=&quot;[all[current]!prefix[$:/]]&quot;&gt;
+&lt;span class=&quot;title&quot;&gt;
+&lt;$view field=&quot;title&quot;/&gt;
+&lt;/span&gt;
+&lt;/$list&gt;
+&lt;/h2&gt;
+
+&lt;$reveal type=&quot;nomatch&quot; text=&quot;&quot; default=&quot;&quot; state=&lt;&lt;tiddlerInfoState&gt;&gt; class=&quot;tw-tiddler-info tw-popup&quot; animate=&quot;yes&quot; retain=&quot;yes&quot;&gt;
+
+&lt;$transclude tiddler=&quot;$:/core/ui/TiddlerInfo&quot;/&gt;
+
+&lt;/$reveal&gt;
+&lt;/div&gt;</pre>
+</div>
+<div current-tiddler="Topic 7: Environmental Monitoring" modified="20140808204846646" modifier="Dr. Pineda" title="$:/HistoryList" type="application/json">
 <pre>[
     {
         &quot;title&quot;: &quot;GettingStarted&quot;
@@ -3891,11 +4122,822 @@ Error message and password prompt
     },
     {
         &quot;title&quot;: &quot;Hello world&quot;
+    },
+    {
+        &quot;title&quot;: &quot;GettingStarted&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Hello world&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 286.16668701171875,
+            &quot;left&quot;: 777,
+            &quot;width&quot;: 68,
+            &quot;right&quot;: 845,
+            &quot;bottom&quot;: 302.16668701171875,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;$:/ControlPanel&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 144.48333740234375,
+            &quot;left&quot;: 799.3333129882812,
+            &quot;width&quot;: 29.333343505859375,
+            &quot;right&quot;: 828.6666259765625,
+            &quot;bottom&quot;: 172.38333129882812,
+            &quot;height&quot;: 27.899993896484375
+        }
+    },
+    {
+        &quot;title&quot;: &quot;$:/ControlPanel&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 144.48333740234375,
+            &quot;left&quot;: 799.3333129882812,
+            &quot;width&quot;: 29.333343505859375,
+            &quot;right&quot;: 828.6666259765625,
+            &quot;bottom&quot;: 172.38333129882812,
+            &quot;height&quot;: 27.899993896484375
+        }
+    },
+    {
+        &quot;title&quot;: &quot;$:/config/Navigation/UpdateHistory&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 186.98333740234375,
+            &quot;left&quot;: 85,
+            &quot;width&quot;: 326,
+            &quot;right&quot;: 411,
+            &quot;bottom&quot;: 202.98333740234375,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;GettingStarted&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 266.16668701171875,
+            &quot;left&quot;: 782,
+            &quot;width&quot;: 103,
+            &quot;right&quot;: 885,
+            &quot;bottom&quot;: 282.16668701171875,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;$:/StoryList&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 485,
+            &quot;left&quot;: 847,
+            &quot;width&quot;: 71,
+            &quot;right&quot;: 918,
+            &quot;bottom&quot;: 501,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;$:/state/sidebar&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 325,
+            &quot;left&quot;: 847,
+            &quot;width&quot;: 98,
+            &quot;right&quot;: 945,
+            &quot;bottom&quot;: 341,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;$:/core/ui/MoreSideBar/All&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 266.16668701171875,
+            &quot;left&quot;: 846,
+            &quot;width&quot;: 182,
+            &quot;right&quot;: 1028,
+            &quot;bottom&quot;: 282.16668701171875,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;$:/core/ui/PageTemplate/sidebar&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 266.16668701171875,
+            &quot;left&quot;: 846,
+            &quot;width&quot;: 224,
+            &quot;right&quot;: 1070,
+            &quot;bottom&quot;: 282.16668701171875,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;Draft of '$:/core/ui/PageTemplate/sidebar'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of '$:/core/ui/PageTemplate/sidebar'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;$:/core/ui/PageTemplate/sidebar&quot;
+    },
+    {
+        &quot;title&quot;: &quot;$:/core/ui/PageTemplate/sidebar&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of '$:/core/ui/PageTemplate/sidebar'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of '$:/core/ui/PageTemplate/sidebar'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;$:/core/ui/PageTemplate/sidebar&quot;
+    },
+    {
+        &quot;title&quot;: &quot;$:/state/sidebar&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 289.16668701171875,
+            &quot;left&quot;: 782,
+            &quot;width&quot;: 98,
+            &quot;right&quot;: 880,
+            &quot;bottom&quot;: 305.16668701171875,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;$:/core/ui/MoreSideBar/All&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 266.16668701171875,
+            &quot;left&quot;: 782,
+            &quot;width&quot;: 182,
+            &quot;right&quot;: 964,
+            &quot;bottom&quot;: 282.16668701171875,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;$:/state/tab-{-425860255}&quot;
+    },
+    {
+        &quot;title&quot;: &quot;$:/TagManager&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 108.16667175292969,
+            &quot;left&quot;: 846,
+            &quot;width&quot;: 102,
+            &quot;right&quot;: 948,
+            &quot;bottom&quot;: 124.16667175292969,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;$:/tags/SideBar&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 268.16668701171875,
+            &quot;left&quot;: 846,
+            &quot;width&quot;: 105,
+            &quot;right&quot;: 951,
+            &quot;bottom&quot;: 284.16668701171875,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;Draft of '$:/tags/SideBar'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of '$:/tags/SideBar'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;$:/tags/SideBar&quot;
+    },
+    {
+        &quot;title&quot;: &quot;$:/core/ui/ViewTemplate/title&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 438.16668701171875,
+            &quot;left&quot;: 846,
+            &quot;width&quot;: 196,
+            &quot;right&quot;: 1042,
+            &quot;bottom&quot;: 454.16668701171875,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;Draft of '$:/core/ui/ViewTemplate/title'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of '$:/core/ui/ViewTemplate/title'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;$:/core/ui/ViewTemplate/title&quot;
+    },
+    {
+        &quot;title&quot;: &quot;GettingStarted&quot;
+    },
+    {
+        &quot;title&quot;: &quot;$:/ControlPanel&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 144.48333740234375,
+            &quot;left&quot;: 799.3333129882812,
+            &quot;width&quot;: 29.333343505859375,
+            &quot;right&quot;: 828.6666259765625,
+            &quot;bottom&quot;: 172.38333129882812,
+            &quot;height&quot;: 27.899993896484375
+        }
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'New Tiddler'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'New Tiddler'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Syllabus Math 7&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Syllabus Math 7&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 266.16668701171875,
+            &quot;left&quot;: 782,
+            &quot;width&quot;: 100,
+            &quot;right&quot;: 882,
+            &quot;bottom&quot;: 282.16668701171875,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'Syllabus Math 7'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'Syllabus Math 7'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Syllabus Math 7&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'Syllabus Math 7'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'Syllabus Math 7'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Syllabus Math 7&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'New Tiddler'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'New Tiddler'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;List of tags&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'List of tags'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'List of tags'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;List of tags&quot;
+    },
+    {
+        &quot;title&quot;: &quot;$:/plugins/tiddlywiki/fullscreen/init.js&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 321.16668701171875,
+            &quot;left&quot;: 846,
+            &quot;width&quot;: 254,
+            &quot;right&quot;: 1100,
+            &quot;bottom&quot;: 337.16668701171875,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;Draft of '$:/plugins/tiddlywiki/fullscreen/init.js'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of '$:/plugins/tiddlywiki/fullscreen/init.js'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;$:/plugins/tongerner/ro&quot;
+    },
+    {
+        &quot;title&quot;: &quot;$:/plugins/tongerner/ro&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of '$:/plugins/tiddlywiki/fullscreen/init.js'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of '$:/plugins/tiddlywiki/fullscreen/init.js'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;$:/plugins/tiddlywiki/fullscreen/init.js&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'New Tiddler'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'New Tiddler'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;New Tiddler&quot;
+    },
+    {
+        &quot;title&quot;: &quot;New Tiddler&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 286.16668701171875,
+            &quot;left&quot;: 777,
+            &quot;width&quot;: 73,
+            &quot;right&quot;: 850,
+            &quot;bottom&quot;: 302.16668701171875,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;Syllabus Math 7&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 326.16668701171875,
+            &quot;left&quot;: 777,
+            &quot;width&quot;: 100,
+            &quot;right&quot;: 877,
+            &quot;bottom&quot;: 342.16668701171875,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;$:/boot/boot.css&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 280.16668701171875,
+            &quot;left&quot;: 847,
+            &quot;width&quot;: 101,
+            &quot;right&quot;: 948,
+            &quot;bottom&quot;: 296.16668701171875,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;$:/SiteSubtitle&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 560.1666870117188,
+            &quot;left&quot;: 847,
+            &quot;width&quot;: 87,
+            &quot;right&quot;: 934,
+            &quot;bottom&quot;: 576.1666870117188,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;$:/state/sidebar&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 259,
+            &quot;left&quot;: 847,
+            &quot;width&quot;: 98,
+            &quot;right&quot;: 945,
+            &quot;bottom&quot;: 275,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;$:/status/UserName&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 516,
+            &quot;left&quot;: 847,
+            &quot;width&quot;: 123,
+            &quot;right&quot;: 970,
+            &quot;bottom&quot;: 532,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;$:/HistoryList&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 360,
+            &quot;left&quot;: 847,
+            &quot;width&quot;: 81,
+            &quot;right&quot;: 928,
+            &quot;bottom&quot;: 376,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;$:/config/AnimationDuration&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 300.16668701171875,
+            &quot;left&quot;: 846,
+            &quot;width&quot;: 193,
+            &quot;right&quot;: 1039,
+            &quot;bottom&quot;: 316.16668701171875,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;Draft of '$:/config/AnimationDuration'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of '$:/config/AnimationDuration'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;$:/config/AnimationDuration&quot;
+    },
+    {
+        &quot;title&quot;: &quot;$:/core/copyright.txt&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 446.16668701171875,
+            &quot;left&quot;: 846,
+            &quot;width&quot;: 140,
+            &quot;right&quot;: 986,
+            &quot;bottom&quot;: 462.16668701171875,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;$:/core/Filters/AllTags&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 252.1666717529297,
+            &quot;left&quot;: 846,
+            &quot;width&quot;: 150,
+            &quot;right&quot;: 996,
+            &quot;bottom&quot;: 268.16668701171875,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;Draft of '$:/core/Filters/AllTags'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of '$:/core/Filters/AllTags'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;$:/core/Filters/AllTags&quot;
+    },
+    {
+        &quot;title&quot;: &quot;$:/core/images/cancel-button&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 365.16668701171875,
+            &quot;left&quot;: 846,
+            &quot;width&quot;: 203,
+            &quot;right&quot;: 1049,
+            &quot;bottom&quot;: 381.16668701171875,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;GettingStarted&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 562.1666870117188,
+            &quot;left&quot;: 846,
+            &quot;width&quot;: 103,
+            &quot;right&quot;: 949,
+            &quot;bottom&quot;: 578.1666870117188,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'GettingStarted'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'GettingStarted'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;GettingStarted&quot;
+    },
+    {
+        &quot;title&quot;: &quot;$:/tags/MoreSideBar&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 242.1666717529297,
+            &quot;left&quot;: 846,
+            &quot;width&quot;: 142,
+            &quot;right&quot;: 988,
+            &quot;bottom&quot;: 258.16668701171875,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;Draft of '$:/tags/MoreSideBar'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of '$:/tags/MoreSideBar'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;$:/tags/MoreSideBar&quot;
+    },
+    {
+        &quot;title&quot;: &quot;$:/tags/MoreSideBar&quot;
+    },
+    {
+        &quot;title&quot;: &quot;$:/palettes/Rocker&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 283.16668701171875,
+            &quot;left&quot;: 846,
+            &quot;width&quot;: 127,
+            &quot;right&quot;: 973,
+            &quot;bottom&quot;: 299.16668701171875,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;$:/plugins/tongerner/ro/help&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 343.16668701171875,
+            &quot;left&quot;: 846,
+            &quot;width&quot;: 197,
+            &quot;right&quot;: 1043,
+            &quot;bottom&quot;: 359.16668701171875,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;$:/ControlPanel&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 144.48333740234375,
+            &quot;left&quot;: 799.3333129882812,
+            &quot;width&quot;: 29.333343505859375,
+            &quot;right&quot;: 828.6666259765625,
+            &quot;bottom&quot;: 172.38333129882812,
+            &quot;height&quot;: 27.899993896484375
+        }
+    },
+    {
+        &quot;title&quot;: &quot;$:/DefaultTiddlers&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 460.433349609375,
+            &quot;left&quot;: 368,
+            &quot;width&quot;: 123,
+            &quot;right&quot;: 491,
+            &quot;bottom&quot;: 476.433349609375,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;$:/plugins/tongerner/ro/publish&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 298.433349609375,
+            &quot;left&quot;: 164,
+            &quot;width&quot;: 218,
+            &quot;right&quot;: 382,
+            &quot;bottom&quot;: 314.433349609375,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'New Tiddler 1'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Unit of Study&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'Unit of Study'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Untitled&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Unit of Study&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'Unit of Study'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Grade 7 Science Units of Study&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'New Tiddler 1'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'Grade 7 Science Units of Study'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Interactions and Ecosystems&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Grade 7 Science Units of Study&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'Interactions and Ecosystems'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Unit A: Interactions and Ecosystems&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'New Tiddler 1'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Unit B: Plants for Food and Fibre&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'New Tiddler 1'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Unit C: Heat and Temperature&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'New Tiddler 1'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Unit D: Structures and Forces&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'New Tiddler 1'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Unit E: Planet Earth&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'Grade 7 Science Units of Study'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Grade 7 Science Units of Study&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Unit E: Planet Earth&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 223.96665954589844,
+            &quot;left&quot;: 85,
+            &quot;width&quot;: 123,
+            &quot;right&quot;: 208,
+            &quot;bottom&quot;: 239.96665954589844,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;Unit A: Interactions and Ecosystems&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 178.96665954589844,
+            &quot;left&quot;: 85,
+            &quot;width&quot;: 225,
+            &quot;right&quot;: 310,
+            &quot;bottom&quot;: 194.96665954589844,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'Unit A: Interactions and Ecosystems'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Grade 7 Science Units of Study&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 306.16668701171875,
+            &quot;left&quot;: 777,
+            &quot;width&quot;: 197,
+            &quot;right&quot;: 974,
+            &quot;bottom&quot;: 322.16668701171875,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'Grade 7 Science Units of Study'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Grade 7 Science Units of Study&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Unit A: Interactions and Ecosystems&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Topic 1: Interactions Within Ecosystems&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 143.96665954589844,
+            &quot;left&quot;: 85,
+            &quot;width&quot;: 251,
+            &quot;right&quot;: 336,
+            &quot;bottom&quot;: 159.96665954589844,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'Topic 1: Interactions Within Ecosystems'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Topic 1: Interactions Within Ecosystems&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'Topic 1: Interactions Within Ecosystems'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Topic 1: Interactions Within Ecosystems&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Topic 2: Human Impact on Ecosystems&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 108.96665954589844,
+            &quot;left&quot;: 85,
+            &quot;width&quot;: 244,
+            &quot;right&quot;: 329,
+            &quot;bottom&quot;: 124.96665954589844,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'Topic 2: Human Impact on Ecosystems'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Topic 2: Human Impact on Ecosystems&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Topic 3: Environmental Choices&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 147.96665954589844,
+            &quot;left&quot;: 85,
+            &quot;width&quot;: 198,
+            &quot;right&quot;: 283,
+            &quot;bottom&quot;: 163.96665954589844,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'Topic 3: Environmental Choices'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Topic 3: Environmental Choices&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Topic 4: How Organisms Interact&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 84.96665954589844,
+            &quot;left&quot;: 85,
+            &quot;width&quot;: 205,
+            &quot;right&quot;: 290,
+            &quot;bottom&quot;: 100.96665954589844,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'Topic 4: How Organisms Interact'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Topic 4: How Organisms Interact&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Topic 5: Cycles in the Environment&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 265.9666748046875,
+            &quot;left&quot;: 85,
+            &quot;width&quot;: 217,
+            &quot;right&quot;: 302,
+            &quot;bottom&quot;: 281.9666748046875,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;Topic 5: Cycles in the Environment&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 258.9666748046875,
+            &quot;left&quot;: 85,
+            &quot;width&quot;: 217,
+            &quot;right&quot;: 302,
+            &quot;bottom&quot;: 274.9666748046875,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;Topic 5: Cycles in the Environment&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 258.9666748046875,
+            &quot;left&quot;: 85,
+            &quot;width&quot;: 217,
+            &quot;right&quot;: 302,
+            &quot;bottom&quot;: 274.9666748046875,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'Topic 5: Cycles in the Environment'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Topic 5: Cycles in the Environment&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Topic 6: Succession and Change in Ecosystems&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 285.9666748046875,
+            &quot;left&quot;: 85,
+            &quot;width&quot;: 302,
+            &quot;right&quot;: 387,
+            &quot;bottom&quot;: 301.9666748046875,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'Topic 6: Succession and Change in Ecosystems'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Topic 6: Succession and Change in Ecosystems&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Topic 7: Environmental Monitoring&quot;,
+        &quot;fromPageRect&quot;: {
+            &quot;top&quot;: 305.9666748046875,
+            &quot;left&quot;: 85,
+            &quot;width&quot;: 214,
+            &quot;right&quot;: 299,
+            &quot;bottom&quot;: 321.9666748046875,
+            &quot;height&quot;: 16
+        }
+    },
+    {
+        &quot;title&quot;: &quot;Draft of 'Topic 7: Environmental Monitoring'&quot;
+    },
+    {
+        &quot;title&quot;: &quot;Topic 7: Environmental Monitoring&quot;
     }
 ]</pre>
 </div>
 <div title="$:/isEncrypted">
 <pre>no</pre>
+</div>
+<div modified="20140805034204124" title="$:/palette">
+<pre>$:/palettes/Vanilla</pre>
 </div>
 <div author="JeremyRuston" core-version="&gt;=5.0.0" dependents="" description="Adds support for HTML5 full screen mode" plugin-type="plugin" title="$:/plugins/tiddlywiki/fullscreen" type="application/json" version="5.0.13-beta">
 <pre>{
@@ -3909,8 +4951,236 @@ Error message and password prompt
     }
 }</pre>
 </div>
-<div list="[[Hello world]] GettingStarted" title="$:/StoryList">
+<div created="20140808180000236" creator="Dr. Pineda" modified="20140808180000236" modifier="Dr. Pineda" module-type="startup" title="$:/plugins/tiddlywiki/fullscreen/init.js" type="application/javascript">
+<pre>/*\
+title: $:/plugins/tiddlywiki/fullscreen/init.js
+type: application/javascript
+module-type: startup
+
+Message handler for full screen mode
+
+\*/
+(function(){
+
+/*jslint node: true, browser: true */
+/*global $tw: false, Element: false */
+&quot;use strict&quot;;
+
+// Export name and synchronous status
+exports.name = &quot;full-screen&quot;;
+exports.platforms = [&quot;browser&quot;];
+exports.after = [&quot;startup&quot;];
+exports.synchronous = true;
+
+exports.startup = function() {
+	var d = document,
+		db = d.body,
+		_requestFullscreen = db.webkitRequestFullscreen !== undefined ? &quot;webkitRequestFullscreen&quot; :
+							db.mozRequestFullScreen !== undefined ? &quot;mozRequestFullScreen&quot; :
+							db.msRequestFullscreen !== undefined ? &quot;msRequestFullscreen&quot; :
+							db.requestFullscreen !== undefined ? &quot;requestFullscreen&quot; : &quot;&quot;,
+		_exitFullscreen = d.webkitExitFullscreen !== undefined ? &quot;webkitExitFullscreen&quot; :
+							d.mozCancelFullScreen !== undefined ? &quot;mozCancelFullScreen&quot; :
+							d.msExitFullscreen !== undefined ? &quot;msExitFullscreen&quot; :
+							d.exitFullscreen !== undefined ? &quot;exitFullscreen&quot; : &quot;&quot;,
+		_fullscreenElement = d.webkitFullscreenElement !== undefined ? &quot;webkitFullscreenElement&quot; :
+							d.mozFullScreenElement !== undefined ? &quot;mozFullScreenElement&quot; :
+							d.msFullscreenElement !== undefined ? &quot;msFullscreenElement&quot; :
+							d.fullscreenElement !== undefined ? &quot;fullscreenElement&quot; : &quot;&quot;;
+	// Install the full screen handler
+	if(_requestFullscreen) {
+		$tw.rootWidget.addEventListener(&quot;tw-full-screen&quot;,function(event) {
+			if(document[_fullscreenElement]) {
+				document[_exitFullscreen]();
+			} else {
+				document.documentElement[_requestFullscreen](Element.ALLOW_KEYBOARD_INPUT);
+			}
+		});
+	}
+};
+
+})();
+</pre>
+</div>
+<div author="TonGerner" created="20140716185113624" creator="TonGerner" description="Plugin to make TiddlyWiki read-only" modified="20140718185304173" modifier="TonGerner" plugin-type="plugin" title="$:/plugins/tongerner/ro" type="application/json" version="0.0.5">
+<pre>{
+    &quot;tiddlers&quot;: {
+        &quot;$:/plugins/tongerner/ro/publish&quot;: {
+            &quot;created&quot;: &quot;20140715185723459&quot;,
+            &quot;creator&quot;: &quot;TonGerner&quot;,
+            &quot;text&quot;: &quot;\\define slider(label,text)\n&lt;$button popup=\&quot;$:/state/$label$\&quot; class=\&quot;btn-invisible tw-slider\&quot;&gt;&lt;$text text=\&quot;$label$\&quot;/&gt;&lt;/$button&gt;\n&lt;$reveal type=\&quot;nomatch\&quot; text=\&quot;\&quot; default=\&quot;\&quot; state=\&quot;$:/state/$label$\&quot; animate=\&quot;yes\&quot;&gt;\n\n$text$\n\n&lt;/$reveal&gt;\n\\end\n\n@@display:none;\nsvg.tw-image-new-button, svg.tw-image-options-button, svg.tw-image-save-button, svg.tw-image-edit-button, svg.tw-image-delete-button, svg.tw-image-cancel-button, svg.tw-image-done-button {\n     display: none;\n}\n@@\n\n&lt;&lt;slider \&quot;Help »\&quot; \&quot;{{$:/plugins/tongerner/ro/help}}\&quot;&gt;&gt;\n&lt;hr&gt;\n\n!!1) Sidebar tabs\nHiding tabs in the Sidebar is a 2-step procedure:&lt;br&gt;\n&amp;nbsp;&amp;nbsp;1a) Add the tag `$:/tags/hide` to tabs you want to manipulate.&lt;br&gt;\n&amp;nbsp;&amp;nbsp;1b)  Remove the tag `$:/tags/SideBar` from the tab you want to hide.\n\n!!!1a) Add tag `$:/tags/hide`\n''Check for adding `$:/tags/hide`''\n&lt;$list filter=\&quot;[all[shadows+tiddlers]!has[draft.of]tag[$:/tags/SideBar]!tag[$:/tags/hide]sort[title]]\&quot;&gt;&lt;br&gt;\n&lt;$checkbox tag=\&quot;$:/tags/hide\&quot;&gt; &lt;$link to={{!!title}}&gt;&lt;$view field=\&quot;title\&quot;/&gt;\n&lt;/$link&gt;\n&lt;/$checkbox&gt;\n&lt;/$list&gt;\n\n''Uncheck for removing $:/tags/hide''\n&lt;$list filter=\&quot;[all[shadows+tiddlers]!has[draft.of]tag[$:/tags/SideBar]tag[$:/tags/hide]sort[title]]\&quot;&gt;&lt;br&gt;\n&lt;$checkbox tag=\&quot;$:/tags/hide\&quot;&gt; &lt;$link to={{!!title}}&gt;&lt;$view field=\&quot;title\&quot;/&gt;\n&lt;/$link&gt;\n&lt;/$checkbox&gt;\n&lt;/$list&gt;\n\n''1b) Hide 'tabs in Sidebar''\n&lt;$list filter=\&quot;[all[shadows+tiddlers]!has[draft.of]tag[$:/tags/hide]!tag[$:/tags/SideBar]sort[title]]\&quot;&gt;&lt;br&gt;\n&lt;$checkbox tag=\&quot;$:/tags/SideBar\&quot;&gt;&amp;nbsp;&amp;nbsp;Check to show &lt;$link to={{!!title}}&gt;&lt;$view field=\&quot;title\&quot;/&gt;\n&lt;/$link&gt;\n&lt;/$checkbox&gt;\n&lt;/$list&gt;\n&lt;$list filter=\&quot;[all[shadows+tiddlers]!has[draft.of]tag[$:/tags/hide]tag[$:/tags/SideBar]sort[title]]\&quot;&gt;&lt;br&gt;\n&lt;$checkbox tag=\&quot;$:/tags/SideBar\&quot;&gt;&amp;nbsp;&amp;nbsp;Uncheck to hide &lt;$link to={{!!title}}&gt;&lt;$view field=\&quot;title\&quot;/&gt;\n&lt;/$link&gt;\n&lt;/$checkbox&gt;\n&lt;/$list&gt;\n&lt;hr&gt;\n\n!!2) Sidebar button ({{$:/core/images/chevron-left}}/{{$:/core/images/chevron-right}})\n&lt;$list filter=\&quot;[all[shadows]!has[draft.of]tag[$:/tags/menubutton]!tag[$:/tags/stylesheet]]\&quot;&gt;\n&lt;$checkbox tag=\&quot;$:/tags/stylesheet\&quot;&gt;&amp;nbsp;&amp;nbsp;Check for invisible menu button&lt;/$checkbox&gt;&lt;/$list&gt;\n&lt;$list filter=\&quot;[all[shadows]!has[draft.of]tag[$:/tags/menubutton]tag[$:/tags/stylesheet]]\&quot;&gt;\n&lt;$checkbox tag=\&quot;$:/tags/stylesheet\&quot;&gt;&amp;nbsp;&amp;nbsp;Uncheck for visible menu button&lt;/$checkbox&gt;&lt;/$list&gt;\n&lt;hr&gt;\n\n!!3) Read-only\n&lt;$list filter=\&quot;[all[shadows]!has[draft.of]tag[$:/tags/publish]!tag[$:/tags/stylesheet]]\&quot;&gt;\n&lt;$checkbox tag=\&quot;$:/tags/stylesheet\&quot;&gt;&amp;nbsp;&amp;nbsp;Check for read-only mode&lt;/$checkbox&gt;&lt;/$list&gt;\n&lt;$list filter=\&quot;[all[shadows]!has[draft.of]tag[$:/tags/publish]tag[$:/tags/stylesheet]]\&quot;&gt;\n&lt;$checkbox tag=\&quot;$:/tags/stylesheet\&quot;&gt;&amp;nbsp;&amp;nbsp;Uncheck for read/write mode&lt;/$checkbox&gt;&lt;/$list&gt;\n&lt;hr&gt;\n\n!!4) Save\nSave &lt;$button message=\&quot;tw-save-wiki\&quot; class=\&quot;btn-invisible\&quot;&gt;{{$:/plugins/tongerner/ro/image-save-button}}&lt;/$button&gt;\n&lt;hr&gt;\n\n&quot;,
+            &quot;modified&quot;: &quot;20140718181315657&quot;,
+            &quot;modifier&quot;: &quot;TonGerner&quot;,
+            &quot;tags&quot;: &quot;$:/tags/publish&quot;,
+            &quot;title&quot;: &quot;$:/plugins/tongerner/ro/publish&quot;
+        },
+        &quot;$:/plugins/tongerner/ro/menu-button&quot;: {
+            &quot;created&quot;: &quot;20140715185800387&quot;,
+            &quot;creator&quot;: &quot;TonGerner&quot;,
+            &quot;text&quot;: &quot;svg.tw-image-chevron-left {\n     display: none;\n}\n\nsvg.tw-image-chevron-right {\n     display: none;\n}\n&quot;,
+            &quot;modified&quot;: &quot;20140718185135127&quot;,
+            &quot;modifier&quot;: &quot;TonGerner&quot;,
+            &quot;tags&quot;: &quot;$:/tags/menubutton&quot;,
+            &quot;title&quot;: &quot;$:/plugins/tongerner/ro/menu-button&quot;,
+            &quot;type&quot;: &quot;text/css&quot;
+        },
+        &quot;$:/plugins/tongerner/ro/image-save-button&quot;: {
+            &quot;created&quot;: &quot;20140715185836189&quot;,
+            &quot;creator&quot;: &quot;TonGerner&quot;,
+            &quot;text&quot;: &quot;&lt;svg class=\&quot;tw-image-button\&quot; viewBox=\&quot;4 512 64 60\&quot; width=\&quot;22pt\&quot; height=\&quot;21pt\&quot;&gt;&lt;path d=\&quot;M 13.5 537.75 L 11.5 537.75 C 11.5 537.75 11.5 537.75 11.5 537.75 C 7.6340064 537.75 4.4999994 540.884 4.5 544.75 L 4.5 564.5 L 4.5 564.5 C 4.5 564.5 4.5 564.5 4.5 564.5 L 4.5 564.5 C 4.5000006 568.366 7.634007 571.5 11.5 571.5 L 60.5 571.5 C 64.365993 571.5 67.5 568.366 67.5 564.5 L 67.5 544.75 C 67.5 540.884 64.365993 537.75 60.5 537.75 L 58.5 537.75 L 49.5 546.75 L 50 546.75 C 52.20914 546.75 54 548.54086 54 550.75 L 54 556.25 C 54 558.45914 52.20914 560.25 50 560.25 L 36 560.25 L 22 560.25 C 19.790861 560.25 18 558.45914 18 556.25 L 18 556.25 C 18 556.25 18 556.25 18 556.25 L 18 550.75 C 18 548.54086 19.790861 546.75 22 546.75 C 22 546.75 22 546.75 22 546.75 L 22.5 546.75 Z\&quot;/&gt;&lt;path d=\&quot;M 16.37132 533.87132 L 33.87868 551.37868 C 35.050253 552.55025 36.949747 552.55025 38.12132 551.37868 L 55.62868 533.87132 C 56.800252 532.69975 56.800252 530.80025 55.62868 529.62868 C 55.06607 529.06607 54.30301 528.75 53.50736 528.75 L 48 528.75 C 46.343146 528.75 45 527.40685 45 525.75 L 45 516 C 45 514.34315 43.656854 513 42 513 L 30 513 C 28.343146 513 27 514.34315 27 516 L 27 525.75 C 27 527.40685 25.656854 528.75 24 528.75 L 18.492641 528.75 C 16.835786 528.75 15.492641 530.09315 15.492641 531.75 C 15.492641 532.54565 15.808711 533.3087 16.37132 533.87132 Z\&quot;/&gt;&lt;/svg&gt;&quot;,
+            &quot;modified&quot;: &quot;20140718185123595&quot;,
+            &quot;modifier&quot;: &quot;TonGerner&quot;,
+            &quot;title&quot;: &quot;$:/plugins/tongerner/ro/image-save-button&quot;
+        },
+        &quot;$:/plugins/tongerner/ro/help&quot;: {
+            &quot;created&quot;: &quot;20140716184603499&quot;,
+            &quot;creator&quot;: &quot;TonGerner&quot;,
+            &quot;text&quot;: &quot;@@background-color: #f6faff;\n\n&lt;div&gt;\n\nBefore you 'publish' your ~TiddlyWiki:\n\n# Get a defined start-up situation for your TW:\n#* In Controlpanel (tabs 'Advanced' &gt; 'Settings') switch of the 'Navigation Address Bar' ('Do not update the address bar') and the 'Navigation History' ('Do not update history').\n#* Define your starting tiddler(s) in [[$:/DefaultTiddlers]].\n# Open [[$:/plugins/tongerner/ro/publish]] and follow the 4 steps.\n\n&lt;/div&gt;\n\n@@\n&quot;,
+            &quot;modified&quot;: &quot;20140718185111991&quot;,
+            &quot;modifier&quot;: &quot;TonGerner&quot;,
+            &quot;title&quot;: &quot;$:/plugins/tongerner/ro/help&quot;
+        }
+    }
+}</pre>
+</div>
+<div created="20140715185800387" creator="TonGerner" modified="20140808200553694" modifier="Dr. Pineda" tags="$:/tags/menubutton" title="$:/plugins/tongerner/ro/menu-button" type="text/css">
+<pre>svg.tw-image-chevron-left {
+     display: none;
+}
+
+svg.tw-image-chevron-right {
+     display: none;
+}
+</pre>
+</div>
+<div created="20140715185723459" creator="TonGerner" modified="20140808200555767" modifier="Dr. Pineda" tags="$:/tags/publish" title="$:/plugins/tongerner/ro/publish">
+<pre>\define slider(label,text)
+&lt;$button popup=&quot;$:/state/$label$&quot; class=&quot;btn-invisible tw-slider&quot;&gt;&lt;$text text=&quot;$label$&quot;/&gt;&lt;/$button&gt;
+&lt;$reveal type=&quot;nomatch&quot; text=&quot;&quot; default=&quot;&quot; state=&quot;$:/state/$label$&quot; animate=&quot;yes&quot;&gt;
+
+$text$
+
+&lt;/$reveal&gt;
+\end
+
+@@display:none;
+svg.tw-image-new-button, svg.tw-image-options-button, svg.tw-image-save-button, svg.tw-image-edit-button, svg.tw-image-delete-button, svg.tw-image-cancel-button, svg.tw-image-done-button {
+     display: none;
+}
+@@
+
+&lt;&lt;slider &quot;Help »&quot; &quot;{{$:/plugins/tongerner/ro/help}}&quot;&gt;&gt;
+&lt;hr&gt;
+
+!!1) Sidebar tabs
+Hiding tabs in the Sidebar is a 2-step procedure:&lt;br&gt;
+&amp;nbsp;&amp;nbsp;1a) Add the tag `$:/tags/hide` to tabs you want to manipulate.&lt;br&gt;
+&amp;nbsp;&amp;nbsp;1b)  Remove the tag `$:/tags/SideBar` from the tab you want to hide.
+
+!!!1a) Add tag `$:/tags/hide`
+''Check for adding `$:/tags/hide`''
+&lt;$list filter=&quot;[all[shadows+tiddlers]!has[draft.of]tag[$:/tags/SideBar]!tag[$:/tags/hide]sort[title]]&quot;&gt;&lt;br&gt;
+&lt;$checkbox tag=&quot;$:/tags/hide&quot;&gt; &lt;$link to={{!!title}}&gt;&lt;$view field=&quot;title&quot;/&gt;
+&lt;/$link&gt;
+&lt;/$checkbox&gt;
+&lt;/$list&gt;
+
+''Uncheck for removing $:/tags/hide''
+&lt;$list filter=&quot;[all[shadows+tiddlers]!has[draft.of]tag[$:/tags/SideBar]tag[$:/tags/hide]sort[title]]&quot;&gt;&lt;br&gt;
+&lt;$checkbox tag=&quot;$:/tags/hide&quot;&gt; &lt;$link to={{!!title}}&gt;&lt;$view field=&quot;title&quot;/&gt;
+&lt;/$link&gt;
+&lt;/$checkbox&gt;
+&lt;/$list&gt;
+
+''1b) Hide 'tabs in Sidebar''
+&lt;$list filter=&quot;[all[shadows+tiddlers]!has[draft.of]tag[$:/tags/hide]!tag[$:/tags/SideBar]sort[title]]&quot;&gt;&lt;br&gt;
+&lt;$checkbox tag=&quot;$:/tags/SideBar&quot;&gt;&amp;nbsp;&amp;nbsp;Check to show &lt;$link to={{!!title}}&gt;&lt;$view field=&quot;title&quot;/&gt;
+&lt;/$link&gt;
+&lt;/$checkbox&gt;
+&lt;/$list&gt;
+&lt;$list filter=&quot;[all[shadows+tiddlers]!has[draft.of]tag[$:/tags/hide]tag[$:/tags/SideBar]sort[title]]&quot;&gt;&lt;br&gt;
+&lt;$checkbox tag=&quot;$:/tags/SideBar&quot;&gt;&amp;nbsp;&amp;nbsp;Uncheck to hide &lt;$link to={{!!title}}&gt;&lt;$view field=&quot;title&quot;/&gt;
+&lt;/$link&gt;
+&lt;/$checkbox&gt;
+&lt;/$list&gt;
+&lt;hr&gt;
+
+!!2) Sidebar button ({{$:/core/images/chevron-left}}/{{$:/core/images/chevron-right}})
+&lt;$list filter=&quot;[all[shadows]!has[draft.of]tag[$:/tags/menubutton]!tag[$:/tags/stylesheet]]&quot;&gt;
+&lt;$checkbox tag=&quot;$:/tags/stylesheet&quot;&gt;&amp;nbsp;&amp;nbsp;Check for invisible menu button&lt;/$checkbox&gt;&lt;/$list&gt;
+&lt;$list filter=&quot;[all[shadows]!has[draft.of]tag[$:/tags/menubutton]tag[$:/tags/stylesheet]]&quot;&gt;
+&lt;$checkbox tag=&quot;$:/tags/stylesheet&quot;&gt;&amp;nbsp;&amp;nbsp;Uncheck for visible menu button&lt;/$checkbox&gt;&lt;/$list&gt;
+&lt;hr&gt;
+
+!!3) Read-only
+&lt;$list filter=&quot;[all[shadows]!has[draft.of]tag[$:/tags/publish]!tag[$:/tags/stylesheet]]&quot;&gt;
+&lt;$checkbox tag=&quot;$:/tags/stylesheet&quot;&gt;&amp;nbsp;&amp;nbsp;Check for read-only mode&lt;/$checkbox&gt;&lt;/$list&gt;
+&lt;$list filter=&quot;[all[shadows]!has[draft.of]tag[$:/tags/publish]tag[$:/tags/stylesheet]]&quot;&gt;
+&lt;$checkbox tag=&quot;$:/tags/stylesheet&quot;&gt;&amp;nbsp;&amp;nbsp;Uncheck for read/write mode&lt;/$checkbox&gt;&lt;/$list&gt;
+&lt;hr&gt;
+
+!!4) Save
+Save &lt;$button message=&quot;tw-save-wiki&quot; class=&quot;btn-invisible&quot;&gt;{{$:/plugins/tongerner/ro/image-save-button}}&lt;/$button&gt;
+&lt;hr&gt;
+
+</pre>
+</div>
+<div created="20140805034216687" creator="Dr. Pineda" modified="20140808174103379" modifier="Dr. Pineda" title="$:/SiteSubtitle">
+<pre>a non-linear hyperlinked Open Source textbook</pre>
+</div>
+<div created="20140805033835483" modified="20140805033911356" title="$:/SiteTitle">
+<pre>Sandbox TW</pre>
+</div>
+<div modified="20140808204038798" modifier="Dr. Pineda" title="$:/state/showeditpreview">
+<pre>no</pre>
+</div>
+<div modified="20140808200525811" modifier="Dr. Pineda" title="$:/state/sidebar">
+<pre>yes</pre>
+</div>
+<div modified="20140808174245476" modifier="Dr. Pineda" title="$:/state/tab-{-1808151657}">
+<pre>$:/core/ui/TiddlerInfo/Advanced</pre>
+</div>
+<div created="20140805112556202" creator="Dr. Pineda" modified="20140808200307895" modifier="Dr. Pineda" title="$:/state/tab-{-425860255}">
+<pre>$:/core/ui/ControlPanel/Advanced/Settings</pre>
+</div>
+<div modified="20140805034142282" title="$:/state/tab-{1296820639}">
+<pre>$:/core/ui/ControlPanel/Appearance/Palette</pre>
+</div>
+<div modified="20140808174120419" modifier="Dr. Pineda" title="$:/state/tab-{1802859226}">
+<pre>$:/core/ui/TiddlerInfo/Advanced</pre>
+</div>
+<div modified="20140808200242925" modifier="Dr. Pineda" title="$:/state/tab-{794734817}">
+<pre>$:/core/ui/ControlPanel/Advanced</pre>
+</div>
+<div modified="20140808185219902" modifier="Dr. Pineda" title="$:/state/tab/moresidebar-{947362856}">
+<pre>$:/core/ui/MoreSideBar/Shadows</pre>
+</div>
+<div modified="20140805035545587" modifier="Dr. Pineda" title="$:/state/tab/sidebar-{-854842818}">
+<pre>$:/core/ui/SideBar/More</pre>
+</div>
+<div modified="20140808201916906" modifier="Dr. Pineda" title="$:/state/tab/sidebar-{312696086}">
+<pre>$:/core/ui/SideBar/Recent</pre>
+</div>
+<div created="20140805034229774" creator="D" modified="20140805034231566" modifier="Dr. Pined" title="$:/status/UserName">
+<pre>Dr. Pineda</pre>
+</div>
+<div list="[[Unit A: Interactions and Ecosystems]] [[Topic 7: Environmental Monitoring]] $:/ControlPanel $:/plugins/tongerner/ro/help $:/plugins/tongerner/ro/publish $:/DefaultTiddlers $:/tags/MoreSideBar GettingStarted $:/core/images/cancel-button $:/core/Filters/AllTags [[Syllabus Math 7]]" title="$:/StoryList">
 <pre></pre>
+</div>
+<div created="20140808185358970" creator="Dr. Pineda" list="$:/core/ui/MoreSideBar/All $:/core/ui/MoreSideBar/Recent $:/core/ui/MoreSideBar/Tags $:/core/ui/MoreSideBar/Missing $:/core/ui/MoreSideBar/Drafts $:/core/ui/MoreSideBar/Orphans $:/core/ui/MoreSideBar/Types $:/core/ui/MoreSideBar/System $:/core/ui/MoreSideBar/Shadows" modified="20140808185400726" modifier="Dr. Pineda" title="$:/tags/MoreSideBar">
+<pre>yes</pre>
+</div>
+<div created="20140808174205474" creator="Dr. Pineda" modified="20140808174207967" modifier="Dr. Pineda" title="$:/temp/newfieldname">
+<pre></pre>
+</div>
+<div created="20140808174139736" creator="Dr. Pineda" modified="20140808204754489" modifier="Dr. Pineda" title="$:/temp/NewTagName">
+<pre></pre>
+</div>
+<div created="20140805034548320" creator="Dr. Pineda" modified="20140805034556593" modifier="Dr. Pineda" title="$:/temp/search">
+<pre></pre>
+</div>
+<div modified="20140805034122637" title="$:/theme">
+<pre>$:/themes/tiddlywiki/vanilla</pre>
 </div>
 <div author="JeremyRuston" core-version="&gt;=5.0.0" dependents="$:/themes/tiddlywiki/vanilla" description="A clean theme that emphasises individual tiddlers" name="Snow White" plugin-type="theme" title="$:/themes/tiddlywiki/snowwhite" type="application/json" version="5.0.13-beta">
 <pre>{
@@ -3955,8 +5225,96 @@ Error message and password prompt
     }
 }</pre>
 </div>
+<div created="20140808185346736" creator="Dr. Pineda" modified="20140808185346736" modifier="Dr. Pineda" title="GettingStarted">
+<pre>Welcome to TiddlyWiki, the non-linear personal web notebook.
+
+To get started, first verify that you can save changes successfully - see http://tiddlywiki.com/ for detailed instructions.
+
+Then you can:
+
+* Create new tiddlers using the 'plus' button in the sidebar
+* Visit the [[control panel|$:/ControlPanel]] using the 'cog' button in the sidebar to customise your wiki
+** Stop this message appearing by changing the default tiddlers under the ''Basics'' tab
+* Save changes using the 'download' button in the sidebar
+* Learn more about [[WikiText|http://tiddlywiki.com/static/WikiText.html]]
+</pre>
+</div>
+<div created="20140808201335344" creator="Dr. Pineda" modified="20140808204404487" modifier="Dr. Pineda" title="Grade 7 Science Units of Study">
+<pre>&quot;&quot;&quot;
+[[Unit A: Interactions and Ecosystems]] 
+[[Unit B: Plants for Food and Fibre]] 
+[[Unit C: Heat and Temperature]] 
+[[Unit D: Structures and Forces]]
+[[Unit E: Planet Earth]] 
+&quot;&quot;&quot;</pre>
+</div>
 <div created="20140805033449600" modified="20140805033457227" title="Hello world">
 <pre>Hello world</pre>
+</div>
+<div created="20140808174922381" creator="Dr. Pineda" modified="20140808174932105" modifier="Dr. Pineda" title="List of tags">
+<pre>&lt;span class=&quot;threecolumns&quot;&gt;&lt;$list filter=&quot;[tags[]sort[title]!tag[personalcontacts]] -[[Maui]] -[is[system]]&quot; itemClass=&quot;tw-menu-list-item&quot;&gt;
+&lt;$transclude tiddler=&quot;$:/core/ui/TagTemplate&quot;/&gt; &lt;small class=&quot;tw-menu-list-count&quot;&gt;&lt;$count filter=&quot;[is[current]tagging[]]&quot;/&gt;&lt;/small&gt;
+&lt;/$list&gt;&lt;/span&gt;</pre>
+</div>
+<div created="20140808180042485" creator="Dr. Pineda" modified="20140808180042485" modifier="Dr. Pineda" title="New Tiddler">
+<pre>Newly created tiddler</pre>
+</div>
+<div class="math7" created="20140808174124552" creator="Dr. Pineda" modified="20140808174414105" modifier="Dr. Pineda" tags="math7" title="Syllabus Math 7" type="text/vnd.tiddlywiki">
+<pre>This is the syllabus for math 7...
+
+&lt;div class=&quot;tw-message-box&quot;&gt;
+
+!! Info - http://classic.tiddlywiki.com
+
+Just some info here...
+&lt;/div&gt;</pre>
+</div>
+<div created="20140808204639866" creator="Dr. Pineda" modified="20140808204708638" modifier="Dr. Pineda" tags="[[Unit A: Interactions and Ecosystems]]" title="Topic 1: Interactions Within Ecosystems">
+<pre></pre>
+</div>
+<div created="20140808204724882" creator="Dr. Pineda" modified="20140808204724882" modifier="Dr. Pineda" tags="[[Unit A: Interactions and Ecosystems]]" title="Topic 2: Human Impact on Ecosystems">
+<pre></pre>
+</div>
+<div created="20140808204737968" creator="Dr. Pineda" modified="20140808204737968" modifier="Dr. Pineda" tags="[[Unit A: Interactions and Ecosystems]]" title="Topic 3: Environmental Choices">
+<pre></pre>
+</div>
+<div created="20140808204758153" creator="Dr. Pineda" modified="20140808204758153" modifier="Dr. Pineda" tags="[[Unit A: Interactions and Ecosystems]]" title="Topic 4: How Organisms Interact">
+<pre></pre>
+</div>
+<div created="20140808204817855" creator="Dr. Pineda" modified="20140808204817855" modifier="Dr. Pineda" tags="[[Unit A: Interactions and Ecosystems]]" title="Topic 5: Cycles in the Environment">
+<pre></pre>
+</div>
+<div created="20140808204830060" creator="Dr. Pineda" modified="20140808204830060" modifier="Dr. Pineda" tags="[[Unit A: Interactions and Ecosystems]]" title="Topic 6: Succession and Change in Ecosystems">
+<pre></pre>
+</div>
+<div created="20140808204846645" creator="Dr. Pineda" modified="20140808204846645" modifier="Dr. Pineda" tags="[[Unit A: Interactions and Ecosystems]]" title="Topic 7: Environmental Monitoring">
+<pre></pre>
+</div>
+<div created="20140808201759659" creator="Dr. Pineda" modified="20140808204614969" modifier="Dr. Pineda" title="Unit A: Interactions and Ecosystems">
+<pre>&quot;&quot;&quot;
+[[Topic 1: Interactions Within Ecosystems]] 
+[[Topic 2: Human Impact on Ecosystems]]
+[[Topic 3: Environmental Choices]]
+[[Topic 4: How Organisms Interact]]
+[[Topic 5: Cycles in the Environment]]
+[[Topic 6: Succession and Change in Ecosystems]]
+[[Topic 7: Environmental Monitoring]]
+&quot;&quot;&quot;</pre>
+</div>
+<div created="20140808201843859" creator="Dr. Pineda" modified="20140808201907979" modifier="Dr. Pineda" title="Unit B: Plants for Food and Fibre">
+<pre></pre>
+</div>
+<div created="20140808201913046" creator="Dr. Pineda" modified="20140808201935121" modifier="Dr. Pineda" title="Unit C: Heat and Temperature">
+<pre></pre>
+</div>
+<div created="20140808201938391" creator="Dr. Pineda" modified="20140808201959026" modifier="Dr. Pineda" title="Unit D: Structures and Forces">
+<pre></pre>
+</div>
+<div created="20140808202002969" creator="Dr. Pineda" modified="20140808202018024" modifier="Dr. Pineda" title="Unit E: Planet Earth">
+<pre></pre>
+</div>
+<div created="20140808201600324" creator="Dr. Pineda" modified="20140808201600324" modifier="Dr. Pineda" title="Untitled">
+<pre>http://tiddlywiki.com/static/WikiText.html</pre>
 </div>
 
 </div>
