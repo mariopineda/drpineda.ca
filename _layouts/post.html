@@ -9,8 +9,20 @@
     <meta property="og:image" content="{{ site.url }}/img/post_images/{{ page.thumbnailimage }}" /> 
     <meta property="og:description" content="{{ page.description }}" />
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+	<meta property="og:site_name" content="Dr. Pineda's Classroom" />
+	<meta property="og:type" content="blog" />
     <!-- END Open Graph Tags -->
     
+	<!-- Twitter cards -->
+	<meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@therocsci">
+    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:description" content="{{ page.description }}">
+    <meta name="twitter:creator" content="@therocsci">
+    <meta name="twitter:image:src" content="{{ site.url }}/img/post_images/{{ page.thumbnailimage }}">
+    <meta name="twitter:domain" content="">
+	<!-- END Twitter Cards -->
+	
   </head>
     <body>  
       {% include socialsharing.html %}     
