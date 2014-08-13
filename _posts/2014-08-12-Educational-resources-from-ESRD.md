@@ -14,7 +14,7 @@ thumbnailimage: thumbnail-esrd-swag.jpg
 comments: true .
 permalink: educational-resources-from-esrd.html
 --- 
-<p>With less than two weeks left to the start of the next school year I have started setting up my new classroom for some serious science and math learning to take place. Today when I arrived at the school two packages were waiting for me. One perk of being a teacher is that there are always freebie educational resources one can get hold of. A while back I <a href="http://esrd.alberta.ca/forms-maps-services/education-resources.aspx">ordered miscellaneous educational materials and resources</a> from the Alberta <a href="http://esrd.alberta.ca/">Environment and Sustainable Resource Development (ESRD)</a> and, true to their promise, they delivered the goods (which unfortunately, in my experience, does not not always seem to be the case with other governmental agencies). The timing could not have been better as I am in midst of planing for the school year and prepping my classroom. ESRD's contribution consisted of tonne of goodies about Alberta species at risk, reptiles, tree species, classroom activities and mountain pine beetles specimens, including bark with galleries and a sample of blue stained wood. </p>
+<p>With less than two weeks left to the start of the next school year I have started setting up my new classroom for some serious science and math learning to take place. Today when I arrived at the school two packages were waiting for me. One perk of being a teacher is that if one puts ones mind to it one can always hunt down various free educational resources. A while back I <a href="http://esrd.alberta.ca/forms-maps-services/education-resources.aspx">ordered miscellaneous educational materials and resources</a> from the Alberta <a href="http://esrd.alberta.ca/">Environment and Sustainable Resource Development (ESRD)</a>, the steward of air, land, water and biodiversity here in Alberta. True to their promise they delivered the goods something which unfortunately, in my experience, does not not always seem to be the case with other governmental agencies; so kudos to ESRD. The timing could not have been better as I am in midst of planing for the school year and prepping my classroom. ESRD's contribution consisted of tonne of goodies about Alberta species at risk, reptiles, tree species, classroom activities and mountain pine beetles specimens, including bark with galleries and a sample of blue stained wood. </p>
 
 <div class="row">
   <div class="col-xs-8 col-xs-offset-2 col-md-8 col-md-offset-2">
@@ -35,7 +35,7 @@ permalink: educational-resources-from-esrd.html
 	 <figure>
 	 <img src="/img/post_images/esrd-swag2.jpg" width="100%">
 	 <figcaption>
-	 Thanks ESRD - you guys rock. All these goodies will come to good use. :-)
+	 Thanks ESRD - you guys rock. All these goodies will come to good use at our school. :-)
 	 </figcaption>
 	 </figure>
 	 </p>
@@ -48,7 +48,7 @@ permalink: educational-resources-from-esrd.html
 	 <figure>
 	 <img src="/img/post_images/classroom_setup.jpg" width="100%">
 	 <figcaption>
-	 My new classroom is slowly evolving (in the true sense of the word).
+	 My new classroom is slowly evolving (in the true sense of the word). The classroom pets are moving in this weekend and the students shortly thereafter.
 	 </figcaption>
 	 </figure>
 	 </p>
