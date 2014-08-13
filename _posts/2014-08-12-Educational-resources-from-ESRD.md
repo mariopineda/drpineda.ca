@@ -12,7 +12,7 @@ tags:
 featureimage: feature-esrd-swag.jpg
 thumbnailimage: thumbnail-esrd-swag.jpg
 comments: true .
-permalink: free-loot-from-esrd.html
+permalink: educational-resources-from-esrd.html
 --- 
 <p>With less than two weeks left to the start of the next school year I have started setting up my new classroom for some serious science and math learning to take place. Today when I arrived at the school two packages were waiting for me. One perk of being a teacher is that there are always freebie educational resources one can get hold of. A while back I <a href="http://esrd.alberta.ca/forms-maps-services/education-resources.aspx">ordered miscellaneous educational materials and resources</a> from the Alberta <a href="http://esrd.alberta.ca/">Environment and Sustainable Resource Development (ESRD)</a> and, true to their promise, they delivered the goods (which unfortunately, in my experience, does not not always seem to be the case with other governmental agencies). The timing could not have been better as I am in midst of planing for the school year and prepping my classroom. ESRD's contribution consisted of tonne of goodies about Alberta species at risk, reptiles, tree species, classroom activities and mountain pine beetles specimens, including bark with galleries and a sample of blue stained wood. </p>
 
