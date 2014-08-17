@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: Pets in the classroom
-description: Classroom pets offer many learning opportunities in the science class room allowing students to study and interact with animals as well allowing the teacher to integrate the animals with material covered in class. A few days ago the first group of classroom animals arrived to their new home in my new classroom.
+description: Classroom pets offer many learning opportunities in the science class room allowing students to study and interact with animals as well allowing the teacher to integrate the animals with material covered in class. A few days ago the first group of classroom animals arrived to their new home in my new classroom ready to start their important educational and outreach work.
 modified: 2014-08-16
 category: 
 tags:
