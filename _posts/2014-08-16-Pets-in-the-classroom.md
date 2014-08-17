@@ -1,7 +1,7 @@
 ---
 layout: post  
-title: Pets in the classroom
-description: Classroom pets offer many learning opportunities in the science class room allowing students to study and interact with animals as well allowing the teacher to integrate the animals with material covered in class. A few days ago the first group of classroom animals arrived to their new home in my new classroom ready to start their important educational and outreach work.
+title: Classroom pets on a mission
+description: Classroom pets offer many learning opportunities in the science class room. A few days ago the first group of classroom animals arrived to their new home in my new classroom ready to start their important educational and outreach mission.
 modified: 2014-08-16
 category: 
 tags:
@@ -35,7 +35,7 @@ permalink: pets-in-the-classroom.html
 	 <figure>
 	 <img src="/img/post_images/gecko_roadtrip.jpg" width="100%">
 	 <figcaption>
-	 Gecko baby going on a road trip to school.
+	 Baby leopard gecko going to school.
 	 </figcaption>
 	 </figure>
 	 </p>
@@ -61,7 +61,7 @@ permalink: pets-in-the-classroom.html
 	 <figure>
 	 <img src="/img/post_images/brown-frog.jpg" width="100%">
 	 <figcaption>
-	 Mr. frog chilling in his new pond.
+	 Mr. frog relaxing in his new pond.
 	 </figcaption>
 	 </figure>
 	 </p>
@@ -74,7 +74,7 @@ permalink: pets-in-the-classroom.html
 	 <figure>
 	 <img src="/img/post_images/gecko.jpg" width="100%">
 	 <figcaption>
-	 Albino acid stripe baby gecko coming home.
+	 Albino acid stripe baby gecko arriving at her new home.
 	 </figcaption>
 	 </figure>
 	 </p>
