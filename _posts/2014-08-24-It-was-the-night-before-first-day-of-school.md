@@ -12,7 +12,7 @@ thumbnailimage: thumbnail-classroom3.jpg
 comments: true
 permalink: it-was-the-night-before.html
 --- 
-<p>So the day has arrived. It is the night before the first day of school. Most people only have one first day of school, when they are six or seven years young as they become students in grade 1. A selected few, however, are fortunate enough to have a second first day of school, the day they start teaching as fully fledged teachers. For me that day is tomorrow. In less than 10 hours I will meet my first own students in my first own classroom. I fell exceptionally privileged and I am looking forward to the coming school year with as much anticipation as a grade 1 student feels as he or she becomes a big boy or girl on their first day of school.</p>
+<p>So the day has arrived. It is the night before the first day of school. Most people only have one first day of school, when they are six or seven years young as they become students in grade 1. A selected few, however, are fortunate enough to have a second first day of school, the day they start teaching as fully fledged teachers. For me that day is tomorrow. In less than 10 hours I will meet my first own students in my first own classroom and I am  looking forward to the coming school year with as much anticipation as a grade 1 student on his or her first day of school.</p>
 
 <p>Of course, the last thing I should be doing right now is blogging..., so I'll let the pictures speak for themselves.</p> 
 
