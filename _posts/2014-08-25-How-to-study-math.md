@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: How to study math
-description: Studying math requires is not like studying other subjects and requires some very specific study skills to succeed at. 
+description: Studying math is not like studying other subjects, e.g. history or social studies. Rather it requires some very specific study habits in order to succeed at. 
 modified: 2014-08-25
 category: 
 tags:
