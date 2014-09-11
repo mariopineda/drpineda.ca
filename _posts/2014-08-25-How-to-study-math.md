@@ -6,13 +6,14 @@ modified: 2014-08-25
 category: 
 tags:
 - Math
+- Education
 featureimage: feature-mathcat.jpg
 thumbnailimage: thumbnail-mathcat.jpg
 comments: true
 permalink: how-to-study-math.html
 --- 
 <h3>Math is Not a Spectator Sport</h3>
-<p>You cannot learn mathematics by just going to class and watching your teacher work problems.  In order to learn mathematics you must be actively involved in the learning process.  Specifically, you have to 
+<p>You cannot learn mathematics by just going to class and watching your teacher work problems. In order to learn mathematics you must be actively involved in the learning process.  Specifically, you have to 
 <ul>
 <li>attend class and pay attention while in class.</li> 
 <li>take a good set of notes.  </li>
