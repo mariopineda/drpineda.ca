@@ -1,0 +1,39 @@
+---
+layout: classroom-page
+permalink: /homework.html
+title: Homework
+tagline: 
+tags: 
+image:
+  feature: feature-textbooks.png
+---
+        <div class="row">
+          <div class="col-md-8">
+			<ul class="posts">
+             {% for post in site.posts %}
+               {% if post.categories contains 'classroom' %}
+	             <div class="panel panel-default">
+                   <div class="panel-heading">
+                     <h3 class="panel-title">{{ post.title }}</h3>
+                   </div>
+                   <div class="panel-body">
+                     {{ post.content }}
+                   </div>
+                 </div>
+               {% endif %}
+             {% endfor %}
+            </ul>
+			                                    
+		  </div><!-- /row -->
+		
+		  <!-- Side bar column -->
+		  <div class="col-md-4">
+		    <div>
+              <h3>Accessing password protected resources</h3>
+              Due to copyright restrictions some resources (e.g. worksheets) are password protected. When accessing these resources you will be asked for a password. The password is 
+              <hr>
+			</div>
+			
+          </div>
+	    </div>
+      </div><!-- /container -->
