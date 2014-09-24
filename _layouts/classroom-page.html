@@ -74,6 +74,12 @@
                   {% else %}
                     <li><a href="/classroom/homeworkpolicy.html">Homework Policy</a></li>
                   {% endif %}
+				  			  
+                  {% if page.title == "Absences" %}  
+                    <li class="active"><a href="/classroom/absences.html">Absences</a></li>
+                  {% else %}
+                    <li><a href="/classroom/absences.html">Absences</a></li>
+                  {% endif %}				  
 				  
 				  <li class="dropdown">
 		            <a class="dropdown-toggle" data-toggle="dropdown" href="#" id="themes">Course Outlines<span class="caret"></span></a>
@@ -85,16 +91,10 @@
 		            </ul>
 		          </li>
               
-			      {% if page.title == "Supplementary Resources" %}  
-                    <li class="active"><a href="/classroom/resources.html">Supplementary Resources</a></li>
+			      {% if page.title == "Resources" %}  
+                    <li class="active"><a href="/classroom/resources.html">Resources</a></li>
                   {% else %}
-                    <li><a href="/classroom/resources.html">Supplementary Resources</a></li>
-                  {% endif %}
-			  
-                  {% if page.title == "Absences" %}  
-                    <li class="active"><a href="/classroom/absences.html">Absences</a></li>
-                  {% else %}
-                    <li><a href="/classroom/absences.html">Absences</a></li>
+                    <li><a href="/classroom/resources.html">Resources</a></li>
                   {% endif %}
 					
                 </ul>
