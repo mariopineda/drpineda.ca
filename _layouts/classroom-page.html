@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     {% include head.html %}
-    
+
     <style type="text/css">
   #cover {
    background-size: cover;
@@ -12,35 +12,35 @@
    margin-top: 0px;
    margin-bottom: 0px;
   }
-  
+
   #cover h1 {
    color: #000;
    background: rgba(0, 0, 0, 0);
    font-size: 40pt;
-   margin:0px 0px 0px 0px; 
+   margin:0px 0px 0px 0px;
    padding: 0px;
   }
-  
+
   #cover h2 {
    color: #000;
    background: rgba(0, 0, 0, 0);
    font-size: 15pt;
-   margin:-40px 0px 0px 0px; 
+   margin:-40px 0px 0px 0px;
    padding: 20px;
   }
-  
+
   .navbar {border-radius: 0;}
 }
  </style>
- 
+
   </head>
   <body>
     {% include navigation.html %}
-	
+
 		  <div class="container">
         <div class="page-header" id="banner">
           <div class="row">
-			
+
 			<img src="/img/feature-textbooks.png" width="100%">
             <!-- WebQuest nav bar -->
             <nav class="navbar navbar-default" role="navigation">
@@ -56,31 +56,31 @@
               <!-- Collect the nav links, forms, and other content for toggling -->
               <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav">
-                  
-				  {% if page.title == "Welcome to Dr. Pineda CLassroom" %}                
+
+				  {% if page.title == "Welcome to Dr. Pineda CLassroom" %}
                     <li class="active"><a href="/classroom/index.html">Home</a></li>
                   {% else %}
                     <li><a href="/classroom/index.html"/>Home</a></li>
                   {% endif %}
-				  
-				  {% if page.title == "Homework" %}                
+
+				  {% if page.title == "Homework" %}
                     <li class="active"><a href="/classroom/homework.html">Homework</a></li>
                   {% else %}
                     <li><a href="/classroom/homework.html"/>Homework</a></li>
                   {% endif %}
-                    
-                  {% if page.title == "Homework Policy" %}  
+
+                  {% if page.title == "Homework Policy" %}
                     <li class="active"><a href="/classroom/homeworkpolicy.html">Homework Policy</a></li>
                   {% else %}
                     <li><a href="/classroom/homeworkpolicy.html">Homework Policy</a></li>
                   {% endif %}
-				  			  
-                  {% if page.title == "Absences" %}  
+
+                  {% if page.title == "Absences" %}
                     <li class="active"><a href="/classroom/absences.html">Absences</a></li>
                   {% else %}
                     <li><a href="/classroom/absences.html">Absences</a></li>
-                  {% endif %}				  
-				  
+                  {% endif %}
+
 				  <li class="dropdown">
 		            <a class="dropdown-toggle" data-toggle="dropdown" href="#" id="themes">Course Outlines<span class="caret"></span></a>
 		            <ul class="dropdown-menu" aria-labelledby="themes">
@@ -90,26 +90,26 @@
 					  <li><a tabindex="-1" href="https://www.dropbox.com/s/syrft7uqked9csc/Course%20outline%20science%208.pdf?dl=0">Science 8</a></li>
 		            </ul>
 		          </li>
-              
-			      {% if page.title == "Resources" %}  
+
+			      {% if page.title == "Resources" %}
                     <li class="active"><a href="/classroom/resources.html">Resources</a></li>
                   {% else %}
                     <li><a href="/classroom/resources.html">Resources</a></li>
                   {% endif %}
-					
+
                 </ul>
               </div><!-- /.navbar-collapse -->
             </nav>
           </div> <!-- row -->
         </div> <!-- page-header -->
 
-	
+
 	  <div class="container">
         {{ content }}
         {% include footer.html %}
         {% include scripts.html %}
       </div> <!-- container -->
-    
+
   </body>
 </html>
 
