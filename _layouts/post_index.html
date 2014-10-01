@@ -16,6 +16,7 @@
 		    <p><a href="/tags/">See posts listed by tags</a></p>
 	        {{ content }}
             {% for post in site.posts %}  
+			  {% if post.category != 'classroom' %}
             <div>
               <article>
                 <h3><a href="{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h3>
@@ -37,6 +38,7 @@
                 </div>				  
               </article>
             </div>
+			{% endif %}
             {% endfor %}
 		  </div><!-- /row -->
 		
