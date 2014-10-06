@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: Setting up for new classroom tenant
+title: Prepping for a new classroom tenant
 description: The preparations are in full swing for the arrival of our new classroom tenant..., a desert dwelling creature that will grow to an impressive size by the time it reaches adulthood.
 modified: 2014-10-05
 category: 
