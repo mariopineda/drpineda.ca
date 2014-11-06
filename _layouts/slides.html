@@ -134,10 +134,11 @@
 
 	      // Setup MathJax
 	      MathJax.Hub.Config({
+			  TeX: {extensions: ["mhchem.js"]},
 	          tex2jax: {
 	          inlineMath: [['$','$'],['\\()','\\)']],
 	          skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
-	          }
+		  }
 	      });
 	      MathJax.Hub.Queue(function() {
 	          $(MathJax.Hub.getAllJax()).map(function(index, elem) {
