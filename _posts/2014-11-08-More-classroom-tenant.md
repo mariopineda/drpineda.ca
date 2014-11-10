@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: More classroom tenants
-description: After several weeks bbeeing busy setting up new habitats for more classroom animals, the new tenants recently arrived in their new homes.
+description: After several weeks working on setting up habitats for new classroom animals the big day finally arrived. Our newest addition to the classroom animals include aquatic denizens in our new aquarium and a teenage bearded dragon with lots of attitude and no table manners.
 modified: 2014-11-08
 category: 
 tags:
