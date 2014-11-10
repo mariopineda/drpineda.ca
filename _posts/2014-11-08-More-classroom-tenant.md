@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: More classroom tenants
+title: Tiny teenage animal with a bigger than life attitude 
 description: After several weeks working on setting up habitats for new classroom animals the big day finally arrived. The newest addition to our classroom include aquatic denizens in our new aquarium and a teenage bearded dragon with lots of attitude and no table manners.
 modified: 2014-11-08
 category: 
@@ -27,7 +27,7 @@ Populating the fish tank.
   </div>	 
 </div>
 
-<p>Over the long weekend our long anticipated bearded dragon arrived. By coincidence the same day we picket up our new lizard friend winter finally arrived in Edmonton with subzero windchill and blowing snow; not the best circumstance to pickup a heat loving lizard. After bundling our beardy up in our (fake) fur hat we cranked up the heat in the vehicle and "raced" back to the classroom. Our prep work payed off and our friend seemed to enjoy his/her new home right from the outset. It did not take long before we found beardie sitting in his/her food dish munching on plump mealworms and green collard.<p> 
+<p>Over the long weekend our long anticipated bearded dragon arrived. By coincidence the same day we picket up our new lizard friend winter finally arrived in Edmonton with subzero windchill and blowing snow; not the best circumstance to pickup a heat loving lizard. After bundling our beardy up in our (fake) fur hat we cranked up the heat in the vehicle and "raced" back to the classroom. Our prep work payed off and our friend seemed to enjoy his/her new home right from the outset. It did not take long before we found beardie sitting in the food dish munching on plump mealworms and green collard.<p> 
 	
 <p>The bearded dragon set up was generously provided by a <a href="http://www.petsintheclassroom.org">Pets in the Classroom</a> grant.</p>
 	
