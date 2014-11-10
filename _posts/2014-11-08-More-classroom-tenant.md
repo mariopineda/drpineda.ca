@@ -50,7 +50,7 @@ Precious cargo..., bringing home our new friend.
 	 <figure>
 	 <img src="/img/post_images/beardeddragon2.jpg" width="100%">
 	 <figcaption> 
-Teenage bearded dragon with no table manners at all.
+Teenage bearded dragon with lots of attitude and no table manners at all.
 	 </figcaption>
 	 </figure>
 	 </p>
