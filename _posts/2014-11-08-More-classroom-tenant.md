@@ -37,7 +37,7 @@ Populating the fish tank.
 	 <figure>
 	 <img src="/img/post_images/beardeddragon1.jpg" width="100%">
 	 <figcaption> 
-Precious cargo..., bringing home our new friend.
+Precious cargo..., bringing home our beardie.
 	 </figcaption>
 	 </figure>
 	 </p>
