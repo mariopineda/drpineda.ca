@@ -6,3 +6,10 @@ portfolio.html
 *.sav
 *.toc
 *.veb
+*.snm
+*.vrb
+*.nav
+*.out
+*.log
+*.aux
+*.gz
