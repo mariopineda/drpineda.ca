@@ -1,0 +1,21 @@
+---
+layout: post  
+title: Look who's talking 
+description: Dr. Pineda's Classroom is going YouTube with the release of its first screencast on the exciting topic of calculating percents. Only time will tell if this is the start of something big and shiny or just a passing fad.
+modified: 2014-12-09
+category: 
+tags:
+- Education
+- Mathematics
+- Teaching
+featureimage: feature-youtube-channel.png
+thumbnailimage: thumbnail-youtube-channel.png
+permalink: look-whos-talking.html
+--- 
+<p>Dr. Pineda's classroom is proudly presenting its first screencast on, no less than, the exciting art of calculating percents with changing wholes. Some people would call this "<a href"http://en.wikipedia.org/wiki/Blended_learning">blended learning</a>" or "<a href="http://lodgemccammon.com/flip/">flipping the classroom</a>", but in this classroom we do not use buzzwords or follow fads. Instead we focus on sound educational strategies that  benefit the students the most.</p>
+
+<p>While the screencast is not as <a href="http://www.bozemanscience.com">polished</a> or <a href="http://www.profrobbob.com">hilarious</a> as some other ones out there, it is a start. Ultimately it will be my students that decide what works for them and the direction this pilot project will take.</p>
+
+<p>Go ahead and watch the screencast, visit the <a href="https://www.youtube.com/channel/UCucWWLMh8G6T7zt96KQd2XQ">new shiny YouTube channel</a> and post a comment, give me thumbs up (or down, if it makes you cringe) share it and subscript because you never know where this will go..., hopefully somewhere very exciting.</p>
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/OkUkFziR3Cc?rel=0" frameborder="0" allowfullscreen></iframe>
