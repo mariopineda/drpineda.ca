@@ -13,3 +13,4 @@ portfolio.html
 *.log
 *.aux
 *.gz
+.Rhistory
