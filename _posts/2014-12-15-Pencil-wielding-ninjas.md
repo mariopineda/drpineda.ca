@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: Pencil wielding ninjas in the classroom  
-description: Can a pencil be more than just your average run of the mill pencil? The legendary Palomino Blackwing Pearl can take a student or teacher's writing to new heights. We have taken a batch of the Pearls for a spin and are blown away by how much writing and sketching can be transformed this unassuming pencil.
+description: Can a pencil be more than just your average run of the mill pencil? The legendary Palomino Blackwing Pearl can take a student or teacher's writing to new heights. We have taken a batch of the Pearls for a spin and are blown away by how much writing and sketching can be transformed by this unassuming pencil.
 modified: 2014-12-15
 category: 
 tags:
