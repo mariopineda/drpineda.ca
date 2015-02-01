@@ -8,13 +8,13 @@ image:
   feature: feature-textbooks.png
 ---
 
-<h1>Letting of STEAM</h1>
+<h1><em>Letting of STEAM</em> Assignment</h1>
 <p><em>Topics in Science, Technology, Engineering, Art and Mathematics</em></p>
 
-<p>All students will be making a number of presentations on 21st century events and/or newstories in STEAM throughout the school year. After being assigned a presentation date by your teacher write it down in your agenda and plan ahead for its arrival. It is your responsibility to be prepared to present when your date arrives. If you have a problem with the date you have been assigned, it is *your responsibility* to find a classmate to switch with and to notify your teacher of the switch so the class calendar can be updated. The list of presentation dates is avaliable here.</p>
+<p>All students will be making a number of presentations on STEAM topics throughout the school year. After being assigned a presentation date by your teacher write it down in your agenda and plan ahead for its arrival. It is your responsibility to be prepared to present when your date arrives. If you have a problem with the date you have been assigned, it is *your responsibility* to find a classmate to switch with and to notify your teacher of the switch so the class calendar can be updated. The list of presentation dates is avaliable <a href="#">here</a>.</p>
 
 <h2>Step 1: Finding a topic</h2>
-<p>Find a news item related to STEAM (Science, Technology, Engineering, Art or Mathematics) that was published and/or occured during the 21st century. Your news item has to relate to science and/or mathematics and has to be supported by one or several reputable online sources. See links below for examples of appropriate online sources.</p>
+<p>Find a topic related to STEAM (Science, Technology, Engineering, Art or Mathematics). The topic can be a recent news story, article or current/past research project. The topic has to relate to science and/or mathematics and has to be supported by one or several reputable online sources. See links below for examples of appropriate online sources.</p>
 	
 <p>Examples of approporiate (i.e. reputable) online sources:</p>
 * [ScienceNews](https://www.sciencenews.org/)
