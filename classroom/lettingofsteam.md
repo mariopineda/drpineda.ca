@@ -1,17 +1,16 @@
 ---
 layout: classroom-page
-permalink: /classroom/lettingofsteam.html
-title: Letting of STEAM
+permalink: /classroom/lettingoffsteam.html
+title: Letting off STEAM
 tagline:
 tags:
 image:
   feature: feature-textbooks.png
 ---
+<h1><em>Letting off STEAM</em> Assignment</h1>
+<p><em>Sharing Topics in Science, Technology, Engineering, Art and Mathematics</em></p>
 
-<h1><em>Letting of STEAM</em> Assignment</h1>
-<p><em>Topics in Science, Technology, Engineering, Art and Mathematics</em></p>
-
-<p>All students will be making a number of presentations on STEAM topics throughout the school year. After being assigned a presentation date by your teacher write it down in your agenda and plan ahead for its arrival. It is your responsibility to be prepared to present when your date arrives. If you have a problem with the date you have been assigned, it is *your responsibility* to find a classmate to switch with and to notify your teacher of the switch so the class calendar can be updated. The list of presentation dates is avaliable <a href="#">here</a>.</p>
+<p>All students will be making a number of presentations on STEAM (Science, Technology, Engineering, Art and Mathematics) topics throughout the school year. After being assigned a presentation date by your teacher write it down in your agenda and plan ahead for its arrival. It is your responsibility to be prepared to present when your date arrives. If you have a problem with the date you have been assigned, it is <strong>your responsibility</strong> to find a classmate to switch with and to notify your teacher of the switch so the class calendar can be updated. The list of presentation dates is avaliable <a href="https://docs.google.com/spreadsheets/d/1y_b_imhDCj5xEqRoVe2hgBfz0_gmdVjF0P1YJiA2gMk/edit?usp=sharing">here</a>.</p>
 
 <h2>Step 1: Finding a topic</h2>
 <p>Find a topic related to STEAM (Science, Technology, Engineering, Art or Mathematics). The topic can be a recent news story, article or current/past research project. The topic has to relate to science and/or mathematics and has to be supported by one or several reputable online sources. See links below for examples of appropriate online sources.</p>
@@ -58,6 +57,8 @@ image:
 * You will not have an opportunity to present your work to your class.
 * Your parents will be notified.
 * You are still responsible to complete the written work during recess and lunch detention. 
+
+<p>If you are absent from school on your presentation day you will present when you are back at school.</p>
 
 <h2>How to ask great questions</h2>
 ...
