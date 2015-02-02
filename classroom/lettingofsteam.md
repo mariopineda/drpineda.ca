@@ -13,7 +13,7 @@ image:
 <p>All students will be making a number of presentations on STEAM (Science, Technology, Engineering, Art and Mathematics) topics throughout the school year. After being assigned a presentation date by your teacher write it down in your agenda and plan ahead for its arrival. It is your responsibility to be prepared to present when your date arrives. If you have a problem with the date you have been assigned, it is <strong>your responsibility</strong> to find a classmate to switch with and to notify your teacher of the switch so the class calendar can be updated. The list of presentation dates is avaliable <a href="https://docs.google.com/spreadsheets/d/1y_b_imhDCj5xEqRoVe2hgBfz0_gmdVjF0P1YJiA2gMk/edit?usp=sharing">here</a>. You will be marked using <a href="lettingoffsteamrubric.pdf">the following rubric</a>.</p>
 
 <h2>Step 1: Finding a topic</h2>
-<p>Find a topic related to STEAM (Science, Technology, Engineering, Art or Mathematics). The topic must be clearly connected to STEAM, e.g. a news story, article or current/past research project, a biography of a person, discovery, notable award, or a discovery, invention or breakthrough. The topic has to be supported by one or several reputable online sources. See links below for examples of appropriate online sources.</p>
+<p>Find a topic related to STEAM (Science, Technology, Engineering, Art or Mathematics). The topic must be clearly connected to STEAM, e.g. a news story, article or current/past research project, a biography of a person, discovery, notable award, or a discovery, invention or breakthrough that is less than 6 months old. The topic has to be supported by one or several reputable online sources. See links below for examples of appropriate online sources.</p>
 	
 <p>Examples of appropriate (i.e. reputable) online sources:</p>
 * [ScienceNews](https://www.sciencenews.org/)
@@ -39,7 +39,7 @@ image:
 * A summary in 50-75 words based on the WHO, WHAT, WHERE, WHEN, WHY and HOW of the story.
 * A personal response in 50 - 75 words. Use this opportunity to express your personal opinions. Take a stance and support or disagree providing a rationale for your stance (i.e. "I agree/disagree with ... because ...").
 * Develop 5-7 questions to be used during your presentation to spark discussion. These questions should not be factual, quizzing your classmates. They should inspire your classmates to analyze the topic, create their own opinion about it and allow them to critically evaluate the facts.
-* The links (URLs) of your online sources.
+* The references to your online sources. You must use APA style.
 
 <p>Your summary and personal response has to include clear topic sentences and written using proper grammatics, spelling and punctuation.</p>
 	
