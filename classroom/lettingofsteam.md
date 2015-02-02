@@ -70,7 +70,7 @@ image:
 * Practice your presentation along and with an audience (parents, siblings, friends, etc.).
 
 <h2>Why the 'A' in STEAM?</h2>
-<p>Someone once said "Without mathematics there is no art". There are many examples of science and mathematics expressed through art as well as the art inspiring mathematics, engineering and science. Visual art has also historically played an important role in documenting and celebrating science and technological achievements. Here are just a few examples:</p>
+<p>Someone once said "Without mathematics there is no art". There are many examples of science and mathematics expressed through art as well as art inspiring mathematics, engineering and science. Visual art has also historically played an important role in documenting and celebrating science and technological achievements. Here are just a few examples:</p>
 * <a href="http://www.telusplanet.net/public/gdevries/">The mathematics of quilts</a>.
 * <a href="http://www.goldennumber.net/art-composition-design/">The Golden Ratio in Art and Design</a>.
 * The <a href="http://www.youraga.ca/about-us/the-building/">architectural design of the Art Gallery of Alberta</a> located in downtown Edmonton takes its insipration from the meandering North Saskatchewan River and the Northern Lights.
