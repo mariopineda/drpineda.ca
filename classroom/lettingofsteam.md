@@ -74,3 +74,5 @@ image:
 * <a href="http://www.telusplanet.net/public/gdevries/">The mathematics of quilts</a>.
 * <a href="http://www.goldennumber.net/art-composition-design/">The Golden Ratio in Art and Design</a>.
 * The <a href="http://www.youraga.ca/about-us/the-building/">architectural design of the Art Gallery of Alberta</a> located in downtown Edmonton takes its insipration from the meandering North Saskatchewan River and the Northern Lights.
+* <a href="http://islamic-arts.org/2011/medieval-islamic-mosaics-and-modern-maths/">Mathematical patterns in Islamic mosaics in mosques</a>.
+* <a href="http://www.nlm.nih.gov/exhibition/historicalanatomies/browse.html">Historical anatomical illustrations</a> by, e.g. <a href="http://www.bbc.com/news/magazine-17907305">Leonardo da Vinci</a>.
