@@ -34,14 +34,14 @@ image:
 	
 <h2>Step 2: Written response</h2>
 <p>Your written response to your story has to include the following:</p>
-* A summary in 50-75 words based on the WHO, WHAT, WHERE, AND WHEN, WHY, and HOW of the story.
+* A summary in 50-75 words based on the WHO, WHAT, WHERE, WHEN, WHY and HOW of the story.
 * A personal response in 50 - 75 words. Use this opportunity to express your personal opinions about your choosen story. Take a stance and support or disagree providing a rationale for your stance (i.e. "I agree/disagree with ... because ...").</p>
 * Develop 5-7 questions to be used during your presentation to spark discussion. These questions should not be factual, quizzing your classmates as to what happened in the story. They should inspire your classmates to analyze your story, create their own opinion about it and allow them to critically evaluate the facts.</p>
 * The links (URLs) of your online sources.
 
 <p>Your summary and personal response has to include clear topic sentences.</p>
 	
-<p>Your written response has to be submitted *before your presentation date* using the online form here.</p>
+<p>Your written response has to be submitted <strong>before your presentation date</strong> using the <a href="http://goo.gl/forms/JLpXzRqB6c">online form here</a>.</p>
 
 <h2>Step 3: Presentation</h2>
 <p>In your presentation you will summarize and critically evaluate your news item in your own words. Include only facts in your summary that you can support using one or several online sources. Discuss the WHO, WHAT, WHERE, AND WHEN, WHY, and HOW of the story.</p>
