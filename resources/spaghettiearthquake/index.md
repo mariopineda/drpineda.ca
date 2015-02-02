@@ -27,21 +27,23 @@ image:
 <p>Each team will get four tags with the role titles. When working on the project in-class each team member is required to wear the tag indicating their respective role.</p>
 
 <h2>Internet Research</h2>
-<p>Your team will be using the Internet to research information that could assist you in your project. You may use the websites listed in the web links section below, or you can conduct your own research. You should try to find websites that provide information on building structures that are able to withstand earthquakes or other natural disasters. Search for ideas that will help you engineer and design your structure.</p>
+<p>Your team will be using the Internet to research information that could assist you in your project. You should try to find websites that provide information on building structures that are able to withstand earthquakes or other natural disasters. Search for ideas that will help you engineer and design your structure.</p>
 
 <h2>Architectual drawing</h2>
 <p>Once you have researched about building safe structures it is time to draw up your blue print for the sky scraper. All group members will create a sketch using standard size 8½ by 11 inch graph paper. Your design should be strong yet flexible. Your actual structure must closely match your original blue print. Only minor changes will be allowed. Use your internet research in your design. Your team will present their sketches to each other, discuss each proposed designs benefits and disadvantages and vote on the sketch they want to use for their sky scraper. A large scale sketch will be created by your architect using the blue print paper. You will only receive the blue print paper after you have created a rough draft of your sketch. </p>
 
-<h2>Application for building permit</h2>
-<p>Once your architectual drawings are complete your team has to apply for a building permit buy submitting the drawings and a written report to the City's Chief Engineer (your teacher). Your architectual drawings have to be meticulously drawn (using a straight edge/ruler), to scale (the scale must be indicated), all measurements must be included, all details have to labelled and explained. The drawing must be easy to understand yet highly detailed. Your report has to explain all the features of the building and explain their functions. Links to relevant internet sites supporting the proposed design has to be included.</p>
+<h2>Building permit application</h2>
+<p>Once your architectual drawings are complete your team has to apply for a building permit buy submitting the drawings and a written building permit report to the City's Chief Engineer (your teacher). Your architectual drawings have to be meticulously drawn (using a straight edge/ruler), to scale (the scale must be indicated), all measurements must be included, all details have to labelled and explained. The drawing must be easy to understand yet highly detailed. Your building permit report has to list all the features of the building, explain their functions and include a cost estimate using a table listing all the materials you will need and their cost. Links to relevant internet sites supporting the proposed design has to be included.</p>
 
 <p>Your actual structure must closelly match your drawing. Only minor changes will be allowed during the building inspection. If you need to make major changes to your structure you need to revise your architectural drawings and apply for a new building permit.</p>
 
+<p>Your building permit application report has to be no more that one page in length, typed and printed. The report has to be written using proper English language, grammar, punctuation and spelling. Proper technical vocabulary is required (see textbook). A sloppy and incomplete buliding permit application will be denied forcing your team to resubmit a revised application and pay the application few again.</p>
+
 <h2>Structure Specifications</h2>
-<p>Your design has to be able to support an egg at the top of the structure. The bottom of the egg must be at least 40 cm above the table top. You will be building the structure on a square piece of cardboard. Your structure has to be attached to the cardboard base (by tape). Design carefully! Your structure has to be strong yet flexible. Use your Internet research in your design.</p> 
+<p>Your design has to be able to support an egg at the top of the structure. The bottom of the egg must be at least 40 cm above the table top. You will be building the structure on a square piece of cardboard. Your structure has to be attached to the cardboard base (by tape). Design carefully! Your structure has to be strong yet flexible. Use your Internet research in your design. Failure to follow specifications and your approved blue primt may result in a failed building inspection forcing your team to revise the structure and undergo another building inspection (including paying the fee again).</p> 
 
 <h2>Purchasing of materials</h2>
-<p>Purchase the materials needed for your structure. You must purchase all your materials from the Lizard Supply Company. Your treasurer must complete a purchase order and write a check for the amount of materials needed. Purchases can only be made during opening hours.</p>
+<p>Purchase the materials needed for your structure. You must purchase all your materials from <em>The Lizard & Mealworm Supply Company</em>. Your treasurer must complete a purchase order and write a check for the amount of materials needed. Purchases can only be made during opening hours.</p>
 
 <p>Note that the treasurer is responsible for keeping track of how much money is spent and how much money your team has left. Purchase order forms and checks will be provided by the banker (your teacher).</p>
 
@@ -65,12 +67,26 @@ image:
     <td>1875</td>
   </tr>
   <tr>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
+    <td>Feb 3</td>
+    <td>Building permitt application fee</td>
+    <td>200</td>
+    <td>-200</td>
+    <td>1675</td>
   </tr>
+  <tr>
+    <td>Feb 4</td>
+    <td>Deposit</td>
+    <td>1000</td>
+    <td>+1000</td>
+    <td>2675</td>
+  </tr> 
+  <tr>
+    <td>...</td>
+    <td>...</td>
+    <td>...</td>
+    <td>...</td>
+    <td>...</td>
+  </tr> 
 </table>
 
 <h2>Insurance</h2>
@@ -98,7 +114,7 @@ image:
 <h2>Presentation</h2>
 <p>Your team will make a presentation to the class prior to the final test (2-3 min). During the presentation the team has to provide a rationale for youyr chosen design, specifically why you think your design will support the egg and withstand the earthquake. You must provide the web addressess (URLs) of all the websites that you used for your final structure and presentation. During your presentation you must explain how the information provided helped you through your project and to design your project.</p>
 
-<h2>Report</h2>
+<h2>Final Report</h2>
 <p>The last part of this assignment is for each student to write an analytical report addressing the following questions:
 1. Describing your the structure your team built and provide explanations for the choice of design and the various features.
 2. Analyze the construction process. What went well and what mistakes were made. How can the construction process be improved.  
@@ -151,7 +167,7 @@ image:
 <p>A financial audit may be performed by the City's Chief Financial Officer (your teacher) at any time. During the fiancial audit the financial records of your team will be examined to ensure that they are complete and accurate. Discrepancies or errors that are discovered will result in a fine.</p>
 
 <h2>Project materials</h2>
-<p>The following material is avaliable for purchase from the Lizard Supply Company during openiong hours. The opening hours are the first 20 minutes of class time.</p>
+<p>The following material is avaliable for purchase from <em>The Lizard & Mealworm Supply</em> Company during openiong hours. The opening hours are the first 20 minutes of class time.</p>
 <table border="1" style="width:75%">
   <tr>
     <th>Product</th>
@@ -225,9 +241,6 @@ image:
   </tr>
 </table>
 
-<h2>Online Resources</h2>
-<p>The web sites below are intended as good starting points. These sites may provide information that is useful to you in your structure design. You may also wish to conduct your own online research. If you use the inforamtion from a website make sure to include it in your final report and include a description of what you learned from the website and how you used it in your project.</p>
-
 <h2>Grading</h2>
 <p>Your grade will be based on <a href="Spaghetti_Earthquake_Rubric.pdf">a grading rubric</a>. You should thoroughly review the grading rubric before you begin. Make sure you and your team mates understand what criteria will be used to determine the team's grade. Points can be deducted on an individual basis. These deductions will only affect the individual and not the entire team. Individuals may lose points on their score for the following:</p>
 
@@ -235,7 +248,7 @@ image:
 * Not staying in area with team/running around (-3)
 * Too Loud (-3)
 * Not participating with team (-5)
-* Disturbing other groups (-5)
+* Disturbing or interfering with other teams (-5)
 
 <p>After two incidents an individual will be removed from the activity and given a zero on the project. </p>
 
