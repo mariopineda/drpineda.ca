@@ -40,6 +40,8 @@ image:
 <p>Your written response has to include the following:</p>
 * A summary in 50-75 words based on the WHO, WHAT, WHERE, WHEN, WHY and HOW of the story.
 * A personal response in 50-75 words. Use this opportunity to express your personal opinions. Take a stance and support or disagree providing a rationale for your stance (i.e. "I agree/disagree with ... because ...").
+
+<p>If you are in grade 8 your written response also has to include the following:</p>
 * Develop 5-7 questions to be used during your presentation to spark discussion. These questions should not be factual, quizzing your classmates. They should inspire your classmates to analyze the topic, create their own opinion about it and allow them to critically evaluate the facts.
 * The references to your online sources. You must use APA style.
 
@@ -65,16 +67,13 @@ image:
 <p>If you are absent from school on your presentation day you will present when you are back at school.</p>
 
 <h2>Tips for acing your assignment</h2>
-* Do not read a script!
 * Familiarize yourself with the <a href="lettingoffsteamrubric.pdf">rubric</a>.
 * Start your online search early (at least one week before your presentation date, preferable even earlier).
 * Find more than one reputable online source.
 * If you are not sure if a source is "reputable"; ask your teacher (you may have to show your teacher the web site).
-* Do not read a script!
 * Make your story relevant. Why should we care? Why is this important? Connect your story to yourself and/or to Edmonton/Alberta/Canada.
 * Use visuals (map, picture, graph, diagram, white board, props, etc.). Videos and PowerPoint-style presentations are discouraged. If you have to use a video and/or PowerPoint-styled slides it will have to be preapproved by your teacher at least 1 week before your presentation date.
 * Practice your presentation alone and with an audience (parents, siblings, friends, etc.).
-* Do not read a script!
 * Make eye contact with and engage your audience during the presentation.
 
 <h2>Why the 'A' in STEAM?</h2>
