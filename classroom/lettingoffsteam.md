@@ -47,7 +47,7 @@ image:
 
 <p>Your summary and personal response has to include clear topic sentences and be written using proper grammatics, spelling and punctuation.</p>
 	
-<p>Your written response has to be submitted <strong>before your presentation date</strong>. Grade 8s submitt your written response using the <a href="http://goo.gl/forms/JLpXzRqB6c">following form</a> and grade 7s use <a href="http://goo.gl/forms/pL1GGxj5MC">this form</a>.</p>
+<p>Your written response has to be submitted <strong>before your presentation date</strong>. Grade 8s submit your written response using the <a href="http://goo.gl/forms/JLpXzRqB6c">following form</a> and grade 7s use <a href="http://goo.gl/forms/pL1GGxj5MC">this form</a>.</p>
 
 <h2>Step 3: Presentation</h2>
 <p>During your presentation you will summarize and critically evaluate the topic using your own words. Include only facts in your summary that you can support using one or several online sources. Discuss the WHO, WHAT, WHERE, AND WHEN, WHY and HOW of the story.</p>
