@@ -24,13 +24,11 @@ image:
 
 <p>Taking on any of the roles does not mean that you will do all the work. It means that you are in charge of that particular responsibility and can assign and delegate subtasks to other team members. For example, one of the responsibilities of the Technology Director is to manage the Internet Research. This means that the Technology Director has the authority to assign specific tasks of the online research to the other team members. It is the responsibility of the other team members to follow the directions of of the Technology Director and report back to him or her. </p>
 
-<p>Each team will get four tags with the role titles. When working on the project in-class each team member is required to wear the tag indicating their respective role.</p>
-
 <h2>Internet Research</h2>
 <p>Your team will be using the Internet to research information that could assist you in your project. You should try to find websites that provide information on building structures that are able to withstand earthquakes or other natural disasters. Search for ideas that will help you engineer and design your structure.</p>
 
 <h2>Architectual drawing</h2>
-<p>Once you have researched about building safe structures it is time to draw up your blue print for the sky scraper. All group members will create a sketch using standard size 8½ by 11 inch graph paper. Your design should be strong yet flexible. Your actual structure must closely match your original blue print. Only minor changes will be allowed. Use your internet research in your design. Your team will present their sketches to each other, discuss each proposed designs benefits and disadvantages and vote on the sketch they want to use for their sky scraper. A large scale sketch will be created by your architect using the blue print paper. You will only receive the blue print paper after you have created a rough draft of your sketch. </p>
+<p>Once you have researched about building safe structures it is time to draw up your blue print for the sky scraper. All group members will create a sketch using standard size 8½ by 11 inch graph paper. Your design should be strong yet flexible. Your actual structure must closely match your original blue print. Only minor changes will be allowed. Use your internet research in your design. Your team will present their sketches to each other, discuss each proposed designs benefits and disadvantages and vote on the sketch they want to use for their sky scraper. A large scale sketch will be created by your architect using the blue print paper (11 x 16 paper). </p>
 
 <h2>Building permit application</h2>
 <p>Once your architectual drawings are complete your team has to apply for a building permit buy submitting the drawings and a written building permit report to the City's Chief Engineer (your teacher). Your architectual drawings have to be meticulously drawn (using a straight edge/ruler), to scale (the scale must be indicated), all measurements must be included, all details have to labelled and explained. The drawing must be easy to understand yet highly detailed. Your building permit report has to list all the features of the building, explain their functions and include a cost estimate using a table listing all the materials you will need and their cost. Links to relevant internet sites supporting the proposed design has to be included.</p>
@@ -43,12 +41,12 @@ image:
 <p>Your design has to be able to support an egg at the top of the structure. The bottom of the egg must be at least 40 cm above the table top. You will be building the structure on a square piece of cardboard. Your structure has to be attached to the cardboard base (by tape). Design carefully! Your structure has to be strong yet flexible. Use your Internet research in your design. Failure to follow specifications and your approved blue primt may result in a failed building inspection forcing your team to revise the structure and undergo another building inspection (including paying the fee again).</p> 
 
 <h2>Purchasing of materials</h2>
-<p>Purchase the materials needed for your structure. You must purchase all your materials from <em>The Lizard & Mealworm Supply Company</em>. Your treasurer must complete a purchase order and write a check for the amount of materials needed. Purchases can only be made during opening hours.</p>
+<p>Purchase the materials needed for your structure. You must purchase all your materials from <em>The Lizard & Mealworm Supply Company</em>. Your treasurer must complete a purchase order. Purchases can only be made during opening hours (see below).</p>
 
-<p>Note that the treasurer is responsible for keeping track of how much money is spent and how much money your team has left. Purchase order forms and checks will be provided by the banker (your teacher).</p>
+<p>Note that the treasurer is responsible for keeping track of how much money is spent and how much money your team has left.</p>
 
 <h2>Budget</h2>
-<p>Your total budget for all materials is $4875. You may not exceed your budget. Your team will be given $1875 on the first day of the project, another $1000 will be deposited in your team's account on days 3, 5 and 6. You may not exceed your budget! Exceeding your budget during the construction will result in a NSF fine. If the projects ends up exceeding the budget at its completion this will result in a 10% deduction to the overall project grade for every $100 in overdraft. It is the treasurer's responsibility to keep accurate financial records and to always know excatly what your bank balance is. Failure to keep detailed and accurate records will result in fines.</p>
+<p>Your total budget for all materials is $4875. You may not exceed your budget. You may not exceed your budget! If the projects ends up exceeding the budget at its completion this will result in a 10% deduction to the overall project grade for every $100 in overdraft. It is the treasurer's responsibility to keep accurate financial records and to always know exactly what your bank balance is. Failure to keep detailed and accurate records will result in fines.</p>
 
 <p>Make a table like this to help you keep record:</p>
 <table border="1" style="width:75%">
@@ -68,17 +66,17 @@ image:
   </tr>
   <tr>
     <td>Feb 3</td>
-    <td>Building permitt application fee</td>
+    <td>Building permit application fee</td>
     <td>200</td>
     <td>-200</td>
     <td>1675</td>
   </tr>
   <tr>
     <td>Feb 4</td>
-    <td>Deposit</td>
-    <td>1000</td>
-    <td>+1000</td>
-    <td>2675</td>
+    <td>...</td>
+    <td>...</td>
+    <td>...</td>
+    <td>...</td>
   </tr> 
   <tr>
     <td>...</td>
@@ -92,7 +90,7 @@ image:
 <h2>Insurance</h2>
 <p>The materials you will be using are delicate and can easily be damaged during construction or while being stored. You have the option of purchasing an insurance policy to rotect you from catastrophic losses. The policy will allow you to purchase and additional $1500 of materials. The cost of the policy is $500.</p>
 
-<p>The insurance policy can be purchased from the Indian Stick Insect Insurance Corporation during the first day of the project. The insurance cannot be purchased after the first day.</p>
+<p>The insurance policy can be purchased from the <em>Indian Stick Insect Insurance Corporation</em> during the first day of the project. The insurance cannot be purchased after the first day.</p>
 
 <p>You may use the policy only in the event of a catastrophic loss (major damage). You cannot use the policy for minor breaks or loss of material. The Insurance Adjustor (your teacher) will assess the severity of the damage and determine if your team is elegible for compensation. Decisions made by the Adjustor are final!</p>
 
@@ -127,7 +125,7 @@ image:
 <table  border="1" style="width:75%">
   <tr>
     <td>Day 1:</td> 
-    <td>Go over assignment in detail in class and with team; assign teams. Only day insurance can be purchased. $1875 deposited in each teams' account.</td>
+    <td>Go over assignment in detail in class and with team; assign teams. Only day insurance can be purchased. $4875 deposited in each teams' account.</td>
   </tr>
   <tr>
     <td>Day 2:</td>
@@ -135,19 +133,19 @@ image:
   </tr>
   <tr>
     <td>Day 3:</td>
-    <td>Select sketch; work on official blue print and report; $1000 deposited in teams' accounts</td>
+    <td>Select sketch; work on official blue print and report</td>
   </tr>
   <tr>
     <td>Day 4:</td>
-    <td>Work on official blue print and report; apply for building permit; start construction; $1000 deposited in teams' accounts</td>
+    <td>Work on official blue print and report; apply for building permit; start construction</td>
   </tr>
   <tr>
     <td>Day 5:</td>
-    <td>Apply for building permit; if necessary, make modifications to blue prints and report; purchase material; start construction; $1000 deposited in teams' accounts</td>
+    <td>Apply for building permit; if necessary, make modifications to blue prints and report; purchase material; start constructions</td>
   </tr>
   <tr>
     <td>Day 6:</td>
-    <td>Construction and building inspection; $1000 deposited in teams' accounts</td>
+    <td>Construction and building inspection</td>
   </tr>
   <tr>
     <td>Day 7:</td>
@@ -213,15 +211,11 @@ image:
   </tr>
   <tr>	
     <td>Failing building inspection</td> 
-	<td>$500</td>
-  </tr>
-  <tr>
-    <td>NSF Fine</td> 
-	<td>$100</td>
+    <td>$500</td>
   </tr>
   <tr>
     <td>Bank balance statement</td> 
-	<td>$50</td>
+    <td>$50</td>
   </tr>
   <tr>
     <td>Financial Audit Fine</td> 
