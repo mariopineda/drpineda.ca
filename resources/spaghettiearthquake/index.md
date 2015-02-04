@@ -151,7 +151,7 @@ image:
   </tr>
   <tr>
     <td>Day 7:</td>
-    <td>Finish construction and building inspection</td>
+    <td>Finish construction and building inspection. Last day for purchases.</td>
   </tr>
   <tr>
     <td>Day 8:</td>
