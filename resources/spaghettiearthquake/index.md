@@ -232,7 +232,7 @@ image:
 </table>
 
 <h2>Grading</h2>
-<p>Your grade will be based on <a href="Spaghetti_Earthquake_Rubric.pdf">a grading rubric</a>. You should thoroughly review the grading rubric before you begin. Make sure you and your team mates understand what criteria will be used to determine the team's grade. Points can be deducted on an individual basis. These deductions will only affect the individual and not the entire team. Individuals may lose mark for the following infractions (see the <a href="Spaghetti_Earthquake_Rubric.pdf">grading rubric</a> for more details):</p>
+<p>Your grade will be based on <a href="SpaghettiEarthquakeNewRubric.pdf">a grading rubric</a>. You should thoroughly review the grading rubric before you begin. Make sure you and your team mates understand what criteria will be used to determine the team's grade. Points can be deducted on an individual basis. These deductions will only affect the individual and not the entire team. Individuals may lose mark for the following infractions (see the <a href="SpaghettiEarthquakeNewRubric.pdf">grading rubric</a> for more details):</p>
 
 * Horseplay/messing around 
 * Not staying in area with team/running around 
