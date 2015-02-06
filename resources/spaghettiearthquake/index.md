@@ -257,7 +257,9 @@ image:
 <p><a href="http://www.odec.ca/projects/2007/nart7r2/">Earthquake-proof Skyscrapers</a></p>
 <p><a href="http://www.nytimes.com/1989/10/19/us/the-california-quake-earthquake-engineering-why-the-skyscrapers-just-swayed.html">Why the Skyscraper Just Swayed</a></p>
 <p><a href="http://science.howstuffworks.com/engineering/structural/earthquake-resistant-buildings4.htm">How Earthquake-Resistant Building Work</a><p>
+<p><a href="http://kats.org/wp-content/uploads/2014/07/Spag_towers_instructions.pdf">Spaghetti Tower Instructions (not necessarily earthquake-proof)</a></p>
 <p><a href="http://imaginationstationtoledo.org/content/2011/03/can-you-build-an-earthquake-proof-building/">How Do You Build an Earthquake-proof Building</a></p> 
+<p><a href="http://www.whatimade.com/index.php/a-tall-spaghetti-and-marshmallow-tower/">Building Tall Spaghetti-Marshmallow Towers</a></p>
 	</div>
   </div><!-- /container -->
 
