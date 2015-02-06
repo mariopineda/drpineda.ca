@@ -1,13 +1,13 @@
 ---
 layout: classroom-page
 permalink: /resources/spaghettiearthquake/index.html
-title: Spaghetti Earthquake
+title: Spaghetti Earthquake Assignment
 tagline:
 tags:
 image:
   feature: feature-textbooks.png
 ---
-<h1>Spaghetti Earthquake</h1>
+<h1>Spaghetti Earthquake Assignment</h1>
 <p><em>"The Coolest Thing You Will Ever Do With Pasta"</em></p>
 <div class="row">
   <div class="col-md-8">
