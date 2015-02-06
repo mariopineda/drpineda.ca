@@ -186,8 +186,8 @@ image:
     <div class="col-md-4">
 	    <h3>Assignment Documents</h3>
 	    <p><a href="SpaghettiEarthquakeNewRubric.pdf">Marking Rubric</a></p>
-		<p>Purchase order</p>
-		<p>Accounting spreadsheet template</p>
+		<p><a href="PurchaseOrder.pdf">Purchase order</a></p>
+		<p><a href="AccountingTemplate.pdf">Accounting spreadsheet template</a></p>
 	  
 	  
 <h3>Timeline Overview</h3>
