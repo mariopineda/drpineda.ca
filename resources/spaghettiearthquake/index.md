@@ -188,8 +188,8 @@ image:
 	    <p><a href="SpaghettiEarthquakeNewRubric.pdf">Marking Rubric</a></p>
 		<p><a href="PurchaseOrder.pdf">Purchase order</a></p>
 		<p><a href="AccountingTemplate.pdf">Accounting spreadsheet template</a></p>
-	  
-	  
+		<p><a href="TeacherCribSheet.pdf">Teacher Record Sheet</a></p>
+  
 <h3>Timeline Overview</h3>
 <p>Use the following timeline to help you stay on track. Note that on most days only half the class time will be used for this assignment. Your are expected to work on reports and blueprints on your own time (outside of class) as well.</p> 
 
