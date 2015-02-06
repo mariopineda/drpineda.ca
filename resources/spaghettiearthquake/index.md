@@ -113,11 +113,13 @@ image:
 <h2>Grading</h2>
 <p>Your grade will be based on <a href="SpaghettiEarthquakeNewRubric.pdf">a grading rubric</a>. You should thoroughly review the grading rubric before you begin. Make sure you and your team mates understand what criteria will be used to determine the team's grade. Points can be deducted on an individual basis. These deductions will only affect the individual and not the entire team. Individuals may lose mark for the following infractions (see the <a href="SpaghettiEarthquakeNewRubric.pdf">grading rubric</a> for more details):</p>
 
-* Horseplay/messing around 
-* Not staying in area with team/running around 
-* Too Loud 
-* Not participating with team and/or ostracizing team members
-* Disturbing or interfering with other teams (incl. touching other team's construction materials)
+<ul>
+  <li>Horseplay/messing around</li>
+  <li>Not staying in area with team/running around </li>
+  <li>Too Loud </li>
+  <li>Not participating with team and/or ostracizing team members</li>
+  <li>Disturbing or interfering with other teams (incl. touching other team's construction materials)</li>
+</ul>
 
 <p>Two incidents will result in disqualification and the individual will be removed from the assignment and given a zero mark. </p>
   
@@ -247,6 +249,15 @@ image:
     </tr>
 </table>
 	  
+<h2>Online Resources</h2>
+<p><a href="http://www.pbs.org/wgbh/buildingbig/skyscraper/index.html">Building Big - Skyscrapers</a></p>
+<p><a href="http://www.reidsteel.com/information/earthquake_resistant_building.htm">Earthquake Resistant Buildings</a></p>
+<p><a href="http://nisee.berkeley.edu/bertero/">Earthquake Engineering</a></p>
+<p><a href="http://www.exploratorium.edu/faultline/index.html">Faultline - Seismic Science at the Epicente</a></p>
+<p><a href="http://www.odec.ca/projects/2007/nart7r2/">Earthquake-proof Skyscrapers</a></p>
+<p><a href="http://www.nytimes.com/1989/10/19/us/the-california-quake-earthquake-engineering-why-the-skyscrapers-just-swayed.html">Why the Skyscraper Just Swayed</a></p>
+<p><a href="http://science.howstuffworks.com/engineering/structural/earthquake-resistant-buildings4.htm">How Earthquake-Resistant Building Work</a><p>
+<p><a href="http://imaginationstationtoledo.org/content/2011/03/can-you-build-an-earthquake-proof-building/">How Do You Build an Earthquake-proof Building</a></p> 
 	</div>
   </div><!-- /container -->
 
