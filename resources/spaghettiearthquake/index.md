@@ -76,9 +76,9 @@ image:
     <tr>
       <td>Feb 1, 2014</td>
       <td>Initial deposit</td>
-      <td>1875</td>
-      <td>+1875</td>
-      <td>1875</td>
+      <td>4875</td>
+      <td>+4875</td>
+      <td>4875</td>
     </tr>
     <tr>
       <td>Feb 3</td>
