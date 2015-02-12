@@ -34,6 +34,8 @@ image:
 * [Phenomena - A science salon hosted by National Geographic Magazine](http://phenomena.nationalgeographic.com/)
 * [Field of Science](http://www.fieldofscience.com/)
 
+<p>Want more help finding STEAM stories? Check our Dr. Pineda's <a href="https://twitter.com/hashtag/drpinedalettingofsteam?src=hash">twitter stream of STEAM awesomness</a>?. Feel free to pick any of these stories if you find something that sparks your interest.</p>
+
 <p>While your topic can be based on scientific controversies, the opposing sides in the controversy have to be bona fide scientist (not quacks, which rules out most politicians, celebrities and journalists when it comes to providing accurate and unbiased science perspectives). "Fluff" topics are not acceptable. This includes (but is not limited to) the majority of viral stories/posts on social media, topics that do not have a clear and unambiguous scientific rationale (e.g. pseudoscientific and super-natural phenomena) and stories from tabloid web sites/magazines. If you are not sure of the veracity of a piece that you would like to use, get feedback from your teacher.</p>
 
 <h2>Step 2: Written response</h2>
