@@ -152,14 +152,16 @@ image:
 <p>All team members must participate in the construction process. The Project Manager is responsible for storage of the team's structure and materials in the assigned storage locations. Be careful not to waste or unneccessarily damage your materials. Clean up your area at the end of each class or your team may get fined. You may consider taking pictures of your structure during the construction process so you can include these in the final report.</p>
 
 <p>Construction Rules</p>
-1. Spaghetti sticks may not be broken into pieces smaller than 1 cm.
-1. Marshmallows must remain intact. They cannot be torn or broken into smaller pieces.
-1. Do not eat any of the building materials.
-1. You may not tape your egg to the structure
-1. You must only use the materials your team purchased from <em>The Lizard & Mealworm Supply Company</em>. You may not bring your own materials or use the materials from another team.
-1. You may not tape your structure to the earthquake machine.
-1. The cardboard board can only be used as a base and cannot be cut or pierced.
-1. You structure must be taped to the cardboard base.
+<ul>
+<li>Spaghetti sticks may not be broken into pieces smaller than 1 cm.</li>
+<li>Marshmallows must remain intact. They cannot be torn or broken into smaller pieces.</li>
+<li>Do not eat any of the building materials.</li>
+<li>You may not tape your egg to the structure.</li>
+<li>You must only use the materials your team purchased from <em>The Lizard & Mealworm Supply Company</em>. You may not bring your own materials or use the materials from another team.</li>
+<li>You may not tape your structure to the earthquake machine.</li>
+<li>The cardboard board can only be used as a base and cannot be cut or pierced.</li>
+<li>You structure must be taped to the cardboard base.</li>
+</ul>
   
 <h2>Step 6: Pass the Building Inspection</h2>
 <p>Once your structure is completed and before it can be tested on the shake table it has to pass a building inspection. During the building inspection your completed structure will be assessed and compared against the blueprints and the building permit report submitted as part of your building permit application. Your structure will also be inspected to ensure it complies with all the rules of the assignment. The team will be presented with a verbal report detailing recommended and required changes before passing the inspection. If there are any required changes the team will have to schedule a new building inspection (and pay the building inspection fee again) once the changes have been addressed.</p>
