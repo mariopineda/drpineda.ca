@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: #stuffthatonlyhappensinscienceclassrooms
+title: stuffthatonlyhappensinscienceclassrooms
 description: ...
 modified: 2015-03-29
 category: 
