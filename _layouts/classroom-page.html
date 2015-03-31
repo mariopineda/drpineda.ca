@@ -94,6 +94,12 @@
 		            </ul>
 		          </li>
 
+			      {% if page.title == "Videos" %}
+                    <li class="active"><a href="/classroom/videos.html">Videos</a></li>
+                  {% else %}
+                    <li><a href="/classroom/videos.html">Videos</a></li>
+                  {% endif %}
+
 			      {% if page.title == "Resources" %}
                     <li class="active"><a href="/classroom/resources.html">Resources</a></li>
                   {% else %}
