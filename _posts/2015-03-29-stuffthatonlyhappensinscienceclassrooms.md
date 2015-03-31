@@ -8,7 +8,7 @@ tags:
 - Biology
 featureimage: feature-beardeddragon2.jpg
 thumbnailimage: thumbnail-beardeddragon2.jpg
-permalink: new-classroom-tenant.html
+permalink: stuffthatonlyhappensinscienceclassrooms.html
 --- 
 <p>Science classrooms are unique learning environments unlike any other classrooms. As a matter of fact, some things only happen in science classrooms. Here is a collection of event that happened in my own science classroom over the last school year. It's a growing list, so check back for updates.</p>
 
