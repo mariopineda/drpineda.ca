@@ -7,6 +7,8 @@ Make the program/app/website you want to use.
 
 Overcoming challenges to meet your goals
 
+75% / 25% principle: In class you will lear 75% of what you need to know to do your project - you will need to go beyond the material in this class to learn the other 25% required to finish your project.
+
 ## Non-negotiable project parameters
 * 20% Fridays
 * Maintain your your entire project source (code, notes, slides, feedback, etc) in git and hosted on GitHub as a private repository.  
@@ -21,10 +23,17 @@ Overcoming challenges to meet your goals
 * You are required to do a commit (log note, code commit etc) and push your project repository to GitHub before the end of the class and you may be called on to give a 1 minute synopsis to the class about how you spend your time durign the Genius Hour.
 
 ## Milestones
-The due dates for the milestones are the absolutelly latest possible due date -  you are encouraged to create your own timeline with your own deadlines specific to your project within these time frames.
+The due dates for the milestones are hard deadlines and are the absolutelly latest possible acceptable due dates. Within these time frames you will create your own timeline with your own deadlines specific to your project.
 
 ### Pitch (Due: Oct 14)
-Class presentation using slides. Create your slides in markdown using the remark.js package. Use the provided slides templates by forking the pitch repository.
+Class presentation using slides. Create your slides in markdown using the remark.js package. Use the provided slides templates by forking the pitch repository. Your presentation should be between 2-4 minutes.
+
+Title slide: name of project, author(s)
+Aim: Synposis of the aim of the project
+Potential users:
+Tools: Software and hardware that will be required
+Challenges:
+Timeline:
 
 ### Proposal, version 1 (Due: Oct 28)
 
